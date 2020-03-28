@@ -1,0 +1,59 @@
+Time : 09:48:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Boulevard' 'lo que es básico en los espías es su capacidad de para pasar desap' at line 1
+Raw SQL : CALL insertar('sorprendete','','marquesina','José Laraudogoitia un espía vasco que pasó de agente nazi al FBI','jose.jpg','En palabras de Hodei Oliver en 'Boulevard' 'lo que es básico en los espías es su capacidad de para pasar desapercibido'. Mucho se ha hablado de que los aliados utilizaron a emigrantes vascos en Estados Unidos para pasar información en euskera burlando a los servicios de información nazis pero 'han desmontado el mito' aunque 'sí se utilizó a espías vascos durante la II Guerra Mundial' como en el caso de José Lauraudogoitia, de Urduliz, que 'empezó trabajando para los nazis y luego se pasó al FBI y ayudó a descubrir una de las redes de evasión nazi que había en latinoamérica'.
+
+','','Por otro lado hemos sabido que el M16, el servicio de inteligencia británico, ha puesto en marcha una campaña en los cines en busca de mujeres y personas de minorías étnicas que quieran ser formados como agentes.  Anuncios con los que esperan pasar de 2.500 a 3.500 agentes de aquí a 2.020.','','','','','','','','')
+
+Time : 09:42:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Boulevard' 'lo que es básico en los espías es su capacidad de para pasar desap' at line 1
+Raw SQL : CALL insertar('sorprendete','','marquesina','José Laraudogoitia un espía vasco que pasó de agente nazi al FBI','jose.jpg','En palabras de Hodei Oliver en 'Boulevard' 'lo que es básico en los espías es su capacidad de para pasar desapercibido'. Mucho se ha hablado de que los aliados utilizaron a emigrantes vascos en Estados Unidos para pasar información en euskera burlando a los servicios de información nazis pero 'han desmontado el mito' aunque 'sí se utilizó a espías vascos durante la II Guerra Mundial' como en el caso de José Lauraudogoitia, de Urduliz, que 'empezó trabajando para los nazis y luego se pasó al FBI y ayudó a descubrir una de las redes de evasión nazi que había en latinoamérica'.
+
+','','Por otro lado hemos sabido que el M16, el servicio de inteligencia británico, ha puesto en marcha una campaña en los cines en busca de mujeres y personas de minorías étnicas que quieran ser formados como agentes.  Anuncios con los que esperan pasar de 2.500 a 3.500 agentes de aquí a 2.020.','','','','','','','','')
+
+Time : 09:25:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '7 y un 99% de acierto, respectivamente”, señala Juan Carlos Nuñez.
+
+ 
+
+' at line 1
+Raw SQL : CALL insertar('tecnología','','marquesina','Máquinas ‘inteligentes’ reconocen la actividad humana a partir de una videograbación','vibracii¿on.jpg','El sistema desarrollado permite reconocer de manera automática actividades humanas y gestos de la mano, como atrapar, en imágenes grabadas con cámaras de profundidad. Los resultados obtenidos, publicados en la revista científica Pattern Recognition, son un paso más para conseguir que las máquinas entiendan mejor el comportamiento humano. “Las grabaciones, realizadas con cámaras tipo Kinect de Microsoft, nos proporcionan información 3D de la posición de las articulaciones de nuestro esqueleto”, explica Juan Carlos Nuñez, uno de los autores del estudio.
+
+ 
+
+','','Esta nueva tecnología puede encontrar múltiples aplicaciones en el la detección de actividades sospechosas en los sistemas automáticos de videovigilancia, en el etiquetado de la actividad que realiza un atleta en un evento deportivo o en el reconocimiento de la acción que está realizando una persona en un videojuego.
+
+ 
+
+ 
+
+','','Este trabajo forma parte de una línea de investigación en la que colaboran científicos de los grupos GAVAB (Grupo de Algoritmia aplicada a la Visión Artificial y Biometría) y CAPO (Computación de Altas Prestaciones y Optimización) de la URJC (España). Los avances logrados superan en algunos casos métodos ya existentes, alcanzando tasas de éxito que se aproximan al 100%. “Hemos realizado experimentos sobre las principales bases de prueba disponibles públicamente, como MSR Action3D, o UTKinect-Action3D, obteniendo un 95'7 y un 99% de acierto, respectivamente”, señala Juan Carlos Nuñez.
+
+ 
+
+
+ ','','Las herramientas empleadas para el diseño de esta nueva tecnología se basan en el uso de redes de neuronas artificiales. Estos sistemas consisten en modelos matemáticos que simulan algunos comportamientos de las redes neuronales biológicas como, por ejemplo, su capacidad de aprendizaje.
+','','','','')
+
+Time : 09:24:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '7 y un 99% de acierto, respectivamente”, señala Juan Carlos Nuñez.
+
+ 
+
+' at line 1
+Raw SQL : CALL insertar('ciencia','','marquesina','Máquinas ‘inteligentes’ reconocen la actividad humana a partir de una videograbación','vibracii¿on.jpg','El sistema desarrollado permite reconocer de manera automática actividades humanas y gestos de la mano, como atrapar, en imágenes grabadas con cámaras de profundidad. Los resultados obtenidos, publicados en la revista científica Pattern Recognition, son un paso más para conseguir que las máquinas entiendan mejor el comportamiento humano. “Las grabaciones, realizadas con cámaras tipo Kinect de Microsoft, nos proporcionan información 3D de la posición de las articulaciones de nuestro esqueleto”, explica Juan Carlos Nuñez, uno de los autores del estudio.
+
+ 
+
+','','Esta nueva tecnología puede encontrar múltiples aplicaciones en el la detección de actividades sospechosas en los sistemas automáticos de videovigilancia, en el etiquetado de la actividad que realiza un atleta en un evento deportivo o en el reconocimiento de la acción que está realizando una persona en un videojuego.
+
+ 
+
+ 
+
+','','Este trabajo forma parte de una línea de investigación en la que colaboran científicos de los grupos GAVAB (Grupo de Algoritmia aplicada a la Visión Artificial y Biometría) y CAPO (Computación de Altas Prestaciones y Optimización) de la URJC (España). Los avances logrados superan en algunos casos métodos ya existentes, alcanzando tasas de éxito que se aproximan al 100%. “Hemos realizado experimentos sobre las principales bases de prueba disponibles públicamente, como MSR Action3D, o UTKinect-Action3D, obteniendo un 95'7 y un 99% de acierto, respectivamente”, señala Juan Carlos Nuñez.
+
+ 
+
+
+ ','','Las herramientas empleadas para el diseño de esta nueva tecnología se basan en el uso de redes de neuronas artificiales. Estos sistemas consisten en modelos matemáticos que simulan algunos comportamientos de las redes neuronales biológicas como, por ejemplo, su capacidad de aprendizaje.
+','','','','')

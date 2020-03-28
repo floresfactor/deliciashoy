@@ -1,0 +1,14 @@
+Time : 20:26:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 07:35:07
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'jxcamxjbvwxuz' in 'where clause'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=jxcamxjbvwxuz
+
+Time : 05:38:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 05:31:37
+SQLSTATE[HY000] [2002] Connection timed out

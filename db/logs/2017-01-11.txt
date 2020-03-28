@@ -1,0 +1,54 @@
+Time : 21:08:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 21:08:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 21:07:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 21:07:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 06:53:28
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:52:26
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:52:23
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:51:52
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:51:24
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:51:02
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 05:26:00
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 05:25:43
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 05:25:21
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 05:23:23
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 05:22:53
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 05:22:50
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:33:10
+SQLSTATE[HY000] [2002] Connection timed out

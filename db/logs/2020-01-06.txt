@@ -1,0 +1,65 @@
+Time : 21:40:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 20:35:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 16:37:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 16:35:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 16:18:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 15:19:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 14:24:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 12:28:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 09:40:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ángeles blancos' por la vocación y la capacidad de servicio a los pacientes.
+' at line 1
+Raw SQL : CALL insertar('delicias','','titular5','Celebran su Día   enfermeras de Delicias con Misa de Acción de Gracias','dia de enfermeras.jpg','En el marco de la celebración por el Día de la Enfermera y Enfermero, esta  mañana de lunes se realizó una Misa de acción de gracias en el templo de San Antonio.
+','','La celebración religiosa tuvo lugar iniciando  a las 9 de la mañana de este 6 de enero en el templo que se ubica sobre las avenidas Séptima  y Río San Pedro del sector Norte frente a la Plaza de la Madre.
+
+
+','','El evento está a cargo  la enfermera general jubilada María de Los Angeles Salgado, quien tiene varios años organizándola para enaltecer  la labor de los 'ángeles blancos' por la vocación y la capacidad de servicio a los pacientes.
+','','De manera tradicional al término de la Misa, las enfermeras (os) se reúnen para tomarse la fotografía del recuerdo y un poco más tarde un convivio para festejar esta importante fecha. ( Manuel Garcia Dávila)
+
+','','','','')
+
+Time : 09:24:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ángeles blancos' por la vocación y la capacidad de servicio a los pacientes.
+' at line 1
+Raw SQL : CALL insertar('delicias','','titular2','Celebran su Día   enfermeras de Delicias con misa de Acción de Gracias','enfermeras.jpg','En el marco de la celebración por el Día de la Enfermera y Enfermero, esta  mañana de lunes se realizó una Misa de acción de gracias en el templo de San Antonio.
+','','La celebración religiosa tuvo lugar iniciando  a las 9 de la mañana de este 6 de enero en el templo que se ubica sobre las avenidas Séptima  y Río San Pedro del sector Norte frente a la Plaza de la Madre.
+
+','','El evento está a cargo  la enfermera general jubilada María de Los Angeles Salgado, quien tiene varios años organizándola para enaltecer  la labor de los 'ángeles blancos' por la vocación y la capacidad de servicio a los pacientes.
+
+','','De manera tradicional al término de la Misa, las enfermeras (os) se reúnen para tomarse la fotografía del recuerdo y un poco más tarde un convivio para festejar esta importante fecha. ( Manuel Garcia Dávila)
+','','','','')
+
+Time : 09:20:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ángeles blancos' por la vocación y la capacidad de servicio a los pacientes.
+' at line 1
+Raw SQL : CALL insertar('delicias','','titular2','Celebran su Día  a enfermeras de Delicias con misa de Acción de Gracias','enfermeras.jpg','En el marco de la celebración por el Día de la Enfermera y Enfermero, esta  mañana de lunes se realizó una Misa de acción de gracias en el templo de San Antonio.
+','','La celebración religiosa tuvo lugar iniciando  a las 9 de la mañana de este 6 de enero en el templo que se ubica sobre las avenidas Séptima  y Río San Pedro del sector Norte frente a la Plaza de la Madre.
+
+
+','','El evento está a cargo  la enfermera general jubilada María de Los Angeles Salgado, quien tiene varios años organizándola para enaltecer  la labor de los 'ángeles blancos' por la vocación y la capacidad de servicio a los pacientes.
+','','De manera tradicional al término de la Misa, las enfermeras (os) se reúnen para tomarse la fotografía del recuerdo y un poco más tarde un convivio para festejar esta importante fecha. ( Manuel Garcia Dávila)
+','','','','')

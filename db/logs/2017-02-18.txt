@@ -1,0 +1,5 @@
+Time : 04:59:27
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:59:11
+SQLSTATE[HY000] [2002] Connection timed out

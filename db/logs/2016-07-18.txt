@@ -1,0 +1,11 @@
+Time : 17:00:58
+SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+
+Time : 14:39:47
+SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+
+Time : 09:25:17
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 09:24:45
+SQLSTATE[HY000] [2002] Connection timed out

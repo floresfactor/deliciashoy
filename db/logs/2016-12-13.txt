@@ -1,0 +1,13 @@
+Time : 21:16:48
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 19:34:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''"' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=8632'"
+
+Time : 10:29:20
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'contact' in 'where clause'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=8518/contact-us.html
+
+Time : 04:24:14
+SQLSTATE[HY000] [2002] Connection timed out

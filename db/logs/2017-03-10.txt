@@ -1,0 +1,43 @@
+Time : 21:05:52
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 11:34:33
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 11:34:11
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 11:31:36
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 11:27:23
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:55:21
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:55:03
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:54:27
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:54:19
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:52:45
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:07:57
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:07:18
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:59:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 00:58:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://xypb:xypb2008@www.xypb.co.th./envi.php?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=ftp://xypb:xypb2008@www.xypb.co.th./envi.php?

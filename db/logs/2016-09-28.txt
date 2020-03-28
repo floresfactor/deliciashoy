@@ -1,0 +1,27 @@
+Time : 11:51:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 06:46:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' and '6'='5' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=2951' and '6'='5
+
+Time : 06:46:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' and '6'='6' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=2951' and '6'='6
+
+Time : 06:46:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=2951'
+
+Time : 06:43:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' and '6'='5' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=2951' and '6'='5
+
+Time : 06:43:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' and '6'='6' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=2951' and '6'='6
+
+Time : 06:43:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=2951'

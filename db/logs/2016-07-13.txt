@@ -1,0 +1,19 @@
+Time : 21:22:40
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+Raw SQL : SELECT * FROM noticias order by date desc limit 15
+
+Time : 05:32:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 05:03:55
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 05:03:24
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 05:02:50
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 05:02:17
+SQLSTATE[HY000] [2002] Connection timed out

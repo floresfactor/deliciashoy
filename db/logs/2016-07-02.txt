@@ -1,0 +1,11 @@
+Time : 15:22:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 07:50:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Xbox´, sistemas de audio y video, para la diversión de los menores.','','','',' at line 1
+Raw SQL : CALL insertar('delicias','','titular1','Gradúa D.A.R.E Chihuahua a 4 mil 500 alumnos de Ciudad Delicias ','gradua.jpg','Elementos del grupo D.A.R.E. de la Dirección de Seguridad Pública del Municipio de Chihuahua graduaron a 4 mil 500 alumnos de primaria y secundaria que participaron dentro de este programa preventivo en ciudad Delicias.','','Tras varias semanas de curso, en el cual estudiantes de primaria y secundaria de Delicias tuvieron ciclos de conferencias abordando las temáticas de prevención del delito, prevención de adicciones, bullyng, uso adecuado de los números de emergencias entre otros, se graduaron recibiendo sus respectivos reconocimientos de manos de los instructores del grupo D.A.R.E. Chihuahua.','','En esta ocasión los diplomas fueron entregados por el Policía 3° Omar Saldaña Collazo y el Agente Guillermo Navarro representando a la Dirección de Seguridad Pública Municipal de Chihuahua, así como la licenciada Claudia Margarita Hernández Valenzuela, coordinadora del Patronato D.A.R.E.','','Dentro del evento de graduación de los alumnos se llevaron a cabo actividades didácticas, para las cuales se llevó la unidad modificada con la que cuenta el grupo de D.A.R.E. Chihuahua la cual tiene adaptado un 'Xbox´, sistemas de audio y video, para la diversión de los menores.','','','','')
+
+Time : 02:45:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=5304'A=0

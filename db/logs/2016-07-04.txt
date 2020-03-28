@@ -1,0 +1,84 @@
+Time : 15:05:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'y magos, estafadores de la política”; publicada el 29 de enero de 2009, por e' at line 1
+Raw SQL : CALL insertarop('Don “Coco”:','
+
+         Permítame Usted, con la licencia que podrían darnos estos trances, responder a su misiva de días pasados sin atender al orden de su exposición. En primer lugar, me dirijo a Usted con su festivo apelativo en atención a que ignoro, de veras ignoro, su verdadero nombre. Tenía entendido que es “Leonel”, empero, visto que Usted públicamente se ostenta como “León” (y ahí está su Facebook que no me dejará mentir); en “Coco” lo dejamos, porque leoneles y leones hay muchos, pero “cocos”, pocos.
+
+ <p>
+
+        En segundo lugar, mi reflexión, como la suya (e igual de respetable), es una opinión personalísima; puedo -o no- estar equivocado, pero me parecía de importancia capital dejar sentado ese punto de vista relativo a la pertinencia (urgente) de una reforma político-electoral de fondo, necesaria para eliminar (o por lo menos atemperar) los estragos de lo que yo llamo un “sistema poroso” que permite el fraude electoral aun en nuestros días.
+<p>
+ 
+
+         No obstante, ése no es el punto. Como escribe Usted, ahora sí al tema: Si Usted lee bien su opinión -y luego lee bien la mía-, se podrá dar cuenta de que Usted, me imagino que a partir de esa “vieja afección cerebro vascular” (que al parecer le afecta no sólo a su ortografía y lenguaje deplorables), no se refirió “exclusivamente a la posibilidad de un fraude electoral en la casilla”; no señor; con todas sus letras, Usted escribió en esa colaboración: “Les guste o no México tiene uno de los mejores modelos en cuanto a se seguridad electoral”.1 Ésa es una afirmación genérica y tajante que no admite otras interpretaciones más que la literal; ahí dice lo que ahí se afirma. Miente pues Usted, o se equivoca, o se engaña, cuando afirma, ahora, que su opinión solamente estaba dirigida “a desestimar la impugnación presentada por el PRI, partido en el que milito, porque me parece que es una fantasía pensar y una tontería argumentar que en las casillas se ejecutó un fraude”; pues insisto, afirmaciones genéricas, hizo varias, empezando por esa joya de prestidigitación retórica que pretende deslindar al PRI del Salinismo, como si en su época no hubieran sido una y la misma cosa.
+<p>
+ 
+
+         En cambio, yo sí asumo que hice una afirmación genérica, a partir de la respetabilísima opinión particular suya, cuando señalo: “Lo que más daño le hace a este País es no decir las cosas como son; y emplear eufemismos tarados que sólo sirven para engañar incautos y aplazar lo que debería constituir un auténtico comienzo”; pues me parece preocupante, por decir lo menos, que un “especialista” -un “experto”, una leyenda en la materia electoral, como es Usted, muy alejado de ser un simple “gato asesor” (como humilde e inmerecidamente se autodefine)-, haga ese tipo de afirmaciones que hacen suponer que en este País solo faltan los demócratas “que honren el modelo” (Usted lo escribió) porque por lo demás “se terminó el sistema fraudulento electoral, pero eso no cambió a los actores, ni los hizo demócratas, se instauró un nuevo modelo pero también se heredaron, ahora como mitos y superchería, los términos del pasado (esto también Usted lo escribió).2 Lo que le recuerdo, no se vaya Usted a ofender, vista su vieja afección cerebro vascular.
+<p>
+ 
+
+         Ahora bien, no se trata de “animadversión” alguna; no se confunda ni se autoflagele, ni me llame a hurtadillas “fanático” o me compare con López Obrador (que tampoco tendría nada de malo si su fraseo pretendiera ser bienintencionado); ni piense que me provoca Usted algún sentimiento, entre ellos el de la repugnancia, no se “adorne”, no es para tanto; no señor, don “Coco”, su ortografía no me ofende; como no me ofende Usted en lo absoluto, es sólo que me parece muy, muy preocupante la opinión de un conocedor de la materia electoral que hace ese tipo de afirmaciones equívocas (que ahora pretenda desdecirse es otra cosa). 
+
+<p>
+Y no me vaya a salir, ahora, con ese tono de falsa modestia que campea en el escrito que por este medio le respondo: Es sólo que su fama le precede estrepitosa, clamorosamente casi, mire Usted: No hace tanto (2013), en algún medio local, pudo leerse: “Ahí está el nombre de Leonel ‘El Coco’ Reyes Castro, de la dinastía que se hizo famosa desde los ochentas en la entonces llamada alquimia electoral”;3 empero no se trata sólo de notas recientes, en la revista Proceso, en alguno de sus artículos con una antigüedad de más de 20 años, puede leerse también: “El operativo fraudulento, según la oposición, funcionó especialmente en esta capital y en Ciudad Juárez. […] Un examen de los resultados, casilla por casilla, permite a Proceso comprobar la eficacia del operativo priísta diseñado en el I distrito por Leonel Reyes Castro, ‘el coco’. Tal como lo anunció al reportero antes de las votaciones, sus cálculos aritméticos fueron exactos: la votación a favor del PRI se decidió en sólo ocho de las 109 casillas instaladas en el distrito;4 y el mismo medio informativo señalaría, tiempo después: “Las impugnaciones panistas carecieron de pruebas contundentes: había sido un “trabajo limpio” el que dio el triunfo al PRI. 
+<p>
+El autor de esta proeza fue Leonel Reyes Castro, El Coco, […] La clave, lo explicó él mismo, estuvo en ubicar a los simpatizantes del PRI, empadronarlos y llevarlos a votar el día de los comicios. ‘Hasta en el lomo los llevaría a votar’ confesó en aquella ocasión. […] Una vez impactado el padrón electoral con los nuevos votantes del PRI, consigue que se les entreguen oportunamente las credenciales de elector y programa la movilización de esos electores a las casillas el día de los comicios”;5 tres años después de esta nota, se daría cuenta puntual de su “trayectoria”: “Listo está el aparato de movilización electoral que permitirá al PRI, según sus dirigentes, ‘asegurar’ más de 430,000 votos en el estado.
+
+<p>
+ La maquinaria, que coordina Leonel Reyes Castro, El Coco, está basada en lo que él mismo ha definido como ‘ingeniería electoral’ […] Esta vez, dice El Coco Reyes, no habrá desayunos ni tamales Tampoco transporte. Cada promotor tendrá que visitar a sus ‘promovidos’ y llevarlos a votar a la casilla correspondiente”;6 en otra nota, ¡más de quince años después (2009)!, se lee: “El Coco es el hilo conductor de la familia de los Reyes Castro, donde también han cobrado fama y parte de la fama, sus hermanos David y, la también ex diputada federal, Gloria Xóchitl Reyes Castro, que se consolidaron como una especie de mito de la política, y a la que sumaría poco más tarde el agrónomo y más conocido como alquimista de la política: Cuauhtémoc Reyes Castro”;7 y apenas la semana pasada, otro informativo local apuntaba: “Es decir, detrás del recurso se presume tremendo maquiavelismo que ni siquiera alquimistas como El Coco Reyes, en la década de los ochentas, hubiera podido imaginar”;8 sólo por mencionar algunos medios que dan cuenta de sus “méritos” y destacada “trayectoria” de más de 30 años en el medio electoral.
+
+ <p>
+
+         Aprovecho la ocasión para agradecerle sus palabras de encomio; aclarándole que mi escrito de ningún modo pretendió aludirlo a Usted como individuo; es, lo reitero, la  legítima preocupación surgida a raíz de que alguien informado emita una opinión tan peligrosa, como es ésa de que sólo faltan los demócratas porque nuestro modelo electoral es ejemplar. En lo personal, coincido con la opinión de sus amigos con obra premiada que le han dicho, “olvídate de la política y dedícate a escribir”; mucho bien le haría a la Patria. Si así lo decide, le sugiero la lectura de José Rubén Romero, autor prolífico de obras entrañables como “La Vida Inútil de Pito Pérez”, “Rosenda”, “Desbandada”, etc., quien escribía también de manera muy ágil y amena, a partir de vivencias, sin recurrir a la vulgaridad excesiva (que fue, si no me equivoco, la crítica más personal a su escrito).
+
+ <p>
+
+         Le comento también que soy un lector, si no perspicaz sí escéptico, por lo que debo confesarle que no entendí su alusión a Dinorah y a su mamá; como sea, en lo poco que llegué a frecuentarla, Dinorah me causó una cálida y muy favorable impresión; por favor, salúdemela mucho y a su mamá también.
+
+ <p>
+
+         Le anticipo que en atención a su vieja afección cerebro vascular (mera precaución) no pienso volverme a ocupar de sus escritos, inmerso en mi universo de intereses, por lo que me reitero puntualmente a sus órdenes,
+
+ <p>
+
+Luis Villegas Montes.
+
+ <p>
+
+1
+
+<p> Énfasis añadido.
+<p>
+2 
+
+<p>
+Énfasis añadido.
+<p>
+3 
+
+<p>
+Editorial La Columna, publicado el Sábado 07 Diciembre 2013 por el periódico El Diario. Énfasis añadido.
+<p>
+4
+
+<p> Nota de Francisco Ortiz Pinchetti, con el título “Excluyeron del padrón a 80,000 votantes de chihuahua, donde el pri gano por 80,000 votos”; publicada el 16 de junio de 1988, por la revista Proceso. Énfasis añadido.
+<p>
+5
+
+<p>
+ Nota de la redacción, con el título “El secreto: el arreglo del padrón”; publicada el 24 de junio de 1989, por la revista Proceso. Énfasis añadido.
+<p>
+6
+<p>
+ Nota de Francisco Ortiz Pinchetti, con el título “El ejército azul, del PAN, frente a la ingeniería electoral del coco reyes”; publicada el 4 de julio de 1992, por la revista Proceso. Énfasis añadido.
+<p>
+7 
+<p>
+Editorial de Mario Héctor Silva, con el título “’Gurus' y magos, estafadores de la política”; publicada el 29 de enero de 2009, por el periódico El Mexicano. Énfasis añadido.
+<p>
+8
+<p>
+ Nota de la redacción, con el título: “Avientan la pelota electoral a Lorenzo Córdova *Fue la Operación Taco, dice el PRI *Riggs al récord Guinness con más de 200 mil votos *Otra queja de la Policía Única”; publicada el16 de junio de 2016, por el medio electrónico LaOpción. Énfasis añadido.
+<p>
+','Luis Villegas Montes.','LUIS VILLEGAS.jpg',NULL)

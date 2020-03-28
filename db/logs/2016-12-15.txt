@@ -1,0 +1,15 @@
+Time : 06:43:12
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:42:24
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:27:56
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 00:31:31
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 00:30:03
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+Raw SQL : SELECT * FROM noticias order by date desc limit 15

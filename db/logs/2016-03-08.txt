@@ -1,0 +1,80 @@
+Time : 12:29:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 11:22:25
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 11:22:08
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 11:21:53
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 11:21:50
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 11:21:19
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:38:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 01:17:54
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:17:33
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:07:17
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:05:52
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:05:22
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:04:52
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:04:22
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:03:00
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:02:31
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:02:22
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:02:01
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:02:01
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 01:01:30
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 00:59:41
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 00:57:44
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 00:57:12
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 00:47:49
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 00:44:36
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 00:14:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

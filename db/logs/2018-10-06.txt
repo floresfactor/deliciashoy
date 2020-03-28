@@ -1,0 +1,25 @@
+Time : 20:21:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'y Méndez (71) convirtieron por los celestes del entrenador portugués Pedro Cai' at line 1
+Raw SQL : CALL insertar('deportes','','marquesina','Cruz Azul derrota a Monterrey y recupera el liderato','cruz.jpg','La Máquina se impone por 2-1 con gol de Méndez y se vuelve a trepar a lo más alto de la tabla del Apertura 2018','','El español Édgar Méndez logró el gol que dio hoy al Cruz Azul una victoria por 2-1 sobre los Rayados de Monterrey con la que el equipo recuperó el liderato del torneo Apertura 2018 del fútbol mexicano.
+
+
+Elías Hernández (22') y Méndez (71) convirtieron por los celestes del entrenador portugués Pedro Caixhina que jugaron 66 minutos con un hombre mas en la cancha, mientras el mexicano César Montes (16) anotó por los Rayados.
+<p>
+El partido se desarrolló al comienzo en el centro del campo y sin peligro en las áreas, hasta que en el minuto 16 el colombiano Dorlán Pabón lanzó una falta que cabeceó Montes a la red.','','Los Azules buscaron el empate y lo lograron en el 22 cuando, tras una falta de Jesús Molina en el área, Elías Hernández lanzó el penalti.
+<p>
+Monterrey, que unos pocos minutos antes tenía todo a favor, quedó en el 24 con un hombre menos en el campo por la expulsión del argentino Rogelio Funes Mori, quien dio un codazo a un rival.
+','','Cruz Azul trató de sacar ventaja de la superioridad numérica, pero los Rayados se plantaron bien y lo más cerca al gol de los locales fue un disparo de Rafael Baca, detenido en el 38 por el portero Marcelo Barovero.
+<p>
+En la segunda parte, los Rayados del técnico uruguayo Diego Alonso jugaron sin complejos aún con un hombre menos y crearon algunas jugadas de peligro, como una llegada al área del colombiano Stefan Medina en el minuto 54 y, sobre todo, con un disparo de Pabón en el 58 que el portero Jesús Corona solventó por dos veces consecutivas.
+<p>
+El argentino Nicolás Sánchez cabeceó fuera en el lanzamiento de un córner en el minuto 70 en otra jugada de gol de los visitantes y los Azules respondieron con el tanto un minuto después. En la ejecución de una falta Adrián Aldrete lanzó un centro al área y Méndez convirtió de cabeza.
+<p>
+Después del gol Cruz Azul recuperó el dominio de la pelota y garantizó la victoria que puso al equipo de regreso en el primer lugar con ocho triunfos, dos empates, dos derrotas y 26 puntos con los que aseguró su pase a la liguilla de los ocho mejores.','','','','')
+
+Time : 11:48:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 10:26:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

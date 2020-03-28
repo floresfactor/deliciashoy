@@ -1,0 +1,29 @@
+Time : 15:39:28
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 15:38:01
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:10:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'levantaron', incidente que ocurre sólo 15 días después de la muerte del activ' at line 1
+Raw SQL : CALL insertar('estado','chihuahua','chihuahua3','Asesinan a otro activista indígena por gasolinazo','asesinan.jpg','Juan Ontiveros, de 32 años, iba en un vehículo con su hermano Isidro cuando sujetos armados lo 'levantaron', incidente que ocurre sólo 15 días después de la muerte del activista defensor de las zonas boscosas Isidro Baldenegro.
+
+','','Mientras cientos de agentes estatales desplegaban un operativo de vigilancia sobre los manifestantes contra el gasolinazo, ayer desconocidos levantaron a otro activista indígena de Choreachi, municipio de a Guadalupe y Calvo, quien este miércoles fue localizado sin vida.
+
+','','Juan Ontiveros Ramos, comisario de Policía de Choreachi, estuvo en la ciudad de Chihuahua donde se reunió con otros representantes indígenas de esa misma comunidad y de Coloradas de la Virgen, así como con autoridades de la Unidad de Derechos Humanos de la Secretaría de Gobernación y de la Fiscalía General del Estado, para denunciar la situación de su tierra y de su gente.
+
+','','Apenas han pasado 15 días del asesinato en ese mismo municipio de otro líder indígena de Coloradas de la Virgen, Isidro Baldenegro López, premio Goldman 2005, cuando sucede otro crimen más, confirmó la organización Alianza Sierra Madre.
+
+','','Juan Ontiveros, de 32 años, iba en un vehículo con su hermano Isidro cuando desconocidos los detuvieron en una brecha de la ranchería Los Flacos, golpearon a este último y se llevaron al activista.','','')
+
+Time : 07:09:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'levantaron', incidente que ocurre sólo 15 días después de la muerte del activ' at line 1
+Raw SQL : CALL insertar('estado','chihuahua','chihuahua3','Asesinan a otro activista indígena','asesinan.jpg','Juan Ontiveros, de 32 años, iba en un vehículo con su hermano Isidro cuando sujetos armados lo 'levantaron', incidente que ocurre sólo 15 días después de la muerte del activista defensor de las zonas boscosas Isidro Baldenegro.
+
+','','Mientras cientos de agentes estatales desplegaban un operativo de vigilancia sobre los manifestantes contra el gasolinazo, ayer desconocidos levantaron a otro activista indígena de Choreachi, municipio de a Guadalupe y Calvo, quien este miércoles fue localizado sin vida.
+
+','','Juan Ontiveros Ramos, comisario de Policía de Choreachi, estuvo en la ciudad de Chihuahua donde se reunió con otros representantes indígenas de esa misma comunidad y de Coloradas de la Virgen, así como con autoridades de la Unidad de Derechos Humanos de la Secretaría de Gobernación y de la Fiscalía General del Estado, para denunciar la situación de su tierra y de su gente.
+
+','','Apenas han pasado 15 días del asesinato en ese mismo municipio de otro líder indígena de Coloradas de la Virgen, Isidro Baldenegro López, premio Goldman 2005, cuando sucede otro crimen más, confirmó la organización Alianza Sierra Madre.
+
+','','Juan Ontiveros, de 32 años, iba en un vehículo con su hermano Isidro cuando desconocidos los detuvieron en una brecha de la ranchería Los Flacos, golpearon a este último y se llevaron al activista.','','')

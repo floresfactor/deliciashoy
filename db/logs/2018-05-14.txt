@@ -1,0 +1,14 @@
+Time : 11:11:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''A=0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11190'A=0
+
+Time : 09:44:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'divertía' en una cantina','resctab.jpg','Meoqui.- Agentes de la Policía Munici' at line 1
+Raw SQL : CALL insertar('delicias','','titular1','Rescatan a bebé de camioneta mientras su madre se 'divertía' en una cantina','resctab.jpg','Meoqui.- Agentes de la Policía Municipal rescataron esta madrugada a un bebé de tres meses que se encontraba encerrado en una camioneta, a las afueras de una cantina, mientras la madre se 'divertía' en una cantina consumiendo bebidas embriagantes. Debido al hecho, ya intervino el DIF Municipal.','','Los hechos se registraron a la 1:30 de la madrugada de este domingo cuando los agentes Víctor Manuel Ramírez y Antonio Noriega hacían un recorrido por las calles Degollado y Aldama y un testigo les informó del lamentable incidente.
+
+','','De inmediato los polipreventivos se abocaron a rescatar al menor y detener a quienes dijeron llamarse Merced, de 24 años de edad con domicilio en el municipio de Rosales, la cual es madre del niño y su acompañante, Jesús, de 25 años con domicilio en Julimes.
+
+','','El menor se encontraba en una camioneta Ford línea F-150, color blanco, y con la intervención de elementos del departamento de preención del delito de la DSPM, el bebé fue revisado por el doctor Mata y puesto a disposición del DIF municipal. Se informó que el niño estaba bien de salud.
+A su vez, el alcalde Ismael Pérez Pavía dijo que no iba a juzgar, pero dejó en  claro que en su municipio no se iba a poner en riesgo a ningún niño o niña.
+
+ ','','','','')

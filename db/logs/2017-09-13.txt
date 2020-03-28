@@ -1,0 +1,15 @@
+Time : 11:09:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://premielo:premielo@www.premieloftet.no/envi.php?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=ftp://premielo:premielo@www.premieloftet.no/envi.php?
+
+Time : 09:27:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://premielo:premielo@www.premieloftet.no/envi.php?' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=ftp://premielo:premielo@www.premieloftet.no/envi.php?
+
+Time : 03:49:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=4'
+
+Time : 01:58:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=4'

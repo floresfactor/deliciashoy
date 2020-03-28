@@ -1,0 +1,23 @@
+Time : 09:43:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Real Housewives of Beverly Hills', lo hiciera por ellos como una forma de cuidar' at line 1
+Raw SQL : CALL insertar('espectaculos','','marquesina','Matrimonio entre Paris Hilton y Chris Zylka sí tendrá contrato prenupcial ','matri.mx',' Hasta ahora Paris Hilton y su futuro esposo Chris Zylka habían sido capaces de controlar los rumores en torno a su mediático compromiso nupcial fueron ellos mismos quienes lo anunciaron a través de sus redes sociales y en las últimas semanas han adelantado algunos detalles del enlace.
+
+','','Por ejemplo, Paris usará más de un look en la recepción y que por supuesto, únicamente asistirán celebridades de la talla de Kim Kardashian y Nicole Richie.
+
+','','Al dar a conocer la existencia de un contrato prematrimonial, trámite muy habitual entre las celebridades antes de pasar por el altar, la pareja se ha sentido incómoda al tratarse de un tema personal y que la tía de la celebrité, Kyle Richards, mejor conocida por su participación en el reality 'Real Housewives of Beverly Hills', lo hiciera por ellos como una forma de cuidar la fortuna de Paris.
+
+','','"Cualquier caballero que esté a punto de casarse con una mujer empresaria millonaria y bien posicionada no sería un caballero si propusiera un contrato prematrimonial", aseguró Richards en respuesta al novio, frente a las cámaras de TMZ.','','','','')
+
+Time : 09:43:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Real Housewives of Beverly Hills', lo hiciera por ellos como una forma de cuidar' at line 1
+Raw SQL : CALL insertar('espectaculos','','marquesina','Matrimonio entre Paris Hilton y Chris Zylka sí tendrá contrato prenupcial ','matri.mx',' Hasta ahora Paris Hilton y su futuro esposo Chris Zylka habían sido capaces de controlar los rumores en torno a su mediático compromiso nupcial fueron ellos mismos quienes lo anunciaron a través de sus redes sociales y en las últimas semanas han adelantado algunos detalles del enlace.
+
+','','Por ejemplo, Paris usará más de un look en la recepción y que por supuesto, únicamente asistirán celebridades de la talla de Kim Kardashian y Nicole Richie.
+
+','','Al dar a conocer la existencia de un contrato prematrimonial, trámite muy habitual entre las celebridades antes de pasar por el altar, la pareja se ha sentido incómoda al tratarse de un tema personal y que la tía de la celebrité, Kyle Richards, mejor conocida por su participación en el reality 'Real Housewives of Beverly Hills', lo hiciera por ellos como una forma de cuidar la fortuna de Paris.
+
+','','"Cualquier caballero que esté a punto de casarse con una mujer empresaria millonaria y bien posicionada no sería un caballero si propusiera un contrato prematrimonial", aseguró Richards en respuesta al novio, frente a las cámaras de TMZ.','','','','')
+
+Time : 03:43:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

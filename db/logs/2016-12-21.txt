@@ -1,0 +1,45 @@
+Time : 22:53:57
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 16:11:22
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:35:28
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:35:19
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:34:41
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:34:33
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 13:34:11
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:39:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 07:15:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's.','','','','','','','','')' at line 1
+Raw SQL : CALL insertar('estado','juarez','chihuahua3','Hallan colmillo de perro en "burritos" de Juárez','colmillo.jpg','Un usuario de Facebook denunció a través de la red social el hallazgo de un ‘’colmillo’’ al parecer de un perro adentro de un burrito comprado en ‘Crisóstomo’ de la sucursal Paseo Triunfo, ubicado frente al Hospital de la Mujer.
+
+','','No es la primera vez que ciudadanos denuncian este tipo de acontecimientos, pues días pasados otro usuario compartió a través de un grupo de Facebook la fotografía de su ensalada la cual contenía una mosca muerta, esta fue comprada en una sucursal de Wendy's.','','','','','','','','')
+
+Time : 07:15:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's.','','','','','','','','')' at line 1
+Raw SQL : CALL insertar('estado','juarez','chihuahua3','Hallan colmillo de perro en "burritos" de Juárez','colmillo.jpg','Un usuario de Facebook denunció a través de la red social el hallazgo de un ‘’colmillo’’ al parecer de un perro adentro de un burrito comprado en ‘Crisóstomo’ de la sucursal Paseo Triunfo, ubicado frente al Hospital de la Mujer.
+
+','','No es la primera vez que ciudadanos denuncian este tipo de acontecimientos, pues días pasados otro usuario compartió a través de un grupo de Facebook la fotografía de su ensalada la cual contenía una mosca muerta, esta fue comprada en una sucursal de Wendy's.','','','','','','','','')
+
+Time : 05:09:13
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:27:30
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:26:59
+SQLSTATE[HY000] [2002] Connection timed out

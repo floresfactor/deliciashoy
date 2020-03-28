@@ -1,0 +1,1815 @@
+Time : 16:09:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND ELT(6281=6281,1858) AND ('%'='' ORDER BY date DESC LIMIT 1' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '10074%') AND ELT(6281=6281,1858) AND ('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:09:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND ELT(7737=5839,5839) AND ('%'='' ORDER BY date DESC LIMIT 1' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '10074%') AND ELT(7737=5839,5839) AND ('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:09:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND ELT(6281=6281,1858) AND "mcOR" LIKE "mcOR' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" AND ELT(6281=6281,1858) AND "mcOR" LIKE "mcOR
+
+Time : 16:09:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND ELT(5778=8186,8186) AND "pzux" LIKE "pzux' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" AND ELT(5778=8186,8186) AND "pzux" LIKE "pzux
+
+Time : 16:09:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND ELT(6281=6281,1858) AND ((("SqXx" LIKE "SqXx' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074"))) AND ELT(6281=6281,1858) AND ((("SqXx" LIKE "SqXx
+
+Time : 16:09:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND ELT(2585=6580,6580) AND ((("bKLI" LIKE "bKLI' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074"))) AND ELT(2585=6580,6580) AND ((("bKLI" LIKE "bKLI
+
+Time : 16:09:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND ELT(6281=6281,1858) AND (("nCIt" LIKE "nCIt' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) AND ELT(6281=6281,1858) AND (("nCIt" LIKE "nCIt
+
+Time : 16:09:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND ELT(2740=6212,6212) AND (("Ftez" LIKE "Ftez' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) AND ELT(2740=6212,6212) AND (("Ftez" LIKE "Ftez
+
+Time : 16:09:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND ELT(6281=6281,1858) AND ("qfhR" LIKE "qfhR' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") AND ELT(6281=6281,1858) AND ("qfhR" LIKE "qfhR
+
+Time : 16:09:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND ELT(9905=9572,9572) AND ("LhRw" LIKE "LhRw' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") AND ELT(9905=9572,9572) AND ("LhRw" LIKE "LhRw
+
+Time : 16:09:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND ELT(6281=6281,1858) AND "yAuO"="yAuO' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" AND ELT(6281=6281,1858) AND "yAuO"="yAuO
+
+Time : 16:09:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND ELT(6482=6264,6264) AND "QZjd"="QZjd' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" AND ELT(6482=6264,6264) AND "QZjd"="QZjd
+
+Time : 16:09:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND ELT(6281=6281,1858) AND ((("AmBN"="AmBN' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074"))) AND ELT(6281=6281,1858) AND ((("AmBN"="AmBN
+
+Time : 16:09:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND ELT(3404=3727,3727) AND ((("Rhub"="Rhub' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074"))) AND ELT(3404=3727,3727) AND ((("Rhub"="Rhub
+
+Time : 16:09:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND ELT(6281=6281,1858) AND (("nsHh"="nsHh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) AND ELT(6281=6281,1858) AND (("nsHh"="nsHh
+
+Time : 16:09:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND ELT(4223=5953,5953) AND (("XsJG"="XsJG' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) AND ELT(4223=5953,5953) AND (("XsJG"="XsJG
+
+Time : 16:09:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND ELT(6281=6281,1858) AND ("YIFA"="YIFA' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") AND ELT(6281=6281,1858) AND ("YIFA"="YIFA
+
+Time : 16:09:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND ELT(1759=4649,4649) AND ("nfEQ"="nfEQ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") AND ELT(1759=4649,4649) AND ("nfEQ"="nfEQ
+
+Time : 16:09:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND ELT(6281=6281,1858) AND 'LBvk' LIKE 'LBvk' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' AND ELT(6281=6281,1858) AND 'LBvk' LIKE 'LBvk
+
+Time : 16:09:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND ELT(5092=7948,7948) AND 'PIdL' LIKE 'PIdL' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' AND ELT(5092=7948,7948) AND 'PIdL' LIKE 'PIdL
+
+Time : 16:09:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND ELT(6281=6281,1858) AND ((('qmTE' LIKE 'qmTE' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074'))) AND ELT(6281=6281,1858) AND ((('qmTE' LIKE 'qmTE
+
+Time : 16:09:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND ELT(5641=5595,5595) AND ((('afsu' LIKE 'afsu' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074'))) AND ELT(5641=5595,5595) AND ((('afsu' LIKE 'afsu
+
+Time : 16:09:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND ELT(6281=6281,1858) AND (('WPiu' LIKE 'WPiu' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) AND ELT(6281=6281,1858) AND (('WPiu' LIKE 'WPiu
+
+Time : 16:09:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND ELT(9789=8842,8842) AND (('Wqth' LIKE 'Wqth' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) AND ELT(9789=8842,8842) AND (('Wqth' LIKE 'Wqth
+
+Time : 16:09:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND ELT(6281=6281,1858) AND ('uPUN' LIKE 'uPUN' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AND ELT(6281=6281,1858) AND ('uPUN' LIKE 'uPUN
+
+Time : 16:09:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND ELT(1498=2140,2140) AND ('WVUK' LIKE 'WVUK' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AND ELT(1498=2140,2140) AND ('WVUK' LIKE 'WVUK
+
+Time : 16:09:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND ELT(6281=6281,1858) AND 'tzbl'='tzbl' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' AND ELT(6281=6281,1858) AND 'tzbl'='tzbl
+
+Time : 16:08:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND ELT(2451=9216,9216) AND 'mNWl'='mNWl' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' AND ELT(2451=9216,9216) AND 'mNWl'='mNWl
+
+Time : 16:08:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND ELT(6281=6281,1858) AND ((('dQUv'='dQUv' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074'))) AND ELT(6281=6281,1858) AND ((('dQUv'='dQUv
+
+Time : 16:08:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND ELT(8154=5435,5435) AND ((('TAVo'='TAVo' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074'))) AND ELT(8154=5435,5435) AND ((('TAVo'='TAVo
+
+Time : 16:08:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND ELT(6281=6281,1858) AND (('QRGg'='QRGg' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) AND ELT(6281=6281,1858) AND (('QRGg'='QRGg
+
+Time : 16:08:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND ELT(3723=1169,1169) AND (('AOjO'='AOjO' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) AND ELT(3723=1169,1169) AND (('AOjO'='AOjO
+
+Time : 16:08:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND ELT(6281=6281,1858) AND ('ddkc'='ddkc' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AND ELT(6281=6281,1858) AND ('ddkc'='ddkc
+
+Time : 16:08:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND ELT(9556=4768,4768) AND ('qMYi'='qMYi' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AND ELT(9556=4768,4768) AND ('qMYi'='qMYi
+
+Time : 16:08:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND ELT(6281=6281,1858)-- zLhK' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" AND ELT(6281=6281,1858)-- zLhK
+
+Time : 16:08:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND ELT(8613=3021,3021)-- YHvn' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" AND ELT(8613=3021,3021)-- YHvn
+
+Time : 16:08:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND ELT(6281=6281,1858)-- UxcQ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' AND ELT(6281=6281,1858)-- UxcQ
+
+Time : 16:08:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND ELT(3635=5681,5681)-- GaFI' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' AND ELT(3635=5681,5681)-- GaFI
+
+Time : 16:08:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND ELT(6281=6281,1858)-- Ezvm' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AND ELT(6281=6281,1858)-- Ezvm
+
+Time : 16:08:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND ELT(9898=2864,2864)-- IRlB' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AND ELT(9898=2864,2864)-- IRlB
+
+Time : 16:08:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 7625=7625 AND ELT(6281=6281,1858)-- xVZr' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074`) WHERE 7625=7625 AND ELT(6281=6281,1858)-- xVZr
+
+Time : 16:08:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 9484=9484 AND ELT(6661=7218,7218)-- Thay' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074`) WHERE 9484=9484 AND ELT(6661=7218,7218)-- Thay
+
+Time : 16:08:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 7679=7679 AND ELT(6281=6281,1858)-- EJgA' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074` WHERE 7679=7679 AND ELT(6281=6281,1858)-- EJgA
+
+Time : 16:08:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 2428=2428 AND ELT(7122=5896,5896)-- KzhR' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074` WHERE 2428=2428 AND ELT(7122=5896,5896)-- KzhR
+
+Time : 16:08:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS XqwX WHERE 4126=4126 AND ELT(6281=6281,1858)-- rByf' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AS XqwX WHERE 4126=4126 AND ELT(6281=6281,1858)-- rByf
+
+Time : 16:08:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS XgIE WHERE 5227=5227 AND ELT(8821=2771,2771)-- bCLK' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AS XgIE WHERE 5227=5227 AND ELT(8821=2771,2771)-- bCLK
+
+Time : 16:08:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS gtAc WHERE 5747=5747 AND ELT(6281=6281,1858)-- oKVT' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) AS gtAc WHERE 5747=5747 AND ELT(6281=6281,1858)-- oKVT
+
+Time : 16:08:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS LGHx WHERE 4435=4435 AND ELT(3800=3852,3852)-- dvRv' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) AS LGHx WHERE 4435=4435 AND ELT(3800=3852,3852)-- dvRv
+
+Time : 16:08:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) AND ELT(6281=6281,1858) AND (((7470=7470' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074))) AND ELT(6281=6281,1858) AND (((7470=7470
+
+Time : 16:08:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) AND ELT(4098=3738,3738) AND (((4671=4671' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074))) AND ELT(4098=3738,3738) AND (((4671=4671
+
+Time : 16:08:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND ELT(6281=6281,1858) AND ((5973=5973' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) AND ELT(6281=6281,1858) AND ((5973=5973
+
+Time : 16:08:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND ELT(5503=1465,1465) AND ((6147=6147' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) AND ELT(5503=1465,1465) AND ((6147=6147
+
+Time : 16:08:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND ELT(6281=6281,1858) AND (4154=4154' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AND ELT(6281=6281,1858) AND (4154=4154
+
+Time : 16:08:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND ELT(1884=3144,3144) AND (5636=5636' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AND ELT(1884=3144,3144) AND (5636=5636
+
+Time : 16:08:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND ELT(6281=6281,1858)-- QqLi' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AND ELT(6281=6281,1858)-- QqLi
+
+Time : 16:08:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND ELT(5563=8943,8943)-- hoCR' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AND ELT(5563=8943,8943)-- hoCR
+
+Time : 16:08:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS Ccvc WHERE 2508=2508 OR MAKE_SET(4337=4337,6927)-- WlLp' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9205") AS Ccvc WHERE 2508=2508 OR MAKE_SET(4337=4337,6927)-- WlLp
+
+Time : 16:08:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS Bjnc WHERE 8300=8300 OR MAKE_SET(8697=1398,1398)-- onVO' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-5389") AS Bjnc WHERE 8300=8300 OR MAKE_SET(8697=1398,1398)-- onVO
+
+Time : 16:08:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS BsZU WHERE 2876=2876 OR MAKE_SET(4337=4337,6927)-- fZLF' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9593') AS BsZU WHERE 2876=2876 OR MAKE_SET(4337=4337,6927)-- fZLF
+
+Time : 16:08:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS BJsT WHERE 7047=7047 OR MAKE_SET(1531=9284,9284)-- ZVIE' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9447') AS BJsT WHERE 7047=7047 OR MAKE_SET(1531=9284,9284)-- ZVIE
+
+Time : 16:08:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS HfTW WHERE 3243=3243 OR MAKE_SET(4337=4337,6927)-- HpnX' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-8043")) AS HfTW WHERE 3243=3243 OR MAKE_SET(4337=4337,6927)-- HpnX
+
+Time : 16:08:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS WcQJ WHERE 5898=5898 OR MAKE_SET(4663=5104,5104)-- cDTq' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9428")) AS WcQJ WHERE 5898=5898 OR MAKE_SET(4663=5104,5104)-- cDTq
+
+Time : 16:08:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS SbBX WHERE 3071=3071 OR MAKE_SET(4337=4337,6927)-- mRDu' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9569')) AS SbBX WHERE 3071=3071 OR MAKE_SET(4337=4337,6927)-- mRDu
+
+Time : 16:08:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS UjmP WHERE 1081=1081 OR MAKE_SET(3524=3439,3439)-- TUju' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1543')) AS UjmP WHERE 1081=1081 OR MAKE_SET(3524=3439,3439)-- TUju
+
+Time : 16:08:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) OR MAKE_SET(4337=4337,6927) AND ((('%'='' ORDER BY date DESC LIMIT 1' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '-8348%'))) OR MAKE_SET(4337=4337,6927) AND ((('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:08:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) OR MAKE_SET(6545=6476,6476) AND ((('%'='' ORDER BY date DESC LIMIT 1' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '-2700%'))) OR MAKE_SET(6545=6476,6476) AND ((('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:08:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR MAKE_SET(4337=4337,6927) AND (('%'='' ORDER BY date DESC LIMIT 1' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '-1302%')) OR MAKE_SET(4337=4337,6927) AND (('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:08:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR MAKE_SET(5975=1341,1341) AND (('%'='' ORDER BY date DESC LIMIT 1' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '-8034%')) OR MAKE_SET(5975=1341,1341) AND (('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:08:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR MAKE_SET(4337=4337,6927) AND ('%'='' ORDER BY date DESC LIMIT 1' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '-2724%') OR MAKE_SET(4337=4337,6927) AND ('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:08:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR MAKE_SET(2042=6835,6835) AND ('%'='' ORDER BY date DESC LIMIT 1' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '-5989%') OR MAKE_SET(2042=6835,6835) AND ('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:08:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR MAKE_SET(4337=4337,6927) AND "DeRC" LIKE "DeRC' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-4125" OR MAKE_SET(4337=4337,6927) AND "DeRC" LIKE "DeRC
+
+Time : 16:08:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR MAKE_SET(2828=7668,7668) AND "Dant" LIKE "Dant' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9277" OR MAKE_SET(2828=7668,7668) AND "Dant" LIKE "Dant
+
+Time : 16:08:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR MAKE_SET(4337=4337,6927) AND ((("Chtc" LIKE "Chtc' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3144"))) OR MAKE_SET(4337=4337,6927) AND ((("Chtc" LIKE "Chtc
+
+Time : 16:08:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR MAKE_SET(3104=6845,6845) AND ((("dNBw" LIKE "dNBw' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6169"))) OR MAKE_SET(3104=6845,6845) AND ((("dNBw" LIKE "dNBw
+
+Time : 16:08:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR MAKE_SET(4337=4337,6927) AND (("SQmj" LIKE "SQmj' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-8401")) OR MAKE_SET(4337=4337,6927) AND (("SQmj" LIKE "SQmj
+
+Time : 16:08:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR MAKE_SET(7070=5728,5728) AND (("AyyG" LIKE "AyyG' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1207")) OR MAKE_SET(7070=5728,5728) AND (("AyyG" LIKE "AyyG
+
+Time : 16:08:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR MAKE_SET(4337=4337,6927) AND ("nKTU" LIKE "nKTU' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3224") OR MAKE_SET(4337=4337,6927) AND ("nKTU" LIKE "nKTU
+
+Time : 16:08:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR MAKE_SET(8927=4455,4455) AND ("pJmB" LIKE "pJmB' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-2653") OR MAKE_SET(8927=4455,4455) AND ("pJmB" LIKE "pJmB
+
+Time : 16:08:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR MAKE_SET(4337=4337,6927) AND "GbYe"="GbYe' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-2915" OR MAKE_SET(4337=4337,6927) AND "GbYe"="GbYe
+
+Time : 16:08:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR MAKE_SET(7703=6999,6999) AND "MquZ"="MquZ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-2600" OR MAKE_SET(7703=6999,6999) AND "MquZ"="MquZ
+
+Time : 16:08:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR MAKE_SET(4337=4337,6927) AND ((("QISY"="QISY' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1547"))) OR MAKE_SET(4337=4337,6927) AND ((("QISY"="QISY
+
+Time : 16:08:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR MAKE_SET(4936=5440,5440) AND ((("enhV"="enhV' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9720"))) OR MAKE_SET(4936=5440,5440) AND ((("enhV"="enhV
+
+Time : 16:08:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR MAKE_SET(4337=4337,6927) AND (("DOsl"="DOsl' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3910")) OR MAKE_SET(4337=4337,6927) AND (("DOsl"="DOsl
+
+Time : 16:08:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR MAKE_SET(1911=6705,6705) AND (("xEcn"="xEcn' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-4306")) OR MAKE_SET(1911=6705,6705) AND (("xEcn"="xEcn
+
+Time : 16:08:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR MAKE_SET(4337=4337,6927) AND ("jIil"="jIil' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7870") OR MAKE_SET(4337=4337,6927) AND ("jIil"="jIil
+
+Time : 16:08:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR MAKE_SET(9395=7645,7645) AND ("JXcb"="JXcb' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7250") OR MAKE_SET(9395=7645,7645) AND ("JXcb"="JXcb
+
+Time : 16:08:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR MAKE_SET(4337=4337,6927) AND 'bpqu' LIKE 'bpqu' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-5629' OR MAKE_SET(4337=4337,6927) AND 'bpqu' LIKE 'bpqu
+
+Time : 16:08:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR MAKE_SET(5956=5982,5982) AND 'BDrF' LIKE 'BDrF' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7205' OR MAKE_SET(5956=5982,5982) AND 'BDrF' LIKE 'BDrF
+
+Time : 16:08:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR MAKE_SET(4337=4337,6927) AND ((('dHQO' LIKE 'dHQO' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-2625'))) OR MAKE_SET(4337=4337,6927) AND ((('dHQO' LIKE 'dHQO
+
+Time : 16:08:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR MAKE_SET(6367=8116,8116) AND ((('jBvh' LIKE 'jBvh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7254'))) OR MAKE_SET(6367=8116,8116) AND ((('jBvh' LIKE 'jBvh
+
+Time : 16:08:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR MAKE_SET(4337=4337,6927) AND (('aDBZ' LIKE 'aDBZ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-2184')) OR MAKE_SET(4337=4337,6927) AND (('aDBZ' LIKE 'aDBZ
+
+Time : 16:08:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR MAKE_SET(7115=9541,9541) AND (('dHjD' LIKE 'dHjD' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-4740')) OR MAKE_SET(7115=9541,9541) AND (('dHjD' LIKE 'dHjD
+
+Time : 16:08:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR MAKE_SET(4337=4337,6927) AND ('VFJT' LIKE 'VFJT' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-4250') OR MAKE_SET(4337=4337,6927) AND ('VFJT' LIKE 'VFJT
+
+Time : 16:08:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR MAKE_SET(7934=6706,6706) AND ('Cadp' LIKE 'Cadp' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1019') OR MAKE_SET(7934=6706,6706) AND ('Cadp' LIKE 'Cadp
+
+Time : 16:08:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR MAKE_SET(4337=4337,6927) AND 'prvR'='prvR' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-8238' OR MAKE_SET(4337=4337,6927) AND 'prvR'='prvR
+
+Time : 16:08:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR MAKE_SET(9024=7729,7729) AND 'RoRi'='RoRi' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-4002' OR MAKE_SET(9024=7729,7729) AND 'RoRi'='RoRi
+
+Time : 16:08:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR MAKE_SET(4337=4337,6927) AND ((('DKHO'='DKHO' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-5595'))) OR MAKE_SET(4337=4337,6927) AND ((('DKHO'='DKHO
+
+Time : 16:08:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR MAKE_SET(1662=8557,8557) AND ((('GDFN'='GDFN' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9662'))) OR MAKE_SET(1662=8557,8557) AND ((('GDFN'='GDFN
+
+Time : 16:08:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR MAKE_SET(4337=4337,6927) AND (('nZem'='nZem' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6287')) OR MAKE_SET(4337=4337,6927) AND (('nZem'='nZem
+
+Time : 16:08:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR MAKE_SET(7177=4758,4758) AND (('ITRz'='ITRz' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6134')) OR MAKE_SET(7177=4758,4758) AND (('ITRz'='ITRz
+
+Time : 16:08:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR MAKE_SET(4337=4337,6927) AND ('yPCk'='yPCk' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9479') OR MAKE_SET(4337=4337,6927) AND ('yPCk'='yPCk
+
+Time : 16:08:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR MAKE_SET(7166=9825,9825) AND ('FrLT'='FrLT' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7031') OR MAKE_SET(7166=9825,9825) AND ('FrLT'='FrLT
+
+Time : 16:08:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR MAKE_SET(4337=4337,6927)-- lZPG' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6704" OR MAKE_SET(4337=4337,6927)-- lZPG
+
+Time : 16:08:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR MAKE_SET(1391=8805,8805)-- gDRN' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1608" OR MAKE_SET(1391=8805,8805)-- gDRN
+
+Time : 16:08:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR MAKE_SET(4337=4337,6927)-- xQxX' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3782' OR MAKE_SET(4337=4337,6927)-- xQxX
+
+Time : 16:08:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR MAKE_SET(6401=1151,1151)-- UPEy' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-8288' OR MAKE_SET(6401=1151,1151)-- UPEy
+
+Time : 16:08:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR MAKE_SET(4337=4337,6927)-- IxST' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6760') OR MAKE_SET(4337=4337,6927)-- IxST
+
+Time : 16:08:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR MAKE_SET(7706=4214,4214)-- iUoy' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7311') OR MAKE_SET(7706=4214,4214)-- iUoy
+
+Time : 16:08:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS qqMP WHERE 1662=1662 OR MAKE_SET(4337=4337,6927)-- sdAJ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3033) AS qqMP WHERE 1662=1662 OR MAKE_SET(4337=4337,6927)-- sdAJ
+
+Time : 16:08:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS TxoH WHERE 2307=2307 OR MAKE_SET(8364=7287,7287)-- vsYe' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6464) AS TxoH WHERE 2307=2307 OR MAKE_SET(8364=7287,7287)-- vsYe
+
+Time : 16:08:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS gjtC WHERE 8751=8751 OR MAKE_SET(4337=4337,6927)-- ravP' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1833)) AS gjtC WHERE 8751=8751 OR MAKE_SET(4337=4337,6927)-- ravP
+
+Time : 16:08:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS yRsS WHERE 9699=9699 OR MAKE_SET(5716=8577,8577)-- wqMd' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-2715)) AS yRsS WHERE 9699=9699 OR MAKE_SET(5716=8577,8577)-- wqMd
+
+Time : 16:07:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) OR MAKE_SET(4337=4337,6927) AND (((7426=7426' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9802))) OR MAKE_SET(4337=4337,6927) AND (((7426=7426
+
+Time : 16:07:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) OR MAKE_SET(5925=4979,4979) AND (((7567=7567' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6929))) OR MAKE_SET(5925=4979,4979) AND (((7567=7567
+
+Time : 16:07:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR MAKE_SET(4337=4337,6927) AND ((1598=1598' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-8535)) OR MAKE_SET(4337=4337,6927) AND ((1598=1598
+
+Time : 16:07:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR MAKE_SET(4838=7648,7648) AND ((3159=3159' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9039)) OR MAKE_SET(4838=7648,7648) AND ((3159=3159
+
+Time : 16:07:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR MAKE_SET(4337=4337,6927) AND (3408=3408' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7868) OR MAKE_SET(4337=4337,6927) AND (3408=3408
+
+Time : 16:07:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR MAKE_SET(5609=4829,4829) AND (3760=3760' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1173) OR MAKE_SET(5609=4829,4829) AND (3760=3760
+
+Time : 16:07:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR MAKE_SET(4337=4337,6927)-- lWve' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7619) OR MAKE_SET(4337=4337,6927)-- lWve
+
+Time : 16:07:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR MAKE_SET(8808=8738,8738)-- yfbH' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1499) OR MAKE_SET(8808=8738,8738)-- yfbH
+
+Time : 16:07:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' IN BOOLEAN MODE) AND MAKE_SET(1026=1026,8693)#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' IN BOOLEAN MODE) AND MAKE_SET(1026=1026,8693)#
+
+Time : 16:07:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' IN BOOLEAN MODE) AND MAKE_SET(1404=8146,8146)#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' IN BOOLEAN MODE) AND MAKE_SET(1404=8146,8146)#
+
+Time : 16:07:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS ltnp WHERE 8518=8518 AND MAKE_SET(1026=1026,8693)-- LmIo' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") AS ltnp WHERE 8518=8518 AND MAKE_SET(1026=1026,8693)-- LmIo
+
+Time : 16:07:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS dzpV WHERE 6925=6925 AND MAKE_SET(4925=3020,3020)-- BXxe' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") AS dzpV WHERE 6925=6925 AND MAKE_SET(4925=3020,3020)-- BXxe
+
+Time : 16:07:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS ZeYP WHERE 2197=2197 AND MAKE_SET(1026=1026,8693)-- yHhI' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AS ZeYP WHERE 2197=2197 AND MAKE_SET(1026=1026,8693)-- yHhI
+
+Time : 16:07:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS bdcq WHERE 3733=3733 AND MAKE_SET(2867=5839,5839)-- IJOs' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AS bdcq WHERE 3733=3733 AND MAKE_SET(2867=5839,5839)-- IJOs
+
+Time : 16:07:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS pSrJ WHERE 3465=3465 AND MAKE_SET(1026=1026,8693)-- EpmS' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) AS pSrJ WHERE 3465=3465 AND MAKE_SET(1026=1026,8693)-- EpmS
+
+Time : 16:07:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS CTrk WHERE 8927=8927 AND MAKE_SET(1983=6412,6412)-- rnPk' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) AS CTrk WHERE 8927=8927 AND MAKE_SET(1983=6412,6412)-- rnPk
+
+Time : 16:07:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS UpzQ WHERE 3245=3245 AND MAKE_SET(1026=1026,8693)-- AuqM' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) AS UpzQ WHERE 3245=3245 AND MAKE_SET(1026=1026,8693)-- AuqM
+
+Time : 16:07:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS dUmA WHERE 9863=9863 AND MAKE_SET(6848=9975,9975)-- sRjm' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) AS dUmA WHERE 9863=9863 AND MAKE_SET(6848=9975,9975)-- sRjm
+
+Time : 16:07:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) AND MAKE_SET(1026=1026,8693) AND ((('%'='' ORDER BY date DESC LIMIT 1' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '10074%'))) AND MAKE_SET(1026=1026,8693) AND ((('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:07:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) AND MAKE_SET(1770=8399,8399) AND ((('%'='' ORDER BY date DESC LIMIT 1' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '10074%'))) AND MAKE_SET(1770=8399,8399) AND ((('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:07:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND MAKE_SET(1026=1026,8693) AND (('%'='' ORDER BY date DESC LIMIT 1' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '10074%')) AND MAKE_SET(1026=1026,8693) AND (('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:07:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND MAKE_SET(6882=6056,6056) AND (('%'='' ORDER BY date DESC LIMIT 1' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '10074%')) AND MAKE_SET(6882=6056,6056) AND (('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:07:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND MAKE_SET(1026=1026,8693) AND ('%'='' ORDER BY date DESC LIMIT 1' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '10074%') AND MAKE_SET(1026=1026,8693) AND ('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:07:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND MAKE_SET(3941=8490,8490) AND ('%'='' ORDER BY date DESC LIMIT 1' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '10074%') AND MAKE_SET(3941=8490,8490) AND ('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:07:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND MAKE_SET(1026=1026,8693) AND "daWJ" LIKE "daWJ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" AND MAKE_SET(1026=1026,8693) AND "daWJ" LIKE "daWJ
+
+Time : 16:07:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND MAKE_SET(6072=4039,4039) AND "hIfz" LIKE "hIfz' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" AND MAKE_SET(6072=4039,4039) AND "hIfz" LIKE "hIfz
+
+Time : 16:07:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND MAKE_SET(1026=1026,8693) AND ((("SUWd" LIKE "SUWd' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074"))) AND MAKE_SET(1026=1026,8693) AND ((("SUWd" LIKE "SUWd
+
+Time : 16:07:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND MAKE_SET(2890=1011,1011) AND ((("TYLH" LIKE "TYLH' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074"))) AND MAKE_SET(2890=1011,1011) AND ((("TYLH" LIKE "TYLH
+
+Time : 16:07:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND MAKE_SET(1026=1026,8693) AND (("ufrZ" LIKE "ufrZ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) AND MAKE_SET(1026=1026,8693) AND (("ufrZ" LIKE "ufrZ
+
+Time : 16:07:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND MAKE_SET(6041=5716,5716) AND (("Ttcq" LIKE "Ttcq' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) AND MAKE_SET(6041=5716,5716) AND (("Ttcq" LIKE "Ttcq
+
+Time : 16:07:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND MAKE_SET(1026=1026,8693) AND ("pAzP" LIKE "pAzP' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") AND MAKE_SET(1026=1026,8693) AND ("pAzP" LIKE "pAzP
+
+Time : 16:07:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND MAKE_SET(2517=6596,6596) AND ("ePim" LIKE "ePim' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") AND MAKE_SET(2517=6596,6596) AND ("ePim" LIKE "ePim
+
+Time : 16:07:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND MAKE_SET(1026=1026,8693) AND "YJwc"="YJwc' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" AND MAKE_SET(1026=1026,8693) AND "YJwc"="YJwc
+
+Time : 16:07:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND MAKE_SET(3248=4050,4050) AND "gBTQ"="gBTQ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" AND MAKE_SET(3248=4050,4050) AND "gBTQ"="gBTQ
+
+Time : 16:07:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND MAKE_SET(1026=1026,8693) AND ((("QjAY"="QjAY' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074"))) AND MAKE_SET(1026=1026,8693) AND ((("QjAY"="QjAY
+
+Time : 16:07:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND MAKE_SET(4020=3819,3819) AND ((("wqlz"="wqlz' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074"))) AND MAKE_SET(4020=3819,3819) AND ((("wqlz"="wqlz
+
+Time : 16:07:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND MAKE_SET(1026=1026,8693) AND (("NOtV"="NOtV' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) AND MAKE_SET(1026=1026,8693) AND (("NOtV"="NOtV
+
+Time : 16:07:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND MAKE_SET(7637=7136,7136) AND (("mHyB"="mHyB' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) AND MAKE_SET(7637=7136,7136) AND (("mHyB"="mHyB
+
+Time : 16:07:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND MAKE_SET(1026=1026,8693) AND ("jOZV"="jOZV' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") AND MAKE_SET(1026=1026,8693) AND ("jOZV"="jOZV
+
+Time : 16:07:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND MAKE_SET(7097=8853,8853) AND ("Cclh"="Cclh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") AND MAKE_SET(7097=8853,8853) AND ("Cclh"="Cclh
+
+Time : 16:07:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND MAKE_SET(1026=1026,8693) AND 'fbyj' LIKE 'fbyj' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' AND MAKE_SET(1026=1026,8693) AND 'fbyj' LIKE 'fbyj
+
+Time : 16:07:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND MAKE_SET(1787=5447,5447) AND 'wEPr' LIKE 'wEPr' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' AND MAKE_SET(1787=5447,5447) AND 'wEPr' LIKE 'wEPr
+
+Time : 16:07:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND MAKE_SET(1026=1026,8693) AND ((('XNIa' LIKE 'XNIa' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074'))) AND MAKE_SET(1026=1026,8693) AND ((('XNIa' LIKE 'XNIa
+
+Time : 16:07:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND MAKE_SET(9644=3694,3694) AND ((('Bmkb' LIKE 'Bmkb' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074'))) AND MAKE_SET(9644=3694,3694) AND ((('Bmkb' LIKE 'Bmkb
+
+Time : 16:07:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND MAKE_SET(1026=1026,8693) AND (('iUTl' LIKE 'iUTl' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) AND MAKE_SET(1026=1026,8693) AND (('iUTl' LIKE 'iUTl
+
+Time : 16:07:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND MAKE_SET(7314=7534,7534) AND (('RTaS' LIKE 'RTaS' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) AND MAKE_SET(7314=7534,7534) AND (('RTaS' LIKE 'RTaS
+
+Time : 16:07:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND MAKE_SET(1026=1026,8693) AND ('pMfT' LIKE 'pMfT' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AND MAKE_SET(1026=1026,8693) AND ('pMfT' LIKE 'pMfT
+
+Time : 16:07:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND MAKE_SET(5800=2682,2682) AND ('kkvp' LIKE 'kkvp' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AND MAKE_SET(5800=2682,2682) AND ('kkvp' LIKE 'kkvp
+
+Time : 16:07:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND MAKE_SET(1026=1026,8693) AND 'gbXj'='gbXj' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' AND MAKE_SET(1026=1026,8693) AND 'gbXj'='gbXj
+
+Time : 16:07:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND MAKE_SET(2526=1453,1453) AND 'utVK'='utVK' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' AND MAKE_SET(2526=1453,1453) AND 'utVK'='utVK
+
+Time : 16:07:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND MAKE_SET(1026=1026,8693) AND ((('YVDS'='YVDS' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074'))) AND MAKE_SET(1026=1026,8693) AND ((('YVDS'='YVDS
+
+Time : 16:07:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND MAKE_SET(9847=4272,4272) AND ((('kOeQ'='kOeQ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074'))) AND MAKE_SET(9847=4272,4272) AND ((('kOeQ'='kOeQ
+
+Time : 16:07:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND MAKE_SET(1026=1026,8693) AND (('YlsV'='YlsV' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) AND MAKE_SET(1026=1026,8693) AND (('YlsV'='YlsV
+
+Time : 16:07:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND MAKE_SET(3904=4520,4520) AND (('UBkX'='UBkX' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) AND MAKE_SET(3904=4520,4520) AND (('UBkX'='UBkX
+
+Time : 16:07:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND MAKE_SET(1026=1026,8693) AND ('OZvr'='OZvr' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AND MAKE_SET(1026=1026,8693) AND ('OZvr'='OZvr
+
+Time : 16:07:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND MAKE_SET(2331=7811,7811) AND ('jKGE'='jKGE' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AND MAKE_SET(2331=7811,7811) AND ('jKGE'='jKGE
+
+Time : 16:07:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND MAKE_SET(1026=1026,8693)-- Cqfz' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" AND MAKE_SET(1026=1026,8693)-- Cqfz
+
+Time : 16:07:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND MAKE_SET(5342=4039,4039)-- uybD' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" AND MAKE_SET(5342=4039,4039)-- uybD
+
+Time : 16:07:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND MAKE_SET(1026=1026,8693)-- fOmg' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' AND MAKE_SET(1026=1026,8693)-- fOmg
+
+Time : 16:07:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND MAKE_SET(3185=3569,3569)-- ewLo' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' AND MAKE_SET(3185=3569,3569)-- ewLo
+
+Time : 16:07:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND MAKE_SET(1026=1026,8693)-- SjxK' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AND MAKE_SET(1026=1026,8693)-- SjxK
+
+Time : 16:07:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND MAKE_SET(8715=7451,7451)-- jAOS' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AND MAKE_SET(8715=7451,7451)-- jAOS
+
+Time : 16:07:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 1078=1078 AND MAKE_SET(1026=1026,8693)-- GMJq' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074`) WHERE 1078=1078 AND MAKE_SET(1026=1026,8693)-- GMJq
+
+Time : 16:07:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 4819=4819 AND MAKE_SET(5165=4404,4404)-- gdVq' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074`) WHERE 4819=4819 AND MAKE_SET(5165=4404,4404)-- gdVq
+
+Time : 16:07:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 9686=9686 AND MAKE_SET(1026=1026,8693)-- qJQN' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074` WHERE 9686=9686 AND MAKE_SET(1026=1026,8693)-- qJQN
+
+Time : 16:07:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 5471=5471 AND MAKE_SET(7626=1010,1010)-- gCwM' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074` WHERE 5471=5471 AND MAKE_SET(7626=1010,1010)-- gCwM
+
+Time : 16:07:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS HgGr WHERE 9179=9179 AND MAKE_SET(1026=1026,8693)-- AghD' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AS HgGr WHERE 9179=9179 AND MAKE_SET(1026=1026,8693)-- AghD
+
+Time : 16:07:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS otZT WHERE 1817=1817 AND MAKE_SET(2174=5397,5397)-- tYIq' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AS otZT WHERE 1817=1817 AND MAKE_SET(2174=5397,5397)-- tYIq
+
+Time : 16:07:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS hkWM WHERE 8812=8812 AND MAKE_SET(1026=1026,8693)-- ORvE' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) AS hkWM WHERE 8812=8812 AND MAKE_SET(1026=1026,8693)-- ORvE
+
+Time : 16:07:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS PulH WHERE 5887=5887 AND MAKE_SET(5725=3912,3912)-- zyhZ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) AS PulH WHERE 5887=5887 AND MAKE_SET(5725=3912,3912)-- zyhZ
+
+Time : 16:07:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) AND MAKE_SET(1026=1026,8693) AND (((8171=8171' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074))) AND MAKE_SET(1026=1026,8693) AND (((8171=8171
+
+Time : 16:07:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) AND MAKE_SET(3683=7436,7436) AND (((8750=8750' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074))) AND MAKE_SET(3683=7436,7436) AND (((8750=8750
+
+Time : 16:07:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND MAKE_SET(1026=1026,8693) AND ((6182=6182' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) AND MAKE_SET(1026=1026,8693) AND ((6182=6182
+
+Time : 16:07:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND MAKE_SET(3404=5113,5113) AND ((4061=4061' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) AND MAKE_SET(3404=5113,5113) AND ((4061=4061
+
+Time : 16:07:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND MAKE_SET(1026=1026,8693) AND (7648=7648' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AND MAKE_SET(1026=1026,8693) AND (7648=7648
+
+Time : 16:07:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND MAKE_SET(3331=5746,5746) AND (7040=7040' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AND MAKE_SET(3331=5746,5746) AND (7040=7040
+
+Time : 16:07:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND MAKE_SET(1026=1026,8693)-- xBbr' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AND MAKE_SET(1026=1026,8693)-- xBbr
+
+Time : 16:07:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND MAKE_SET(4314=5020,5020)-- mfwP' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AND MAKE_SET(4314=5020,5020)-- mfwP
+
+Time : 16:07:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' IN BOOLEAN MODE) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' IN BOOLEAN MODE) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END))#
+
+Time : 16:07:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' IN BOOLEAN MODE) RLIKE (SELECT (CASE WHEN (6643=2894) THEN 10074 ELSE 0x28 END' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' IN BOOLEAN MODE) RLIKE (SELECT (CASE WHEN (6643=2894) THEN 10074 ELSE 0x28 END))#
+
+Time : 16:07:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS LzTc WHERE 5298=5298 RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") AS LzTc WHERE 5298=5298 RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END))-- YDva
+
+Time : 16:07:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS stXf WHERE 1230=1230 RLIKE (SELECT (CASE WHEN (9428=6594) THEN 10074 ELSE ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") AS stXf WHERE 1230=1230 RLIKE (SELECT (CASE WHEN (9428=6594) THEN 10074 ELSE 0x28 END))-- IbVX
+
+Time : 16:07:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS fuvn WHERE 7852=7852 RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AS fuvn WHERE 7852=7852 RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END))-- XhSN
+
+Time : 16:07:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS erzN WHERE 8293=8293 RLIKE (SELECT (CASE WHEN (1883=5408) THEN 10074 ELSE ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AS erzN WHERE 8293=8293 RLIKE (SELECT (CASE WHEN (1883=5408) THEN 10074 ELSE 0x28 END))-- MnrB
+
+Time : 16:07:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS oXuI WHERE 4726=4726 RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) AS oXuI WHERE 4726=4726 RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END))-- tqeE
+
+Time : 16:07:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS wBnC WHERE 8833=8833 RLIKE (SELECT (CASE WHEN (4284=5996) THEN 10074 ELSE' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) AS wBnC WHERE 8833=8833 RLIKE (SELECT (CASE WHEN (4284=5996) THEN 10074 ELSE 0x28 END))-- Ypmn
+
+Time : 16:07:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS oMGf WHERE 4694=4694 RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) AS oMGf WHERE 4694=4694 RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END))-- BViR
+
+Time : 16:07:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS ckQC WHERE 2359=2359 RLIKE (SELECT (CASE WHEN (7743=6252) THEN 10074 ELSE' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) AS ckQC WHERE 2359=2359 RLIKE (SELECT (CASE WHEN (7743=6252) THEN 10074 ELSE 0x28 END))-- tUyi
+
+Time : 16:06:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ((('%'='' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '10074%'))) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ((('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:06:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) RLIKE (SELECT (CASE WHEN (6178=5817) THEN 10074 ELSE 0x28 END)) AND ((('%'='' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '10074%'))) RLIKE (SELECT (CASE WHEN (6178=5817) THEN 10074 ELSE 0x28 END)) AND ((('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:06:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND (('%'='' ' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '10074%')) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND (('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:06:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) RLIKE (SELECT (CASE WHEN (8917=3315) THEN 10074 ELSE 0x28 END)) AND (('%'='' ' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '10074%')) RLIKE (SELECT (CASE WHEN (8917=3315) THEN 10074 ELSE 0x28 END)) AND (('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:06:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ('%'='' OR' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '10074%') RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:06:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') RLIKE (SELECT (CASE WHEN (9669=1921) THEN 10074 ELSE 0x28 END)) AND ('%'='' OR' at line 1
+Raw SQL : SELECT * FROM noticias WHERE id = '10074%') RLIKE (SELECT (CASE WHEN (9669=1921) THEN 10074 ELSE 0x28 END)) AND ('%'='' ORDER BY date DESC LIMIT 1
+
+Time : 16:06:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND "zpem" LIK' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND "zpem" LIKE "zpem
+
+Time : 16:06:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" RLIKE (SELECT (CASE WHEN (7414=6298) THEN 10074 ELSE 0x28 END)) AND "xDSu" LIK' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" RLIKE (SELECT (CASE WHEN (7414=6298) THEN 10074 ELSE 0x28 END)) AND "xDSu" LIKE "xDSu
+
+Time : 16:06:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ((("NGQ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074"))) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ((("NGQI" LIKE "NGQI
+
+Time : 16:06:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) RLIKE (SELECT (CASE WHEN (3510=8796) THEN 10074 ELSE 0x28 END)) AND ((("UsI' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074"))) RLIKE (SELECT (CASE WHEN (3510=8796) THEN 10074 ELSE 0x28 END)) AND ((("UsIy" LIKE "UsIy
+
+Time : 16:06:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND (("SquE"' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND (("SquE" LIKE "SquE
+
+Time : 16:06:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) RLIKE (SELECT (CASE WHEN (9893=5519) THEN 10074 ELSE 0x28 END)) AND (("AjQx"' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) RLIKE (SELECT (CASE WHEN (9893=5519) THEN 10074 ELSE 0x28 END)) AND (("AjQx" LIKE "AjQx
+
+Time : 16:06:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ("EIrE" L' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ("EIrE" LIKE "EIrE
+
+Time : 16:06:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") RLIKE (SELECT (CASE WHEN (6651=8429) THEN 10074 ELSE 0x28 END)) AND ("nfwh" L' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") RLIKE (SELECT (CASE WHEN (6651=8429) THEN 10074 ELSE 0x28 END)) AND ("nfwh" LIKE "nfwh
+
+Time : 16:06:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND "Fbiv"="Fb' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND "Fbiv"="Fbiv
+
+Time : 16:06:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" RLIKE (SELECT (CASE WHEN (3729=8469) THEN 10074 ELSE 0x28 END)) AND "dCzr"="dC' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" RLIKE (SELECT (CASE WHEN (3729=8469) THEN 10074 ELSE 0x28 END)) AND "dCzr"="dCzr
+
+Time : 16:06:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ((("OTR' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074"))) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ((("OTRw"="OTRw
+
+Time : 16:06:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) RLIKE (SELECT (CASE WHEN (8985=5903) THEN 10074 ELSE 0x28 END)) AND ((("UEt' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074"))) RLIKE (SELECT (CASE WHEN (8985=5903) THEN 10074 ELSE 0x28 END)) AND ((("UEtX"="UEtX
+
+Time : 16:06:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND (("HhFM"' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND (("HhFM"="HhFM
+
+Time : 16:06:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) RLIKE (SELECT (CASE WHEN (9148=2802) THEN 10074 ELSE 0x28 END)) AND (("qrkw"' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) RLIKE (SELECT (CASE WHEN (9148=2802) THEN 10074 ELSE 0x28 END)) AND (("qrkw"="qrkw
+
+Time : 16:06:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ("GiUw"="' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ("GiUw"="GiUw
+
+Time : 16:06:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") RLIKE (SELECT (CASE WHEN (9804=1388) THEN 10074 ELSE 0x28 END)) AND ("PAnH"="' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") RLIKE (SELECT (CASE WHEN (9804=1388) THEN 10074 ELSE 0x28 END)) AND ("PAnH"="PAnH
+
+Time : 16:06:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND 'bMuu' LIK' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND 'bMuu' LIKE 'bMuu
+
+Time : 16:06:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' RLIKE (SELECT (CASE WHEN (3961=3691) THEN 10074 ELSE 0x28 END)) AND 'BCyo' LIK' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' RLIKE (SELECT (CASE WHEN (3961=3691) THEN 10074 ELSE 0x28 END)) AND 'BCyo' LIKE 'BCyo
+
+Time : 16:06:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ((('QmN' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074'))) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ((('QmNO' LIKE 'QmNO
+
+Time : 16:06:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) RLIKE (SELECT (CASE WHEN (9811=9072) THEN 10074 ELSE 0x28 END)) AND ((('OfH' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074'))) RLIKE (SELECT (CASE WHEN (9811=9072) THEN 10074 ELSE 0x28 END)) AND ((('OfHO' LIKE 'OfHO
+
+Time : 16:06:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND (('yAAw'' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND (('yAAw' LIKE 'yAAw
+
+Time : 16:06:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) RLIKE (SELECT (CASE WHEN (7850=2000) THEN 10074 ELSE 0x28 END)) AND (('gdGf'' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) RLIKE (SELECT (CASE WHEN (7850=2000) THEN 10074 ELSE 0x28 END)) AND (('gdGf' LIKE 'gdGf
+
+Time : 16:06:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ('FHSM' L' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ('FHSM' LIKE 'FHSM
+
+Time : 16:06:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') RLIKE (SELECT (CASE WHEN (2568=6356) THEN 10074 ELSE 0x28 END)) AND ('QwJT' L' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') RLIKE (SELECT (CASE WHEN (2568=6356) THEN 10074 ELSE 0x28 END)) AND ('QwJT' LIKE 'QwJT
+
+Time : 16:06:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND 'Znmi'='Zn' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND 'Znmi'='Znmi
+
+Time : 16:06:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' RLIKE (SELECT (CASE WHEN (4496=4979) THEN 10074 ELSE 0x28 END)) AND 'hCVT'='hC' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' RLIKE (SELECT (CASE WHEN (4496=4979) THEN 10074 ELSE 0x28 END)) AND 'hCVT'='hCVT
+
+Time : 16:06:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ((('CVY' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074'))) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ((('CVYD'='CVYD
+
+Time : 16:06:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) RLIKE (SELECT (CASE WHEN (4527=8400) THEN 10074 ELSE 0x28 END)) AND ((('HSr' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074'))) RLIKE (SELECT (CASE WHEN (4527=8400) THEN 10074 ELSE 0x28 END)) AND ((('HSrl'='HSrl
+
+Time : 16:06:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND (('EulQ'' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND (('EulQ'='EulQ
+
+Time : 16:06:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) RLIKE (SELECT (CASE WHEN (7047=6405) THEN 10074 ELSE 0x28 END)) AND (('qAGD'' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) RLIKE (SELECT (CASE WHEN (7047=6405) THEN 10074 ELSE 0x28 END)) AND (('qAGD'='qAGD
+
+Time : 16:06:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ('mitS'='' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ('mitS'='mitS
+
+Time : 16:06:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') RLIKE (SELECT (CASE WHEN (9507=4590) THEN 10074 ELSE 0x28 END)) AND ('YeOC'='' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') RLIKE (SELECT (CASE WHEN (9507=4590) THEN 10074 ELSE 0x28 END)) AND ('YeOC'='YeOC
+
+Time : 16:06:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END))-- xfes' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END))-- xfes
+
+Time : 16:06:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" RLIKE (SELECT (CASE WHEN (6533=8132) THEN 10074 ELSE 0x28 END))-- HsLz' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" RLIKE (SELECT (CASE WHEN (6533=8132) THEN 10074 ELSE 0x28 END))-- HsLz
+
+Time : 16:06:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END))-- yCIo' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END))-- yCIo
+
+Time : 16:06:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' RLIKE (SELECT (CASE WHEN (8763=8338) THEN 10074 ELSE 0x28 END))-- MWXW' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' RLIKE (SELECT (CASE WHEN (8763=8338) THEN 10074 ELSE 0x28 END))-- MWXW
+
+Time : 16:06:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END))-- iSJF' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END))-- iSJF
+
+Time : 16:06:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') RLIKE (SELECT (CASE WHEN (4646=1905) THEN 10074 ELSE 0x28 END))-- wXLv' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') RLIKE (SELECT (CASE WHEN (4646=1905) THEN 10074 ELSE 0x28 END))-- wXLv
+
+Time : 16:06:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 9730=9730 RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074`) WHERE 9730=9730 RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END))-- RUzH
+
+Time : 16:06:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 3300=3300 RLIKE (SELECT (CASE WHEN (3196=4769) THEN 10074 ELSE 0x28 END' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074`) WHERE 3300=3300 RLIKE (SELECT (CASE WHEN (3196=4769) THEN 10074 ELSE 0x28 END))-- YIAu
+
+Time : 16:06:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 7457=7457 RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074` WHERE 7457=7457 RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END))-- AIHT
+
+Time : 16:06:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 3228=3228 RLIKE (SELECT (CASE WHEN (9716=1716) THEN 10074 ELSE 0x28 END)' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074` WHERE 3228=3228 RLIKE (SELECT (CASE WHEN (9716=1716) THEN 10074 ELSE 0x28 END))-- cBOA
+
+Time : 16:06:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS TPca WHERE 9259=9259 RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AS TPca WHERE 9259=9259 RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END))-- JrGT
+
+Time : 16:06:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS PeRU WHERE 1067=1067 RLIKE (SELECT (CASE WHEN (2568=8258) THEN 10074 ELSE 0' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AS PeRU WHERE 1067=1067 RLIKE (SELECT (CASE WHEN (2568=8258) THEN 10074 ELSE 0x28 END))-- yHrD
+
+Time : 16:06:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS AdoR WHERE 8620=8620 RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) AS AdoR WHERE 8620=8620 RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END))-- xANc
+
+Time : 16:06:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS kYLj WHERE 7797=7797 RLIKE (SELECT (CASE WHEN (8128=4309) THEN 10074 ELSE ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) AS kYLj WHERE 7797=7797 RLIKE (SELECT (CASE WHEN (8128=4309) THEN 10074 ELSE 0x28 END))-- vSsi
+
+Time : 16:06:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND (((5437=' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074))) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND (((5437=5437
+
+Time : 16:06:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) RLIKE (SELECT (CASE WHEN (3727=6892) THEN 10074 ELSE 0x28 END)) AND (((7745=' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074))) RLIKE (SELECT (CASE WHEN (3727=6892) THEN 10074 ELSE 0x28 END)) AND (((7745=7745
+
+Time : 16:06:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ((2058=20' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND ((2058=2058
+
+Time : 16:06:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) RLIKE (SELECT (CASE WHEN (1504=6468) THEN 10074 ELSE 0x28 END)) AND ((3589=35' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) RLIKE (SELECT (CASE WHEN (1504=6468) THEN 10074 ELSE 0x28 END)) AND ((3589=3589
+
+Time : 16:06:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND (9235=9235' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END)) AND (9235=9235
+
+Time : 16:06:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') RLIKE (SELECT (CASE WHEN (9206=9456) THEN 10074 ELSE 0x28 END)) AND (4754=4754' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) RLIKE (SELECT (CASE WHEN (9206=9456) THEN 10074 ELSE 0x28 END)) AND (4754=4754
+
+Time : 16:06:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END))-- yxEa' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) RLIKE (SELECT (CASE WHEN (3467=3467) THEN 10074 ELSE 0x28 END))-- yxEa
+
+Time : 16:06:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') RLIKE (SELECT (CASE WHEN (1628=1509) THEN 10074 ELSE 0x28 END))-- Izaf' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) RLIKE (SELECT (CASE WHEN (1628=1509) THEN 10074 ELSE 0x28 END))-- Izaf
+
+Time : 16:06:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' IN BOOLEAN MODE) OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' IN BOOLEAN MODE) OR NOT 1191=1191#
+
+Time : 16:06:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' IN BOOLEAN MODE) OR NOT 1643=4005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' IN BOOLEAN MODE) OR NOT 1643=4005#
+
+Time : 16:06:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS LbEl WHERE 9997=9997 OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") AS LbEl WHERE 9997=9997 OR NOT 1191=1191#
+
+Time : 16:06:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS jtbS WHERE 6426=6426 OR NOT 2234=7624#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") AS jtbS WHERE 6426=6426 OR NOT 2234=7624#
+
+Time : 16:06:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS pLhG WHERE 4179=4179 OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AS pLhG WHERE 4179=4179 OR NOT 1191=1191#
+
+Time : 16:06:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS vKuI WHERE 7201=7201 OR NOT 9808=5977#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AS vKuI WHERE 7201=7201 OR NOT 9808=5977#
+
+Time : 16:06:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS XXKI WHERE 8645=8645 OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) AS XXKI WHERE 8645=8645 OR NOT 1191=1191#
+
+Time : 16:06:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS byfN WHERE 8246=8246 OR NOT 2297=5666#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) AS byfN WHERE 8246=8246 OR NOT 2297=5666#
+
+Time : 16:06:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS boLr WHERE 2117=2117 OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) AS boLr WHERE 2117=2117 OR NOT 1191=1191#
+
+Time : 16:06:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS GUYZ WHERE 3095=3095 OR NOT 7170=3784#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) AS GUYZ WHERE 3095=3095 OR NOT 7170=3784#
+
+Time : 16:06:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%" OR NOT 1191=1191#
+
+Time : 16:06:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR NOT 5205=1734#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%" OR NOT 5205=1734#
+
+Time : 16:06:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%"))) OR NOT 1191=1191#
+
+Time : 16:06:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR NOT 8120=2575#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%"))) OR NOT 8120=2575#
+
+Time : 16:06:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%")) OR NOT 1191=1191#
+
+Time : 16:06:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR NOT 1009=2799#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%")) OR NOT 1009=2799#
+
+Time : 16:06:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%") OR NOT 1191=1191#
+
+Time : 16:06:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR NOT 8794=4307#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%") OR NOT 8794=4307#
+
+Time : 16:06:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%' OR NOT 1191=1191#
+
+Time : 16:06:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR NOT 4675=7866#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%' OR NOT 4675=7866#
+
+Time : 16:06:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%'))) OR NOT 1191=1191#
+
+Time : 16:06:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR NOT 2602=2268#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%'))) OR NOT 2602=2268#
+
+Time : 16:06:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%')) OR NOT 1191=1191#
+
+Time : 16:06:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR NOT 1710=1931#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%')) OR NOT 1710=1931#
+
+Time : 16:06:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%') OR NOT 1191=1191#
+
+Time : 16:06:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR NOT 7640=8306#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%') OR NOT 7640=8306#
+
+Time : 16:06:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074"))) OR NOT 1191=1191#
+
+Time : 16:06:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR NOT 2183=7772#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074"))) OR NOT 2183=7772#
+
+Time : 16:06:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) OR NOT 1191=1191#
+
+Time : 16:06:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR NOT 9132=9795#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) OR NOT 9132=9795#
+
+Time : 16:06:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") OR NOT 1191=1191#
+
+Time : 16:06:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR NOT 5564=6580#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") OR NOT 5564=6580#
+
+Time : 16:06:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074'))) OR NOT 1191=1191#
+
+Time : 16:06:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR NOT 4748=5955#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074'))) OR NOT 4748=5955#
+
+Time : 16:06:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) OR NOT 1191=1191#
+
+Time : 16:06:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR NOT 6614=9560#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) OR NOT 6614=9560#
+
+Time : 16:06:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" OR NOT 1191=1191#
+
+Time : 16:06:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR NOT 1301=1925#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" OR NOT 1301=1925#
+
+Time : 16:06:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' OR NOT 1191=1191#
+
+Time : 16:06:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR NOT 2389=6788#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' OR NOT 2389=6788#
+
+Time : 16:06:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') OR NOT 1191=1191#
+
+Time : 16:06:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR NOT 9671=2924#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') OR NOT 9671=2924#
+
+Time : 16:06:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 9784=9784 OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074`) WHERE 9784=9784 OR NOT 1191=1191#
+
+Time : 16:06:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 4595=4595 OR NOT 2515=8248#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074`) WHERE 4595=4595 OR NOT 2515=8248#
+
+Time : 16:06:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 5888=5888 OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074` WHERE 5888=5888 OR NOT 1191=1191#
+
+Time : 16:06:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 3113=3113 OR NOT 1193=5782#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074` WHERE 3113=3113 OR NOT 1193=5782#
+
+Time : 16:06:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS xhVN WHERE 5619=5619 OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AS xhVN WHERE 5619=5619 OR NOT 1191=1191#
+
+Time : 16:06:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS ADlK WHERE 3837=3837 OR NOT 6205=7980#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AS ADlK WHERE 3837=3837 OR NOT 6205=7980#
+
+Time : 16:06:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS ZUdh WHERE 9385=9385 OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) AS ZUdh WHERE 9385=9385 OR NOT 1191=1191#
+
+Time : 16:06:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS bXXr WHERE 2724=2724 OR NOT 4552=7880#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) AS bXXr WHERE 2724=2724 OR NOT 4552=7880#
+
+Time : 16:05:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074))) OR NOT 1191=1191#
+
+Time : 16:05:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) OR NOT 9595=9358#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074))) OR NOT 9595=9358#
+
+Time : 16:05:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) OR NOT 1191=1191#
+
+Time : 16:05:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR NOT 6768=9853#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) OR NOT 6768=9853#
+
+Time : 16:05:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR NOT 1191=1191#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) OR NOT 1191=1191#
+
+Time : 16:05:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR NOT 4148=7415#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) OR NOT 4148=7415#
+
+Time : 16:05:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS mVcm WHERE 1473=1473 OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6456") AS mVcm WHERE 1473=1473 OR 7125=7125#
+
+Time : 16:05:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS PKMU WHERE 6633=6633 OR 7046=7896#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7184") AS PKMU WHERE 6633=6633 OR 7046=7896#
+
+Time : 16:05:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS shAW WHERE 8061=8061 OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1968') AS shAW WHERE 8061=8061 OR 7125=7125#
+
+Time : 16:05:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS FPBs WHERE 6643=6643 OR 2436=8012#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6254') AS FPBs WHERE 6643=6643 OR 2436=8012#
+
+Time : 16:05:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS warv WHERE 9497=9497 OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-2219")) AS warv WHERE 9497=9497 OR 7125=7125#
+
+Time : 16:05:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS ZssO WHERE 1236=1236 OR 6190=4219#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-8106")) AS ZssO WHERE 1236=1236 OR 6190=4219#
+
+Time : 16:05:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS Ueah WHERE 3753=3753 OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7269')) AS Ueah WHERE 3753=3753 OR 7125=7125#
+
+Time : 16:05:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS KlrP WHERE 4705=4705 OR 2251=6252#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-2127')) AS KlrP WHERE 4705=4705 OR 2251=6252#
+
+Time : 16:05:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3726%" OR 7125=7125#
+
+Time : 16:05:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR 3778=5467#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1962%" OR 3778=5467#
+
+Time : 16:05:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-4738%"))) OR 7125=7125#
+
+Time : 16:05:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR 8549=7745#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7571%"))) OR 8549=7745#
+
+Time : 16:05:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3394%")) OR 7125=7125#
+
+Time : 16:05:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR 2340=8117#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7042%")) OR 2340=8117#
+
+Time : 16:05:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-8924%") OR 7125=7125#
+
+Time : 16:05:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR 5686=5558#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3764%") OR 5686=5558#
+
+Time : 16:05:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7209%' OR 7125=7125#
+
+Time : 16:05:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR 1169=7744#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9864%' OR 1169=7744#
+
+Time : 16:05:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-2522%'))) OR 7125=7125#
+
+Time : 16:05:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR 9347=1244#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9415%'))) OR 9347=1244#
+
+Time : 16:05:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7205%')) OR 7125=7125#
+
+Time : 16:05:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR 6036=9760#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-5362%')) OR 6036=9760#
+
+Time : 16:05:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1291%') OR 7125=7125#
+
+Time : 16:05:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR 9114=8081#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7222%') OR 9114=8081#
+
+Time : 16:05:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-8220" OR 7125=7125#
+
+Time : 16:05:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR 6862=1880#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-5438" OR 6862=1880#
+
+Time : 16:05:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9940"))) OR 7125=7125#
+
+Time : 16:05:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR 8529=5430#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7430"))) OR 8529=5430#
+
+Time : 16:05:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-4030")) OR 7125=7125#
+
+Time : 16:05:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR 8706=9967#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-4132")) OR 8706=9967#
+
+Time : 16:05:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1716") OR 7125=7125#
+
+Time : 16:05:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR 8400=2277#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6084") OR 8400=2277#
+
+Time : 16:05:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1980" OR 7125=7125#
+
+Time : 16:05:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR 8085=6282#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-8232" OR 8085=6282#
+
+Time : 16:05:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3839"))) OR 7125=7125#
+
+Time : 16:05:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR 1844=1778#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-4689"))) OR 1844=1778#
+
+Time : 16:05:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-2094")) OR 7125=7125#
+
+Time : 16:05:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR 6576=2307#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3720")) OR 6576=2307#
+
+Time : 16:05:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7424") OR 7125=7125#
+
+Time : 16:05:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR 3857=3175#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9175") OR 3857=3175#
+
+Time : 16:05:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3323' OR 7125=7125#
+
+Time : 16:05:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR 3564=6378#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3594' OR 3564=6378#
+
+Time : 16:05:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6671'))) OR 7125=7125#
+
+Time : 16:05:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR 8300=6057#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1944'))) OR 8300=6057#
+
+Time : 16:05:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-8766')) OR 7125=7125#
+
+Time : 16:05:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR 2255=5273#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7614')) OR 2255=5273#
+
+Time : 16:05:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7822') OR 7125=7125#
+
+Time : 16:05:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR 2356=6145#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9018') OR 2356=6145#
+
+Time : 16:05:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3096' OR 7125=7125#
+
+Time : 16:05:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR 5909=7880#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6162' OR 5909=7880#
+
+Time : 16:05:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9899'))) OR 7125=7125#
+
+Time : 16:05:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR 9661=6645#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9976'))) OR 9661=6645#
+
+Time : 16:05:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1516')) OR 7125=7125#
+
+Time : 16:05:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR 5760=7840#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-2963')) OR 5760=7840#
+
+Time : 16:05:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6420') OR 7125=7125#
+
+Time : 16:05:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR 8197=5674#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-5659') OR 8197=5674#
+
+Time : 16:05:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-2285" OR 7125=7125#
+
+Time : 16:05:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR 2380=9374#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3199" OR 2380=9374#
+
+Time : 16:05:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-8942' OR 7125=7125#
+
+Time : 16:05:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR 5294=5184#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-2371' OR 5294=5184#
+
+Time : 16:05:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9531') OR 7125=7125#
+
+Time : 16:05:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR 6395=1436#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-4961') OR 6395=1436#
+
+Time : 16:05:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS xiuc WHERE 2786=2786 OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3112) AS xiuc WHERE 2786=2786 OR 7125=7125#
+
+Time : 16:05:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS uAox WHERE 9969=9969 OR 5558=3931#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9293) AS uAox WHERE 9969=9969 OR 5558=3931#
+
+Time : 16:05:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS fhFK WHERE 6049=6049 OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-3842)) AS fhFK WHERE 6049=6049 OR 7125=7125#
+
+Time : 16:05:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS pcQQ WHERE 1548=1548 OR 6598=7199#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-8536)) AS pcQQ WHERE 1548=1548 OR 6598=7199#
+
+Time : 16:05:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-9097))) OR 7125=7125#
+
+Time : 16:05:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) OR 8028=8385#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7065))) OR 8028=8385#
+
+Time : 16:05:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-4527)) OR 7125=7125#
+
+Time : 16:05:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR 4401=8308#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-4851)) OR 4401=8308#
+
+Time : 16:05:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-7264) OR 7125=7125#
+
+Time : 16:05:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR 1336=7942#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1433) OR 1336=7942#
+
+Time : 16:05:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR 7125=7125#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-6769) OR 7125=7125#
+
+Time : 16:05:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR 3475=1018#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=-1590) OR 3475=1018#
+
+Time : 16:05:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' IN BOOLEAN MODE) AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' IN BOOLEAN MODE) AND 9005=9005#
+
+Time : 16:05:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' IN BOOLEAN MODE) AND 4773=6572#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' IN BOOLEAN MODE) AND 4773=6572#
+
+Time : 16:05:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS Rrte WHERE 9954=9954 AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") AS Rrte WHERE 9954=9954 AND 9005=9005#
+
+Time : 16:05:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS MgxD WHERE 2342=2342 AND 7144=3357#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") AS MgxD WHERE 2342=2342 AND 7144=3357#
+
+Time : 16:05:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS jyEq WHERE 7376=7376 AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AS jyEq WHERE 7376=7376 AND 9005=9005#
+
+Time : 16:05:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS HHNl WHERE 2333=2333 AND 8915=5788#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AS HHNl WHERE 2333=2333 AND 8915=5788#
+
+Time : 16:05:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS Jckh WHERE 2999=2999 AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) AS Jckh WHERE 2999=2999 AND 9005=9005#
+
+Time : 16:05:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS ISAW WHERE 3914=3914 AND 2192=9671#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) AS ISAW WHERE 3914=3914 AND 2192=9671#
+
+Time : 16:05:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS Pvys WHERE 2007=2007 AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) AS Pvys WHERE 2007=2007 AND 9005=9005#
+
+Time : 16:05:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS feoE WHERE 5495=5495 AND 8390=1471#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) AS feoE WHERE 5495=5495 AND 8390=1471#
+
+Time : 16:05:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%" AND 9005=9005#
+
+Time : 16:05:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND 6792=9112#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%" AND 6792=9112#
+
+Time : 16:05:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%"))) AND 9005=9005#
+
+Time : 16:05:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND 5891=3174#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%"))) AND 5891=3174#
+
+Time : 16:05:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%")) AND 9005=9005#
+
+Time : 16:05:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND 6969=3729#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%")) AND 6969=3729#
+
+Time : 16:05:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%") AND 9005=9005#
+
+Time : 16:05:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND 1059=8383#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%") AND 1059=8383#
+
+Time : 16:05:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%' AND 9005=9005#
+
+Time : 16:05:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND 5104=9557#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%' AND 5104=9557#
+
+Time : 16:05:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%'))) AND 9005=9005#
+
+Time : 16:05:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND 8181=6193#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%'))) AND 8181=6193#
+
+Time : 16:05:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%')) AND 9005=9005#
+
+Time : 16:05:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND 4854=9533#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%')) AND 4854=9533#
+
+Time : 16:05:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%') AND 9005=9005#
+
+Time : 16:05:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND 9639=7153#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074%') AND 9639=7153#
+
+Time : 16:05:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074"))) AND 9005=9005#
+
+Time : 16:05:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND 8992=7135#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074"))) AND 8992=7135#
+
+Time : 16:05:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) AND 9005=9005#
+
+Time : 16:05:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND 4192=4796#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074")) AND 4192=4796#
+
+Time : 16:05:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") AND 9005=9005#
+
+Time : 16:04:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND 1847=3207#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074") AND 1847=3207#
+
+Time : 16:04:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074'))) AND 9005=9005#
+
+Time : 16:04:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND 2776=5981#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074'))) AND 2776=5981#
+
+Time : 16:04:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) AND 9005=9005#
+
+Time : 16:04:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND 9685=7538#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074')) AND 9685=7538#
+
+Time : 16:04:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" AND 9005=9005#
+
+Time : 16:04:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND 7433=7277#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074" AND 7433=7277#
+
+Time : 16:04:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' AND 9005=9005#
+
+Time : 16:04:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND 7832=4163#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' AND 7832=4163#
+
+Time : 16:04:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AND 9005=9005#
+
+Time : 16:04:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND 2359=5205#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AND 2359=5205#
+
+Time : 16:04:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 5972=5972 AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074`) WHERE 5972=5972 AND 9005=9005#
+
+Time : 16:04:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 9167=9167 AND 2165=2486#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074`) WHERE 9167=9167 AND 2165=2486#
+
+Time : 16:04:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 5328=5328 AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074` WHERE 5328=5328 AND 9005=9005#
+
+Time : 16:04:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 1022=1022 AND 5235=5524#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074` WHERE 1022=1022 AND 5235=5524#
+
+Time : 16:04:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS EYlF WHERE 4032=4032 AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AS EYlF WHERE 4032=4032 AND 9005=9005#
+
+Time : 16:04:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS XiDp WHERE 1856=1856 AND 9119=4211#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AS XiDp WHERE 1856=1856 AND 9119=4211#
+
+Time : 16:04:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS PZyr WHERE 2151=2151 AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) AS PZyr WHERE 2151=2151 AND 9005=9005#
+
+Time : 16:04:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AS wbev WHERE 3450=3450 AND 6187=6471#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) AS wbev WHERE 3450=3450 AND 6187=6471#
+
+Time : 16:04:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074))) AND 9005=9005#
+
+Time : 16:04:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '))) AND 4450=3695#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074))) AND 4450=3695#
+
+Time : 16:04:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) AND 9005=9005#
+
+Time : 16:04:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND 1743=3264#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074)) AND 1743=3264#
+
+Time : 16:04:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND 9005=9005#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AND 9005=9005#
+
+Time : 16:04:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND 1682=4214#' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AND 1682=4214#
+
+Time : 16:04:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND 8823=8823 AND 'NOmN'='NOmN' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' AND 8823=8823 AND 'NOmN'='NOmN
+
+Time : 16:04:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND 1200=3875 AND 'PmFV'='PmFV' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074' AND 1200=3875 AND 'PmFV'='PmFV
+
+Time : 16:04:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND 8823=8823 AND ('HJHN'='HJHN' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AND 8823=8823 AND ('HJHN'='HJHN
+
+Time : 16:04:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND 4281=8995 AND ('lKeh'='lKeh' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074') AND 4281=8995 AND ('lKeh'='lKeh
+
+Time : 16:04:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND 8823=8823 AND (7668=7668' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AND 8823=8823 AND (7668=7668
+
+Time : 16:04:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND 9838=2283 AND (6073=6073' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074) AND 9838=2283 AND (6073=6073
+
+Time : 16:04:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''awCbFN<'">hGzqxQ' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074'awCbFN<'">hGzqxQ
+
+Time : 16:04:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.)))"(').' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=10074,.)))"(').

@@ -1,0 +1,47 @@
+Time : 21:11:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 17:56:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'partidos cártel” y tiene como consecuencia que el financiamiento de las campa' at line 1
+Raw SQL : CALL insertar('nacional','','chihuahua1','Morena propone iniciativa para reducir al 50% prerrogativas de partidos ','morena.jpg','El partido Morena formalizó ante el Congreso de la Unión su iniciativa de reforma a la Constitución Política para recortar en 50 por ciento el financiamiento público a los partidos políticos, con lo cual se lograrían ahorros por más de dos mil 350 millones de pesos
+
+','','La propuesta plantea que para  2019 los recursos a los institutos políticos para su gasto de operación regular estimados en 4 mil 713 millones de pesos se reduzcan a 2 mil 356 millones de pesos.
+
+En  la exposición de motivos,  el diputado de MORENA, Juan Romero Tenorio, explica que el “objetivo de esta reforma es recomponer el sistema de financiamiento público de la democracia electoral y esto pasa necesariamente por reducir los montos de los gastos permanentes de los partidos políticos, disminuyendo a su vez el costo excesivo de las campañas”.
+
+','','"No queremos los mil 500 millones que nos corresponderían para el próximo año, por eso en congruencia, planteamos disminuirlo a la mitad para todos",  demandó
+
+','','En tribuna, la también diputada de MORENA,  Alicia Barrientos, explicó que se trata de desmontar un sistema de financiamiento de los partidos que propicia “'partidos cártel” y tiene como consecuencia que el financiamiento de las campañas se haya vuelto perverso, generando adicción al dinero. ','','','','')
+
+Time : 17:55:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'partidos cártel” y tiene como consecuencia que el financiamiento de las campa' at line 1
+Raw SQL : CALL insertar('nacional','','nacionalprincipal','Morena propone iniciativa para reducir al 50% prerrogativas de partidos ','morena.jpg','El partido Morena formalizó ante el Congreso de la Unión su iniciativa de reforma a la Constitución Política para recortar en 50 por ciento el financiamiento público a los partidos políticos, con lo cual se lograrían ahorros por más de dos mil 350 millones de pesos
+
+','','La propuesta plantea que para  2019 los recursos a los institutos políticos para su gasto de operación regular estimados en 4 mil 713 millones de pesos se reduzcan a 2 mil 356 millones de pesos.
+
+En  la exposición de motivos,  el diputado de MORENA, Juan Romero Tenorio, explica que el “objetivo de esta reforma es recomponer el sistema de financiamiento público de la democracia electoral y esto pasa necesariamente por reducir los montos de los gastos permanentes de los partidos políticos, disminuyendo a su vez el costo excesivo de las campañas”.
+
+','','"No queremos los mil 500 millones que nos corresponderían para el próximo año, por eso en congruencia, planteamos disminuirlo a la mitad para todos",  demandó
+
+','','En tribuna, la también diputada de MORENA,  Alicia Barrientos, explicó que se trata de desmontar un sistema de financiamiento de los partidos que propicia “'partidos cártel” y tiene como consecuencia que el financiamiento de las campañas se haya vuelto perverso, generando adicción al dinero. ','','','','')
+
+Time : 17:54:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'partidos cártel” y tiene como consecuencia que el financiamiento de las campa' at line 1
+Raw SQL : CALL insertar('nacional','','nacionalprincipal','Morena propone iniciativa para reducir al 50% prerrogativas de partidos ','morena.jpg','El partido Morena formalizó ante el Congreso de la Unión su iniciativa de reforma a la Constitución Política para recortar en 50 por ciento el financiamiento público a los partidos políticos, con lo cual se lograrían ahorros por más de dos mil 350 millones de pesos
+
+','','La propuesta plantea que para  2019 los recursos a los institutos políticos para su gasto de operación regular estimados en 4 mil 713 millones de pesos se reduzcan a 2 mil 356 millones de pesos.
+
+En  la exposición de motivos,  el diputado de MORENA, Juan Romero Tenorio, explica que el “objetivo de esta reforma es recomponer el sistema de financiamiento público de la democracia electoral y esto pasa necesariamente por reducir los montos de los gastos permanentes de los partidos políticos, disminuyendo a su vez el costo excesivo de las campañas”.
+
+','','"No queremos los mil 500 millones que nos corresponderían para el próximo año, por eso en congruencia, planteamos disminuirlo a la mitad para todos",  demandó
+
+','','En tribuna, la también diputada de MORENA,  Alicia Barrientos, explicó que se trata de desmontar un sistema de financiamiento de los partidos que propicia “'partidos cártel” y tiene como consecuencia que el financiamiento de las campañas se haya vuelto perverso, generando adicción al dinero. ','','','','')
+
+Time : 16:10:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 11:46:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

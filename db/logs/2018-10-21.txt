@@ -1,0 +1,15 @@
+Time : 20:38:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 04:15:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'vulnerable --> MySQL Classic/templates/system/css/system.css' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11685 is vulnerable --> MySQL Classic/templates/system/css/system.css
+
+Time : 04:15:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'vulnerable --> MySQL Classic/admin/login.php' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11685 is vulnerable --> MySQL Classic/admin/login.php
+
+Time : 04:15:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'vulnerable --> MySQL Classic/admin/images/cal_date_over.gif' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=11685 is vulnerable --> MySQL Classic/admin/images/cal_date_over.gif

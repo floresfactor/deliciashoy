@@ -1,0 +1,267 @@
+Time : 08:50:35
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:49:45
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+Raw SQL : SELECT * FROM noticias order by date desc limit 15
+
+Time : 08:44:24
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:41:17
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:38:30
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:38:18
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:36:25
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:35:33
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:33:08
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:31:35
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:27:55
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:22:42
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:18:14
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:18:04
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:17:29
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:16:49
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:12:16
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:07:44
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:06:40
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 08:01:50
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:56:37
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:55:36
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:53:12
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:52:23
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:50:00
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:49:56
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:49:21
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:48:33
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:46:11
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:44:26
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:41:03
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:40:58
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:35:45
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:34:36
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:31:59
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:31:20
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:30:32
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:26:53
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:26:20
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:26:09
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:26:00
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:25:49
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:25:38
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:25:29
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:25:01
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:23:47
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+Raw SQL : SELECT * FROM noticias WHERE ubicacion = 'nacionalprincipal' ORDER BY date DESC LIMIT 0,1
+
+Time : 07:20:06
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:15:51
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:15:27
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:14:58
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:14:40
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:14:24
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:12:41
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:10:42
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:04:28
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:04:12
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:04:06
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 07:04:05
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:59:13
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:58:32
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:57:21
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:56:25
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:55:02
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:54:47
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:54:00
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:51:48
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:51:41
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:51:04
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:50:55
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:50:25
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:49:44
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:48:30
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:40:38
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:39:53
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+Raw SQL : SELECT * FROM noticias WHERE ubicacion = 'delicias3' ORDER BY date DESC LIMIT 0,1
+
+Time : 06:39:53
+SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+Raw SQL : SELECT * FROM noticias WHERE DATE > NOW() - INTERVAL 3 DAY ORDER BY VISITAS DESC LIMIT 10
+
+Time : 06:39:05
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:38:46
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:38:35
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:38:12
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:38:05
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:37:42
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:37:35
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:37:05
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 06:36:09
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 05:09:40
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 05:07:41
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:23:20
+SQLSTATE[HY000] [2002] Connection timed out
+
+Time : 04:22:42
+SQLSTATE[HY000] [2002] Connection timed out
